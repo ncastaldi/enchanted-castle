@@ -1,0 +1,457 @@
+# 439 literal strings recovered from EC.COM
+# 'Write' = printed to screen at this call site (sub_295d)
+# 'PushStr' = passed as a string constant argument to a routine (sub_11e5)
+# Ordered by position in the file (roughly mirrors source-code order for a
+# single-pass Pascal compiler).
+
+0x36d4  [Write   ] handsome prince.   
+0x372f  [Write   ] Hit any key to display subsequent screens of instructions.
+0x3801  [PushStr ] Would you like instructions?
+0x3879  [PushStr ] Your initials:
+0x3919  [PushStr ] princess
+0x3938  [PushStr ] prince
+0x3963  [PushStr ] PERSONAE
+0x3a0e  [PushStr ] What is your sex?
+0x3a9a  [PushStr ] Disk full -- your initials will not be remembered.
+0x3c24  [PushStr ] abra
+0x3c41  [PushStr ] sham
+0x3c5e  [PushStr ] alacka
+0x3c7d  [PushStr ] tra
+0x3c99  [PushStr ] yri
+0x3cbf  [PushStr ] bala
+0x3ce6  [PushStr ] zam
+0x3d0c  [PushStr ] baba
+0x3d33  [PushStr ] bree
+0x3d5a  [PushStr ] goo
+0x3dc0  [PushStr ] hrsikesa
+0x3de1  [PushStr ] acyuta
+0x3e00  [PushStr ] madhava
+0x3e20  [PushStr ] varsneya
+0x3e41  [PushStr ] prabho
+0x3e60  [PushStr ] visnu
+0x3e7e  [PushStr ] idyam
+0x3e9c  [PushStr ] pandava
+0x3ebc  [PushStr ] partha
+0x3edb  [PushStr ] anagha
+0x3efa  [PushStr ] bharata
+0x4327  [Write   ]  grimy water
+0x4345  [Write   ]  champagne
+0x4366  [Write   ]  mineral water
+0x439a  [Write   ]  green
+0x43b2  [Write   ]  cyan
+0x43c9  [Write   ]  red
+0x43df  [Write   ]  magenta
+0x43f9  [Write   ]  brown
+0x4411  [Write   ]  white
+0x4424  [Write   ]  liquid
+0x443d  [Write   ]  wine
+0x449b  [PushStr ] wate
+0x44ae  [PushStr ] grim
+0x44d1  [PushStr ] cham
+0x44f6  [PushStr ] wate
+0x4509  [PushStr ] mine
+0x452c  [PushStr ] liqu
+0x454c  [PushStr ] wine
+0x45f3  [PushStr ] You are carrying too much.
+0x4850  [Write   ] KABOOM!
+0x4886  [Write   ] You have gone up in a gigantic explosion!
+0x496f  [Write   ] Gasp!  You've been poisoned by the lethal breath of the basilisk!
+0x49c5  [Write   ] GRAB!  The Zimbu caught you!  It grinds your frail bones into the ground with   its gigantic feet!
+0x4a45  [Write   ] Ok.
+0x4a5d  [PushStr ] There doesn't seem to be any way to do that here.
+0x4aa8  [PushStr ] That simply cannot be done!
+0x4add  [PushStr ] You've done that!
+0x4b08  [PushStr ] That makes no sense.
+0x4b39  [Write   ] Nothing happens.
+0x4ecb  [PushStr ] inventory
+0x50b5  [PushStr ]  what?
+0x5144  [PushStr ]  the 
+0x517b  [PushStr ]  a 
+0x51b0  [PushStr ]  to 
+0x52c9  [PushStr ] cruc
+0x5301  [PushStr ] bomb
+0x531e  [PushStr ] star
+0x54cf  [Write   ] You have
+0x54e1  [Write   ] You find
+0x54ed  [PushStr ]  no 
+0x5531  [Write   ] It is completely dark
+0x556d  [Write   ] , except for a lighted passage to the east
+0x55e8  [Write   ]  up.
+0x55f6  [Write   ]  down.
+0x5626  [Write   ] " has been written on the wall in large letters.
+0x5675  [Write   ]  on   the right
+0x5696  [Write   ]  in   the middle
+0x56b8  [Write   ]  on   the left
+0x56cd  [Write   ]  appears safe.
+0x56fd  [Write   ]  "
+0x571b  [Write   ] ."
+0x573f  [Write   ] 
+
+
+0x5750  [Write   ] Habitant of castle gray,
+0x577c  [Write   ] Creeping thing in sober way,
+0x57ac  [Write   ] Visible sage mechanician,
+0x57d9  [Write   ] Skillfulest arithmetician.
+0x5815  [Write   ] 
+
+0x582e  [Write   ] 
+
+0x5834  [Write   ] "Listen!  In a dry, dark place beneath the earth lies a great power.  Give it
+0x5885  [Write   ] 
+
+0x588b  [Write   ] water and it tells you of a magic spell."
+0x58dd  [Write   ] 
+
+0x58e3  [Write   ] Your surroundings are scorched, the result of a large explosion.
+0x59ba  [Write   ] There 
+0x59d4  [Write   ] are 
+0x59e2  [Write   ] is 
+0x5ad0  [Write   ]  is
+0x5ada  [Write   ]  here.
+0x5b2d  [Write   ] You are 
+0x5b4a  [Write   ] .  
+0x5ce8  [PushStr ] Fierce dragons block your path!
+0x5d1e  [PushStr ] The troll will not let you pass.
+0x5d70  [PushStr ] The witches prevent you from coming near.
+0x5db0  [PushStr ] The door is locked.
+0x5dda  [PushStr ] The tiger will not let you pass.
+0x5e3b  [PushStr ] You can't go that way.
+0x5eb4  [PushStr ] The portcullis is down.
+0x5eda  [PushStr ] The drawbridge is up!
+0x5f68  [PushStr ] The door is closed.
+0x5f96  [PushStr ] The door is locked.
+0x607a  [PushStr ] It is too dark to figure directions.
+0x60d9  [PushStr ] You can't go that way.
+0x615b  [PushStr ] You will need some light to do that.
+0x6199  [PushStr ] The river is too treacherous here for that.
+0x6213  [PushStr ] You can't go back.
+0x626f  [PushStr ] through
+0x6287  [PushStr ] in
+0x6298  [Write   ] In what direction? 
+0x62e5  [Write   ] Splash!
+0x6306  [PushStr ] The room above is too far away.
+0x637b  [Write   ] Splat!
+0x63b3  [Write   ] You aren't carrying anything.
+0x64ab  [Write   ]  (which you are wearing)
+0x6519  [Write   ] The troll is free!  The ungrateful troll steals your keys and runs across the   bridge.
+0x65bb  [Write   ] None of your keys will
+0x65db  [Write   ] The key doesn't
+0x65f1  [Write   ]  fit the lock.
+0x662b  [PushStr ] It's not locked.
+0x66ba  [PushStr ] You don't have any keys!
+0x672d  [Write   ] " is a magic spell you can use to save your position in the game.
+0x6778  [Write   ] Each game state you save is identified by a name you choose for it.
+0x67c5  [Write   ] Use saved states in conjunction with the following commands:
+0x680b  [Write   ] 
+
+0x6811  [Write   ]    Restore:  restores you to a saved state.
+0x6846  [Write   ]    Delete:   deletes a saved state.
+0x6873  [Write   ]    States:   lists your saved states.
+0x68ad  [Write   ] A message reads "Dixisse me aliquando penituit, tacuisse nunquam."
+0x6904  [Write   ] The maps contain no further information.
+0x6964  [Write   ] A message (which certainly was not here before) reads "Property of The 
+0x69af  [Write   ] Branson  School."
+0x69cd  [Write   ] All the pages of the book are blank!
+0x6a16  [Write   ] The windlass won't budge, no matter how hard you try.
+0x6a75  [Write   ] It's locked.
+0x6a96  [PushStr ] book
+0x6add  [PushStr ] cage
+0x6af7  [PushStr ] The cages are rusted shut.
+0x6b20  [PushStr ] The cupboards are empty.
+0x6b52  [Write   ] The doors here are cemented shut.
+0x6b85  [PushStr ] This kind of window doesn't open.
+0x6bcb  [PushStr ] There is no apparent way to widen it.
+0x6c1e  [PushStr ] door
+0x6c2e  [PushStr ] Most castle doors do not require explicit opening -- just walk through them.
+0x6c89  [PushStr ] The 
+0x6c9b  [PushStr ]  cannot be opened.
+0x6cd5  [PushStr ] It's already open!
+0x6d0b  [PushStr ] The portcullis weighs several tons -- you couldn't possibly raise it yourself!
+0x6d7f  [Write   ] The Star Diamond shines within!  Perhaps it was dropped down the 
+0x6dc4  [Write   ] exhaust duct toavoid its falling into enemy hands.
+0x6e19  [Write   ] You have released a basilisk hiding in the closet!
+0x6f24  [PushStr ] flies
+0x6f3a  [PushStr ] That doesn't accomplish much.
+0x6f90  [PushStr ] The witches' pets are protected by magic spells!
+0x6ff1  [Write   ] Though boys throw stones at frogs in sport, the frogs do not die in sport,
+0x703f  [Write   ] 
+
+0x7045  [Write   ] but in earnest.
+0x7069  [Write   ] Your evil look gives you away.  As you come close, the 
+0x70b1  [Write   ]  runs to another
+0x70cb  [Write   ] part of the castle.
+0x7114  [Write   ] You have wounded the dragons severely!
+0x7144  [Write   ] Despite your efforts, the dragons burn your body to a crisp!
+0x71ac  [PushStr ] You can't kill dragons with secateurs!
+0x71e1  [PushStr ] You can't kill dragons with your bare hands!
+0x721f  [Write   ] One, two!  One, two!  The vorpal blade goes snicker-snack!
+0x725d  [Write   ] 
+
+0x7263  [Write   ] Many ugly dragons lie dead at your feet.
+0x72a9  [Write   ] The troll's armor-like skin protects it against your attacks.  
+0x72ec  [Write   ] He spatters you  with some of his waste in disgust.
+0x7331  [PushStr ] Don't try!  The witches could easily turn you into a toad!
+0x7385  [Write   ] The tiger nimbly dodges your attacks.
+0x7415  [Write   ] Snap!  The ropes shoot through the holes and a great crash is heard below!
+0x747b  [Write   ] Your clearing of the north wall reveals another door!
+0x74fe  [PushStr ] You have nothing sharp.
+0x7563  [Write   ] The sword jumps from your hands!
+0x75b6  [Write   ] You damage the 
+0x75d6  [Write   ] , but it accomplishes nothing.
+0x764f  [PushStr ] They're already burning.
+0x7679  [Write   ] It's already burning.
+0x77b2  [Write   ] The 
+0x77c7  [Write   ]  flares up brilliantly for a moment, then is gone.
+0x7834  [PushStr ] Water splashing on the bridge here makes that impossible.
+0x787f  [Write   ] The bridge is burning to cinders.  Passage is no longer possible.
+0x7923  [Write   ] The fireplace closes.
+0x7972  [Write   ] The flames rise to the ceiling!  If you do not leave you will be burned alive!
+0x79ca  [Write   ] Ouch!  A flame licks your hand and you hastily drop the torch.
+0x7a51  [PushStr ] rope
+0x7a71  [PushStr ] The 
+0x7a83  [PushStr ]  will not ignite.
+0x7b4e  [Write   ] The furnace has been inoperable for years.
+0x7b85  [Write   ] You find nothing to light.
+0x7bb9  [Write   ] The fireplace closes.
+0x7c3b  [PushStr ] There is nothing burning from which to light.
+0x7cc4  [PushStr ] The bridge is gone.
+0x7cf6  [Write   ] Crash!!  Your weight breaks the bridge and you drown in the river.
+0x7e3e  [Write   ] A golden key falls out of the mouth of the central unicorn!
+0x7ecd  [PushStr ] The flask is already full!
+0x7f50  [PushStr ] Don't bother.
+0x7fc6  [Write   ] As you touch the picture it moves up the western wall, revealing a long slide.  
+0x801a  [Write   ] If you go through, you might not be able to get back up.
+0x8092  [Write   ] Ow!  It bites you, then moves out of reach.
+0x80ce  [PushStr ] water____champagnemineral__grimy____wine
+0x8151  [PushStr ] You find no 
+0x8194  [PushStr ] hay
+0x81a8  [PushStr ] Don't bother.
+0x81d2  [PushStr ] You have no need for the 
+0x820b  [PushStr ] The 
+0x821d  [PushStr ]  cannot be removed.
+0x825e  [PushStr ] The 
+0x8270  [PushStr ]  is following you.
+0x82b1  [PushStr ] You already have them!
+0x82d6  [PushStr ] You already have it!
+0x831e  [PushStr ] You can't carry anything else.
+0x836d  [Write   ] The 
+0x8382  [Write   ]  will follow you.
+0x846c  [Write   ] The hay begins to burn fiercely!
+0x8545  [Write   ] Splat!
+0x856b  [Write   ] The 
+0x859d  [Write   ]  smashes
+0x85bc  [Write   ]  land
+0x85cb  [Write   ]  lands
+0x85d8  [Write   ]  on the terrace below.
+0x863b  [Write   ]  disappear
+0x8678  [Write   ]  into the 
+0x8696  [Write   ] pool.
+0x86a8  [Write   ] gloom.
+0x86fd  [Write   ] Splat!
+0x875e  [Write   ] The 
+0x8773  [Write   ]  drop
+0x8799  [Write   ]  down the opening and into a room far below.
+0x87e9  [Write   ] The statue cracks slightly as it hits the ground.
+0x882a  [PushStr ] You aren't carrying it!
+0x8995  [Write   ] Done!
+0x89bf  [Write   ] The floor shakes for a bit and then stops.  It seems that even Xceron is not
+0x8a0f  [Write   ] 
+
+0x8a15  [Write   ] powerful enough to widen the crack.
+0x8a52  [Write   ] The windlass shakes for a bit and then stops.  It seems that even Xceron is not
+0x8aa5  [Write   ] 
+
+0x8aab  [Write   ] powerful enough to turn it.
+0x8af9  [Write   ] The portcullis slowly rises!
+0x8b46  [PushStr ] You can't go in or out from here.  Please use compass directions.
+0x8bb1  [Write   ] You swim about lazily, getting nowhere.
+0x8c02  [PushStr ] Better get an asbestos swimsuit!
+0x8cb0  [PushStr ] You'll have to drop what you're carrying before you can swim.
+0x8d0c  [Write   ] You have been eaten by a large alligator!
+0x8d48  [Write   ] Splash!  You swim the river and scramble up the opposite bank.
+0x8e32  [PushStr ] Which door (right, left, or middle)?
+0x8ec3  [Write   ] ight
+0x8edc  [Write   ] eft
+0x8ef4  [Write   ] iddle
+0x8f0e  [Write   ] one
+0x8f86  [Write   ] As you open the door, huge granite stones fall from above and strike you dead.
+0x917e  [Write   ] The door is locked.
+0x91cf  [Write   ] The chair and the wall spin around, putting you in another room.
+0x9273  [Write   ] Delicious!
+0x928f  [Write   ]   Your hunger has been completely satisfied.
+0x9301  [PushStr ] You won't drain the pool that way!
+0x9347  [Write   ] Ick!  It tastes terrible!
+0x9375  [Write   ] The intoxicating effect of the champagne is so great 
+0x93ae  [Write   ] that you stumble about for several minutes.
+0x948a  [Write   ] Mmmm!  The river's mineral water is delicious!
+0x94cd  [Write   ] The taste is very nice.  (It has, in fact, a sort of mixed flavor of cherry-    
+0x9521  [Write   ] tart, custard, pineapple, roast turkey, toffy, and hot buttered toast.)
+0x957d  [Write   ] The wine here is exquisite!
+0x95c0  [Write   ] Bloodthirsty guttersnipe!
+0x9664  [Write   ] Room descriptions now appear 
+0x9692  [PushStr ] only after a LOOK, and sound output is suppressed.
+0x96db  [PushStr ] only the first time a room is entered.
+0x9718  [PushStr ] every time a room is entered.
+0x9759  [PushStr ] It is too dark to find anything to climb.
+0x9798  [PushStr ] xtreesbranches
+0x97b5  [PushStr ] Don't bother.
+0x9950  [PushStr ] The ladder is not long enough.
+0x99b6  [PushStr ] There is nothing above to be reached.
+0x99ea  [PushStr ] You can reach that without the ladder.
+0x9a48  [PushStr ] The wall is too slippery to climb.
+0x9afa  [Write   ] As you shelve the book, the bookcase slides over to reveal a staircase leading  downward!
+0x9b80  [PushStr ] You have nothing with which to clean!
+0x9be1  [PushStr ] You can't wash with filthy water!
+0x9c4b  [Write   ] All right, but what a waste of good wine!
+0x9dcd  [Write   ] The earth trembles for a moment.  A low voice is heard from the depths of the   
+0x9e21  [Write   ] well.  "Xceron is a great force, equal to forty men!"
+0x9e70  [Write   ] A merry laughter echoes from the depths of the well.
+0x9eb1  [Write   ] An enormous fist comes out from the well, hovers above your head for a moment,  
+0x9f05  [Write   ] and then comes crashing down, reducing you to dust!
+0x9f53  [Write   ] The liquid flows down the opening and is heard spilling into a room far below.
+0x9fae  [Write   ] The flask is now empty.
+0x9ff9  [PushStr ] There doesn't seem to be any way to lower the drawbridge from here.
+0xa08e  [Write   ] The 
+0xa0a3  [Write   ]  look
+0xa0d5  [Write   ]  at you quizzically.
+0xa0fe  [Write   ] The 
+0xa113  [Write   ]  says that you 
+0xa133  [Write   ]  funny.
+0xa14f  [Write   ] It purrs with delight.
+0xa1cf  [Write   ] There is a rattling inside!
+0xa236  [Write   ] Presto!  The table is covered with delicious food.
+0xa2b6  [Write   ] The floor parts with a tremendous roar that shakes the castle!
+0xa33f  [Write   ] The dragons pop back to life!
+0xa3a3  [PushStr ] Trying to break the 
+0xa3c5  [PushStr ]  accomplishes nothing.
+0xa3ed  [PushStr ] The 
+0xa3ff  [PushStr ]  cannot be broken.
+0xa48f  [Write   ] Be not deceived; God is not mocked!
+0xa4c7  [Write   ] The statue smashes, and a poisonous gas emerges!
+0xa512  [Write   ] The wind shifts, blowing the toxic gas into your eyes and blinding you          
+0xa566  [Write   ] permanently.
+0xa59a  [Write   ] With your dying breath, you notice something glistening among the fragments.
+0xa617  [Write   ] Crash!!  The mirror shatters, revealing a secret passage extending south!
+0xa697  [PushStr ] windowsorieldormer
+0xa6bb  [Write   ] Just like a little kid!  You can't think of anything clever to do, so you go
+0xa70e  [PushStr ] around breaking other people's windows!
+0xa846  [PushStr ] music
+0xa8ec  [Write   ] The oboe is filled with too much dirt to play.
+0xa937  [Write   ] You play very well!  
+0xa970  [Write   ] Your soothing notes put the tiger to sleep.
+0xa9b6  [Write   ] Unfortunately, the tiger is tired of hearing you play and  
+0xa9f5  [Write   ] continues to pace angrily.
+0xaa37  [Write   ] You play very well, although the harpsichord sounds tinny.
+0xaac0  [Write   ] Poof!  The frog turns into a 
+0xab3a  [Write   ] The coward does it with a kiss, the brave man with a sword!
+0xab8a  [Write   ] Says the troll, "Open rebuke is better than secret love.  Faithful are the      
+0xabde  [Write   ] wounds of a friend; but the kisses of an enemy are deceitful."
+0xac36  [Write   ] You're getting pretty desperate without the 
+0xac73  [Write   ] , aren't you?
+0xac9f  [Write   ] Some there be that shadows kiss, such have but a shadow's bliss.
+0xacf4  [Write   ] Witchcraft celebrates pale Hecate's offerings.
+0xad37  [Write   ] The kiss you take is better than you give!
+0xad7b  [Write   ] Lord, I wonder what fool it was that first invented kissing!
+0xae76  [Write   ] The back of the fireplace opens!
+0xaec6  [Write   ] They're
+0xaed7  [Write   ] It's
+0xaedf  [PushStr ]  not lighted.
+0xaf27  [PushStr ] It's not lighted.
+0xafab  [PushStr ] You have no food!
+0xafea  [PushStr ] The witches' pets eat only insects.
+0xb027  [Write   ] "My life, my joy, my food, my all the world!" recites the 
+0xb072  [Write   ]  while eating.
+0xb0a7  [PushStr ] Witches eat only viscera.
+0xb0da  [Write   ] The tiger devours the food and goes back to sleep.
+0xb130  [PushStr ] It doesn't want your food.  It wants YOU.
+0xb194  [PushStr ] abort
+0xb1ad  [Write   ] Type "abort" to abort command.
+0xb1d5  [Write   ] Name of state
+0xb1fb  [Write   ]  (default = 
+0xb27b  [PushStr ] abort
+0xb348  [Write   ] Game state saved.
+0xb366  [Write   ] Disk full -- save unsuccessful.
+0xb399  [Write   ] Illegal state name -- save unsuccessful.
+0xb3ea  [PushStr ] abort
+0xb4ad  [Write   ] No such state.
+0xb4e4  [PushStr ] abort
+0xb53c  [PushStr ] abort
+0xb598  [Write   ] State deleted.
+0xb5b3  [Write   ] No such state.
+0xb71a  [PushStr ] *.
+0xb744  [Write   ] No saved states.
+0xb851  [Write   ] A great whiffling and burbling is heard!
+0xb8b1  [Write   ] Only the sounds of the storm are heard.
+0xb8fc  [Write   ] You hear a fearful cackling.
+0xb937  [Write   ] You hear running water.
+0xb963  [Write   ] "There must be more money!"
+0xb993  [Write   ] The music is unadulterated Elizabethan boogie, not to be taken seriously.
+0xb9fb  [Write   ] A faint tapping sound is heard.
+0xba51  [Write   ] You hear the snorting of dragons.
+0xbaa9  [Write   ] The troll's expletives should not be printed.
+0xbb32  [Write   ] Something is ticking.
+0xbb54  [Write   ] All is quiet.
+0xbb95  [PushStr ] book
+0xbbb3  [Write   ] Because only two words can be understood at a time, it is difficult to          
+0xbc07  [Write   ] understand you.  Try to rephrase your command.
+0xbd57  [Write   ] The basilisk
+0xbd75  [Write   ] The Zimbu
+0xbd85  [Write   ]  is after you!
+0xbe75  [Write   ] 
+
+0xbe7b  [Write   ] The 
+0xbe90  [Write   ]  walks away to the 
+0xbf45  [Write   ] You are becoming extremely hungry.
+0xbf7c  [Write   ] You are feeling weak from the lack of nourishment.  If you do not find food soonyou will collapse.
+0xbff3  [Write   ] You feel dizzy and your vision is cloudy.  You can last only a few more minutes without food.
+0xc06e  [Write   ] You collapse.  As the life seeps from your body you notice the castle rats begin
+0xc0c2  [Write   ] to gather around you.
+0xc183  [Write   ] The wind has blown out the torch!
+0xc237  [Write   ] The stable collapses, and you burn to death in the flames!
+0xc292  [Write   ] The castle burns to the ground before you have escaped!
+0xc3cc  [PushStr ] Would you like to begin again?
+0xc470  [Write   ] Sorry, but you are dead.
+0xc49d  [Write   ] You have died on this adventure.
+0xc4d2  [Write   ] You are no longer alive!
+0xc55b  [PushStr ] xceron
+0xc5a2  [PushStr ] upwa
+0xc5b7  [PushStr ] up
+0xc679  [PushStr ] retu
+0xc696  [PushStr ] in
+0xc6c1  [PushStr ] slide
+0xc704  [PushStr ] malabar
+0xc717  [PushStr ] "Malabar" doesn't do anything.  It's just the name of the horse.
+0xc774  [PushStr ] What?
+0xc788  [PushStr ] You don't know how to 
+0xc7c5  [PushStr ]  the 
+0xc7f5  [PushStr ]  a 
+0xc823  [PushStr ]  to 
+0xc86a  [PushStr ] pick up 
+0xc88d  [PushStr ] get
+0xc8be  [PushStr ] blow out 
+0xc9a9  [PushStr ] it
+0xc9ba  [PushStr ] him
+0xc9cf  [PushStr ] her
+0xc9e4  [PushStr ] them
+0xcc1e  [Write   ] Digging without a shovel is most impractical.
+0xcc60  [Write   ] You must locate things by yourself.
+0xccb1  [Write   ] Your questions cannot be answered.
+0xcce8  [Write   ] This is no time for merriment!
+0xcd1b  [Write   ] Your prayers are in vain.
+0xcd65  [Write   ] You need a magic spell to save your state.
+0xcf0f  [Write   ] Ok, "
+0xcf25  [Write   ] ."
+0xcf4f  [Write   ] What do you want to do with the 
+0xcf80  [Write   ] ? 
+0xd2bc  [PushStr ] Excellent!  You have escaped from the castle!
+0xd31c  [PushStr ] You've rescued the 
+0xd34f  [PushStr ] You left the 
+0xd36a  [PushStr ]  in the castle.
+0xd3af  [PushStr ] You have the Star Diamond!
+0xd3d8  [PushStr ] You did not leave with the Star Diamond.
+0xd433  [PushStr ] The castle has been demolished by the fire!
+0xd49e  [Write   ] You have completed the entire Enchanted Castle adventure game!
+0xd4fe  [PushStr ] Too bad you didn't destroy the castle as you left.
+0xd5e8  [PushStr ] EC.DAT
+0xd60e  [Write   ] EC.DAT not found.
+0xd63f  [Write   ] (C) Copyright 1986 Michael R. Wilk    All rights reserved    Release 1

@@ -1,0 +1,2636 @@
+[
+  {
+    "file_offset": 13780,
+    "addr": "0x36d4",
+    "kind": "Write",
+    "text": "handsome prince.   "
+  },
+  {
+    "file_offset": 13871,
+    "addr": "0x372f",
+    "kind": "Write",
+    "text": "Hit any key to display subsequent screens of instructions."
+  },
+  {
+    "file_offset": 14081,
+    "addr": "0x3801",
+    "kind": "PushStr",
+    "text": "Would you like instructions?"
+  },
+  {
+    "file_offset": 14201,
+    "addr": "0x3879",
+    "kind": "PushStr",
+    "text": "Your initials:"
+  },
+  {
+    "file_offset": 14361,
+    "addr": "0x3919",
+    "kind": "PushStr",
+    "text": "princess"
+  },
+  {
+    "file_offset": 14392,
+    "addr": "0x3938",
+    "kind": "PushStr",
+    "text": "prince"
+  },
+  {
+    "file_offset": 14435,
+    "addr": "0x3963",
+    "kind": "PushStr",
+    "text": "PERSONAE"
+  },
+  {
+    "file_offset": 14606,
+    "addr": "0x3a0e",
+    "kind": "PushStr",
+    "text": "What is your sex?"
+  },
+  {
+    "file_offset": 14746,
+    "addr": "0x3a9a",
+    "kind": "PushStr",
+    "text": "Disk full -- your initials will not be remembered."
+  },
+  {
+    "file_offset": 15140,
+    "addr": "0x3c24",
+    "kind": "PushStr",
+    "text": "abra"
+  },
+  {
+    "file_offset": 15169,
+    "addr": "0x3c41",
+    "kind": "PushStr",
+    "text": "sham"
+  },
+  {
+    "file_offset": 15198,
+    "addr": "0x3c5e",
+    "kind": "PushStr",
+    "text": "alacka"
+  },
+  {
+    "file_offset": 15229,
+    "addr": "0x3c7d",
+    "kind": "PushStr",
+    "text": "tra"
+  },
+  {
+    "file_offset": 15257,
+    "addr": "0x3c99",
+    "kind": "PushStr",
+    "text": "yri"
+  },
+  {
+    "file_offset": 15295,
+    "addr": "0x3cbf",
+    "kind": "PushStr",
+    "text": "bala"
+  },
+  {
+    "file_offset": 15334,
+    "addr": "0x3ce6",
+    "kind": "PushStr",
+    "text": "zam"
+  },
+  {
+    "file_offset": 15372,
+    "addr": "0x3d0c",
+    "kind": "PushStr",
+    "text": "baba"
+  },
+  {
+    "file_offset": 15411,
+    "addr": "0x3d33",
+    "kind": "PushStr",
+    "text": "bree"
+  },
+  {
+    "file_offset": 15450,
+    "addr": "0x3d5a",
+    "kind": "PushStr",
+    "text": "goo"
+  },
+  {
+    "file_offset": 15552,
+    "addr": "0x3dc0",
+    "kind": "PushStr",
+    "text": "hrsikesa"
+  },
+  {
+    "file_offset": 15585,
+    "addr": "0x3de1",
+    "kind": "PushStr",
+    "text": "acyuta"
+  },
+  {
+    "file_offset": 15616,
+    "addr": "0x3e00",
+    "kind": "PushStr",
+    "text": "madhava"
+  },
+  {
+    "file_offset": 15648,
+    "addr": "0x3e20",
+    "kind": "PushStr",
+    "text": "varsneya"
+  },
+  {
+    "file_offset": 15681,
+    "addr": "0x3e41",
+    "kind": "PushStr",
+    "text": "prabho"
+  },
+  {
+    "file_offset": 15712,
+    "addr": "0x3e60",
+    "kind": "PushStr",
+    "text": "visnu"
+  },
+  {
+    "file_offset": 15742,
+    "addr": "0x3e7e",
+    "kind": "PushStr",
+    "text": "idyam"
+  },
+  {
+    "file_offset": 15772,
+    "addr": "0x3e9c",
+    "kind": "PushStr",
+    "text": "pandava"
+  },
+  {
+    "file_offset": 15804,
+    "addr": "0x3ebc",
+    "kind": "PushStr",
+    "text": "partha"
+  },
+  {
+    "file_offset": 15835,
+    "addr": "0x3edb",
+    "kind": "PushStr",
+    "text": "anagha"
+  },
+  {
+    "file_offset": 15866,
+    "addr": "0x3efa",
+    "kind": "PushStr",
+    "text": "bharata"
+  },
+  {
+    "file_offset": 16935,
+    "addr": "0x4327",
+    "kind": "Write",
+    "text": " grimy water"
+  },
+  {
+    "file_offset": 16965,
+    "addr": "0x4345",
+    "kind": "Write",
+    "text": " champagne"
+  },
+  {
+    "file_offset": 16998,
+    "addr": "0x4366",
+    "kind": "Write",
+    "text": " mineral water"
+  },
+  {
+    "file_offset": 17050,
+    "addr": "0x439a",
+    "kind": "Write",
+    "text": " green"
+  },
+  {
+    "file_offset": 17074,
+    "addr": "0x43b2",
+    "kind": "Write",
+    "text": " cyan"
+  },
+  {
+    "file_offset": 17097,
+    "addr": "0x43c9",
+    "kind": "Write",
+    "text": " red"
+  },
+  {
+    "file_offset": 17119,
+    "addr": "0x43df",
+    "kind": "Write",
+    "text": " magenta"
+  },
+  {
+    "file_offset": 17145,
+    "addr": "0x43f9",
+    "kind": "Write",
+    "text": " brown"
+  },
+  {
+    "file_offset": 17169,
+    "addr": "0x4411",
+    "kind": "Write",
+    "text": " white"
+  },
+  {
+    "file_offset": 17188,
+    "addr": "0x4424",
+    "kind": "Write",
+    "text": " liquid"
+  },
+  {
+    "file_offset": 17213,
+    "addr": "0x443d",
+    "kind": "Write",
+    "text": " wine"
+  },
+  {
+    "file_offset": 17307,
+    "addr": "0x449b",
+    "kind": "PushStr",
+    "text": "wate"
+  },
+  {
+    "file_offset": 17326,
+    "addr": "0x44ae",
+    "kind": "PushStr",
+    "text": "grim"
+  },
+  {
+    "file_offset": 17361,
+    "addr": "0x44d1",
+    "kind": "PushStr",
+    "text": "cham"
+  },
+  {
+    "file_offset": 17398,
+    "addr": "0x44f6",
+    "kind": "PushStr",
+    "text": "wate"
+  },
+  {
+    "file_offset": 17417,
+    "addr": "0x4509",
+    "kind": "PushStr",
+    "text": "mine"
+  },
+  {
+    "file_offset": 17452,
+    "addr": "0x452c",
+    "kind": "PushStr",
+    "text": "liqu"
+  },
+  {
+    "file_offset": 17484,
+    "addr": "0x454c",
+    "kind": "PushStr",
+    "text": "wine"
+  },
+  {
+    "file_offset": 17651,
+    "addr": "0x45f3",
+    "kind": "PushStr",
+    "text": "You are carrying too much."
+  },
+  {
+    "file_offset": 18256,
+    "addr": "0x4850",
+    "kind": "Write",
+    "text": "KABOOM!"
+  },
+  {
+    "file_offset": 18310,
+    "addr": "0x4886",
+    "kind": "Write",
+    "text": "You have gone up in a gigantic explosion!"
+  },
+  {
+    "file_offset": 18543,
+    "addr": "0x496f",
+    "kind": "Write",
+    "text": "Gasp!  You've been poisoned by the lethal breath of the basilisk!"
+  },
+  {
+    "file_offset": 18629,
+    "addr": "0x49c5",
+    "kind": "Write",
+    "text": "GRAB!  The Zimbu caught you!  It grinds your frail bones into the ground with   its gigantic feet!"
+  },
+  {
+    "file_offset": 18757,
+    "addr": "0x4a45",
+    "kind": "Write",
+    "text": "Ok."
+  },
+  {
+    "file_offset": 18781,
+    "addr": "0x4a5d",
+    "kind": "PushStr",
+    "text": "There doesn't seem to be any way to do that here."
+  },
+  {
+    "file_offset": 18856,
+    "addr": "0x4aa8",
+    "kind": "PushStr",
+    "text": "That simply cannot be done!"
+  },
+  {
+    "file_offset": 18909,
+    "addr": "0x4add",
+    "kind": "PushStr",
+    "text": "You've done that!"
+  },
+  {
+    "file_offset": 18952,
+    "addr": "0x4b08",
+    "kind": "PushStr",
+    "text": "That makes no sense."
+  },
+  {
+    "file_offset": 19001,
+    "addr": "0x4b39",
+    "kind": "Write",
+    "text": "Nothing happens."
+  },
+  {
+    "file_offset": 19915,
+    "addr": "0x4ecb",
+    "kind": "PushStr",
+    "text": "inventory"
+  },
+  {
+    "file_offset": 20405,
+    "addr": "0x50b5",
+    "kind": "PushStr",
+    "text": " what?"
+  },
+  {
+    "file_offset": 20548,
+    "addr": "0x5144",
+    "kind": "PushStr",
+    "text": " the "
+  },
+  {
+    "file_offset": 20603,
+    "addr": "0x517b",
+    "kind": "PushStr",
+    "text": " a "
+  },
+  {
+    "file_offset": 20656,
+    "addr": "0x51b0",
+    "kind": "PushStr",
+    "text": " to "
+  },
+  {
+    "file_offset": 20937,
+    "addr": "0x52c9",
+    "kind": "PushStr",
+    "text": "cruc"
+  },
+  {
+    "file_offset": 20993,
+    "addr": "0x5301",
+    "kind": "PushStr",
+    "text": "bomb"
+  },
+  {
+    "file_offset": 21022,
+    "addr": "0x531e",
+    "kind": "PushStr",
+    "text": "star"
+  },
+  {
+    "file_offset": 21455,
+    "addr": "0x54cf",
+    "kind": "Write",
+    "text": "You have"
+  },
+  {
+    "file_offset": 21473,
+    "addr": "0x54e1",
+    "kind": "Write",
+    "text": "You find"
+  },
+  {
+    "file_offset": 21485,
+    "addr": "0x54ed",
+    "kind": "PushStr",
+    "text": " no "
+  },
+  {
+    "file_offset": 21553,
+    "addr": "0x5531",
+    "kind": "Write",
+    "text": "It is completely dark"
+  },
+  {
+    "file_offset": 21613,
+    "addr": "0x556d",
+    "kind": "Write",
+    "text": ", except for a lighted passage to the east"
+  },
+  {
+    "file_offset": 21736,
+    "addr": "0x55e8",
+    "kind": "Write",
+    "text": " up."
+  },
+  {
+    "file_offset": 21750,
+    "addr": "0x55f6",
+    "kind": "Write",
+    "text": " down."
+  },
+  {
+    "file_offset": 21798,
+    "addr": "0x5626",
+    "kind": "Write",
+    "text": "\" has been written on the wall in large letters."
+  },
+  {
+    "file_offset": 21877,
+    "addr": "0x5675",
+    "kind": "Write",
+    "text": " on   the right"
+  },
+  {
+    "file_offset": 21910,
+    "addr": "0x5696",
+    "kind": "Write",
+    "text": " in   the middle"
+  },
+  {
+    "file_offset": 21944,
+    "addr": "0x56b8",
+    "kind": "Write",
+    "text": " on   the left"
+  },
+  {
+    "file_offset": 21965,
+    "addr": "0x56cd",
+    "kind": "Write",
+    "text": " appears safe."
+  },
+  {
+    "file_offset": 22013,
+    "addr": "0x56fd",
+    "kind": "Write",
+    "text": " \""
+  },
+  {
+    "file_offset": 22043,
+    "addr": "0x571b",
+    "kind": "Write",
+    "text": ".\""
+  },
+  {
+    "file_offset": 22079,
+    "addr": "0x573f",
+    "kind": "Write",
+    "text": "\r\n\n"
+  },
+  {
+    "file_offset": 22096,
+    "addr": "0x5750",
+    "kind": "Write",
+    "text": "Habitant of castle gray,"
+  },
+  {
+    "file_offset": 22140,
+    "addr": "0x577c",
+    "kind": "Write",
+    "text": "Creeping thing in sober way,"
+  },
+  {
+    "file_offset": 22188,
+    "addr": "0x57ac",
+    "kind": "Write",
+    "text": "Visible sage mechanician,"
+  },
+  {
+    "file_offset": 22233,
+    "addr": "0x57d9",
+    "kind": "Write",
+    "text": "Skillfulest arithmetician."
+  },
+  {
+    "file_offset": 22293,
+    "addr": "0x5815",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 22318,
+    "addr": "0x582e",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 22324,
+    "addr": "0x5834",
+    "kind": "Write",
+    "text": "\"Listen!  In a dry, dark place beneath the earth lies a great power.  Give it"
+  },
+  {
+    "file_offset": 22405,
+    "addr": "0x5885",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 22411,
+    "addr": "0x588b",
+    "kind": "Write",
+    "text": "water and it tells you of a magic spell.\""
+  },
+  {
+    "file_offset": 22493,
+    "addr": "0x58dd",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 22499,
+    "addr": "0x58e3",
+    "kind": "Write",
+    "text": "Your surroundings are scorched, the result of a large explosion."
+  },
+  {
+    "file_offset": 22714,
+    "addr": "0x59ba",
+    "kind": "Write",
+    "text": "There "
+  },
+  {
+    "file_offset": 22740,
+    "addr": "0x59d4",
+    "kind": "Write",
+    "text": "are "
+  },
+  {
+    "file_offset": 22754,
+    "addr": "0x59e2",
+    "kind": "Write",
+    "text": "is "
+  },
+  {
+    "file_offset": 22992,
+    "addr": "0x5ad0",
+    "kind": "Write",
+    "text": " is"
+  },
+  {
+    "file_offset": 23002,
+    "addr": "0x5ada",
+    "kind": "Write",
+    "text": " here."
+  },
+  {
+    "file_offset": 23085,
+    "addr": "0x5b2d",
+    "kind": "Write",
+    "text": "You are "
+  },
+  {
+    "file_offset": 23114,
+    "addr": "0x5b4a",
+    "kind": "Write",
+    "text": ".  "
+  },
+  {
+    "file_offset": 23528,
+    "addr": "0x5ce8",
+    "kind": "PushStr",
+    "text": "Fierce dragons block your path!"
+  },
+  {
+    "file_offset": 23582,
+    "addr": "0x5d1e",
+    "kind": "PushStr",
+    "text": "The troll will not let you pass."
+  },
+  {
+    "file_offset": 23664,
+    "addr": "0x5d70",
+    "kind": "PushStr",
+    "text": "The witches prevent you from coming near."
+  },
+  {
+    "file_offset": 23728,
+    "addr": "0x5db0",
+    "kind": "PushStr",
+    "text": "The door is locked."
+  },
+  {
+    "file_offset": 23770,
+    "addr": "0x5dda",
+    "kind": "PushStr",
+    "text": "The tiger will not let you pass."
+  },
+  {
+    "file_offset": 23867,
+    "addr": "0x5e3b",
+    "kind": "PushStr",
+    "text": "You can't go that way."
+  },
+  {
+    "file_offset": 23988,
+    "addr": "0x5eb4",
+    "kind": "PushStr",
+    "text": "The portcullis is down."
+  },
+  {
+    "file_offset": 24026,
+    "addr": "0x5eda",
+    "kind": "PushStr",
+    "text": "The drawbridge is up!"
+  },
+  {
+    "file_offset": 24168,
+    "addr": "0x5f68",
+    "kind": "PushStr",
+    "text": "The door is closed."
+  },
+  {
+    "file_offset": 24214,
+    "addr": "0x5f96",
+    "kind": "PushStr",
+    "text": "The door is locked."
+  },
+  {
+    "file_offset": 24442,
+    "addr": "0x607a",
+    "kind": "PushStr",
+    "text": "It is too dark to figure directions."
+  },
+  {
+    "file_offset": 24537,
+    "addr": "0x60d9",
+    "kind": "PushStr",
+    "text": "You can't go that way."
+  },
+  {
+    "file_offset": 24667,
+    "addr": "0x615b",
+    "kind": "PushStr",
+    "text": "You will need some light to do that."
+  },
+  {
+    "file_offset": 24729,
+    "addr": "0x6199",
+    "kind": "PushStr",
+    "text": "The river is too treacherous here for that."
+  },
+  {
+    "file_offset": 24851,
+    "addr": "0x6213",
+    "kind": "PushStr",
+    "text": "You can't go back."
+  },
+  {
+    "file_offset": 24943,
+    "addr": "0x626f",
+    "kind": "PushStr",
+    "text": "through"
+  },
+  {
+    "file_offset": 24967,
+    "addr": "0x6287",
+    "kind": "PushStr",
+    "text": "in"
+  },
+  {
+    "file_offset": 24984,
+    "addr": "0x6298",
+    "kind": "Write",
+    "text": "In what direction? "
+  },
+  {
+    "file_offset": 25061,
+    "addr": "0x62e5",
+    "kind": "Write",
+    "text": "Splash!"
+  },
+  {
+    "file_offset": 25094,
+    "addr": "0x6306",
+    "kind": "PushStr",
+    "text": "The room above is too far away."
+  },
+  {
+    "file_offset": 25211,
+    "addr": "0x637b",
+    "kind": "Write",
+    "text": "Splat!"
+  },
+  {
+    "file_offset": 25267,
+    "addr": "0x63b3",
+    "kind": "Write",
+    "text": "You aren't carrying anything."
+  },
+  {
+    "file_offset": 25515,
+    "addr": "0x64ab",
+    "kind": "Write",
+    "text": " (which you are wearing)"
+  },
+  {
+    "file_offset": 25625,
+    "addr": "0x6519",
+    "kind": "Write",
+    "text": "The troll is free!  The ungrateful troll steals your keys and runs across the   bridge."
+  },
+  {
+    "file_offset": 25787,
+    "addr": "0x65bb",
+    "kind": "Write",
+    "text": "None of your keys will"
+  },
+  {
+    "file_offset": 25819,
+    "addr": "0x65db",
+    "kind": "Write",
+    "text": "The key doesn't"
+  },
+  {
+    "file_offset": 25841,
+    "addr": "0x65f1",
+    "kind": "Write",
+    "text": " fit the lock."
+  },
+  {
+    "file_offset": 25899,
+    "addr": "0x662b",
+    "kind": "PushStr",
+    "text": "It's not locked."
+  },
+  {
+    "file_offset": 26042,
+    "addr": "0x66ba",
+    "kind": "PushStr",
+    "text": "You don't have any keys!"
+  },
+  {
+    "file_offset": 26157,
+    "addr": "0x672d",
+    "kind": "Write",
+    "text": "\" is a magic spell you can use to save your position in the game."
+  },
+  {
+    "file_offset": 26232,
+    "addr": "0x6778",
+    "kind": "Write",
+    "text": "Each game state you save is identified by a name you choose for it."
+  },
+  {
+    "file_offset": 26309,
+    "addr": "0x67c5",
+    "kind": "Write",
+    "text": "Use saved states in conjunction with the following commands:"
+  },
+  {
+    "file_offset": 26379,
+    "addr": "0x680b",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 26385,
+    "addr": "0x6811",
+    "kind": "Write",
+    "text": "   Restore:  restores you to a saved state."
+  },
+  {
+    "file_offset": 26438,
+    "addr": "0x6846",
+    "kind": "Write",
+    "text": "   Delete:   deletes a saved state."
+  },
+  {
+    "file_offset": 26483,
+    "addr": "0x6873",
+    "kind": "Write",
+    "text": "   States:   lists your saved states."
+  },
+  {
+    "file_offset": 26541,
+    "addr": "0x68ad",
+    "kind": "Write",
+    "text": "A message reads \"Dixisse me aliquando penituit, tacuisse nunquam.\""
+  },
+  {
+    "file_offset": 26628,
+    "addr": "0x6904",
+    "kind": "Write",
+    "text": "The maps contain no further information."
+  },
+  {
+    "file_offset": 26724,
+    "addr": "0x6964",
+    "kind": "Write",
+    "text": "A message (which certainly was not here before) reads \"Property of The "
+  },
+  {
+    "file_offset": 26799,
+    "addr": "0x69af",
+    "kind": "Write",
+    "text": "Branson  School.\""
+  },
+  {
+    "file_offset": 26829,
+    "addr": "0x69cd",
+    "kind": "Write",
+    "text": "All the pages of the book are blank!"
+  },
+  {
+    "file_offset": 26902,
+    "addr": "0x6a16",
+    "kind": "Write",
+    "text": "The windlass won't budge, no matter how hard you try."
+  },
+  {
+    "file_offset": 26997,
+    "addr": "0x6a75",
+    "kind": "Write",
+    "text": "It's locked."
+  },
+  {
+    "file_offset": 27030,
+    "addr": "0x6a96",
+    "kind": "PushStr",
+    "text": "book"
+  },
+  {
+    "file_offset": 27101,
+    "addr": "0x6add",
+    "kind": "PushStr",
+    "text": "cage"
+  },
+  {
+    "file_offset": 27127,
+    "addr": "0x6af7",
+    "kind": "PushStr",
+    "text": "The cages are rusted shut."
+  },
+  {
+    "file_offset": 27168,
+    "addr": "0x6b20",
+    "kind": "PushStr",
+    "text": "The cupboards are empty."
+  },
+  {
+    "file_offset": 27218,
+    "addr": "0x6b52",
+    "kind": "Write",
+    "text": "The doors here are cemented shut."
+  },
+  {
+    "file_offset": 27269,
+    "addr": "0x6b85",
+    "kind": "PushStr",
+    "text": "This kind of window doesn't open."
+  },
+  {
+    "file_offset": 27339,
+    "addr": "0x6bcb",
+    "kind": "PushStr",
+    "text": "There is no apparent way to widen it."
+  },
+  {
+    "file_offset": 27422,
+    "addr": "0x6c1e",
+    "kind": "PushStr",
+    "text": "door"
+  },
+  {
+    "file_offset": 27438,
+    "addr": "0x6c2e",
+    "kind": "PushStr",
+    "text": "Most castle doors do not require explicit opening -- just walk through them."
+  },
+  {
+    "file_offset": 27529,
+    "addr": "0x6c89",
+    "kind": "PushStr",
+    "text": "The "
+  },
+  {
+    "file_offset": 27547,
+    "addr": "0x6c9b",
+    "kind": "PushStr",
+    "text": " cannot be opened."
+  },
+  {
+    "file_offset": 27605,
+    "addr": "0x6cd5",
+    "kind": "PushStr",
+    "text": "It's already open!"
+  },
+  {
+    "file_offset": 27659,
+    "addr": "0x6d0b",
+    "kind": "PushStr",
+    "text": "The portcullis weighs several tons -- you couldn't possibly raise it yourself!"
+  },
+  {
+    "file_offset": 27775,
+    "addr": "0x6d7f",
+    "kind": "Write",
+    "text": "The Star Diamond shines within!  Perhaps it was dropped down the "
+  },
+  {
+    "file_offset": 27844,
+    "addr": "0x6dc4",
+    "kind": "Write",
+    "text": "exhaust duct toavoid its falling into enemy hands."
+  },
+  {
+    "file_offset": 27929,
+    "addr": "0x6e19",
+    "kind": "Write",
+    "text": "You have released a basilisk hiding in the closet!"
+  },
+  {
+    "file_offset": 28196,
+    "addr": "0x6f24",
+    "kind": "PushStr",
+    "text": "flies"
+  },
+  {
+    "file_offset": 28218,
+    "addr": "0x6f3a",
+    "kind": "PushStr",
+    "text": "That doesn't accomplish much."
+  },
+  {
+    "file_offset": 28304,
+    "addr": "0x6f90",
+    "kind": "PushStr",
+    "text": "The witches' pets are protected by magic spells!"
+  },
+  {
+    "file_offset": 28401,
+    "addr": "0x6ff1",
+    "kind": "Write",
+    "text": "Though boys throw stones at frogs in sport, the frogs do not die in sport,"
+  },
+  {
+    "file_offset": 28479,
+    "addr": "0x703f",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 28485,
+    "addr": "0x7045",
+    "kind": "Write",
+    "text": "but in earnest."
+  },
+  {
+    "file_offset": 28521,
+    "addr": "0x7069",
+    "kind": "Write",
+    "text": "Your evil look gives you away.  As you come close, the "
+  },
+  {
+    "file_offset": 28593,
+    "addr": "0x70b1",
+    "kind": "Write",
+    "text": " runs to another"
+  },
+  {
+    "file_offset": 28619,
+    "addr": "0x70cb",
+    "kind": "Write",
+    "text": "part of the castle."
+  },
+  {
+    "file_offset": 28692,
+    "addr": "0x7114",
+    "kind": "Write",
+    "text": "You have wounded the dragons severely!"
+  },
+  {
+    "file_offset": 28740,
+    "addr": "0x7144",
+    "kind": "Write",
+    "text": "Despite your efforts, the dragons burn your body to a crisp!"
+  },
+  {
+    "file_offset": 28844,
+    "addr": "0x71ac",
+    "kind": "PushStr",
+    "text": "You can't kill dragons with secateurs!"
+  },
+  {
+    "file_offset": 28897,
+    "addr": "0x71e1",
+    "kind": "PushStr",
+    "text": "You can't kill dragons with your bare hands!"
+  },
+  {
+    "file_offset": 28959,
+    "addr": "0x721f",
+    "kind": "Write",
+    "text": "One, two!  One, two!  The vorpal blade goes snicker-snack!"
+  },
+  {
+    "file_offset": 29021,
+    "addr": "0x725d",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 29027,
+    "addr": "0x7263",
+    "kind": "Write",
+    "text": "Many ugly dragons lie dead at your feet."
+  },
+  {
+    "file_offset": 29097,
+    "addr": "0x72a9",
+    "kind": "Write",
+    "text": "The troll's armor-like skin protects it against your attacks.  "
+  },
+  {
+    "file_offset": 29164,
+    "addr": "0x72ec",
+    "kind": "Write",
+    "text": "He spatters you  with some of his waste in disgust."
+  },
+  {
+    "file_offset": 29233,
+    "addr": "0x7331",
+    "kind": "PushStr",
+    "text": "Don't try!  The witches could easily turn you into a toad!"
+  },
+  {
+    "file_offset": 29317,
+    "addr": "0x7385",
+    "kind": "Write",
+    "text": "The tiger nimbly dodges your attacks."
+  },
+  {
+    "file_offset": 29461,
+    "addr": "0x7415",
+    "kind": "Write",
+    "text": "Snap!  The ropes shoot through the holes and a great crash is heard below!"
+  },
+  {
+    "file_offset": 29563,
+    "addr": "0x747b",
+    "kind": "Write",
+    "text": "Your clearing of the north wall reveals another door!"
+  },
+  {
+    "file_offset": 29694,
+    "addr": "0x74fe",
+    "kind": "PushStr",
+    "text": "You have nothing sharp."
+  },
+  {
+    "file_offset": 29795,
+    "addr": "0x7563",
+    "kind": "Write",
+    "text": "The sword jumps from your hands!"
+  },
+  {
+    "file_offset": 29878,
+    "addr": "0x75b6",
+    "kind": "Write",
+    "text": "You damage the "
+  },
+  {
+    "file_offset": 29910,
+    "addr": "0x75d6",
+    "kind": "Write",
+    "text": ", but it accomplishes nothing."
+  },
+  {
+    "file_offset": 30031,
+    "addr": "0x764f",
+    "kind": "PushStr",
+    "text": "They're already burning."
+  },
+  {
+    "file_offset": 30073,
+    "addr": "0x7679",
+    "kind": "Write",
+    "text": "It's already burning."
+  },
+  {
+    "file_offset": 30386,
+    "addr": "0x77b2",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 30407,
+    "addr": "0x77c7",
+    "kind": "Write",
+    "text": " flares up brilliantly for a moment, then is gone."
+  },
+  {
+    "file_offset": 30516,
+    "addr": "0x7834",
+    "kind": "PushStr",
+    "text": "Water splashing on the bridge here makes that impossible."
+  },
+  {
+    "file_offset": 30591,
+    "addr": "0x787f",
+    "kind": "Write",
+    "text": "The bridge is burning to cinders.  Passage is no longer possible."
+  },
+  {
+    "file_offset": 30755,
+    "addr": "0x7923",
+    "kind": "Write",
+    "text": "The fireplace closes."
+  },
+  {
+    "file_offset": 30834,
+    "addr": "0x7972",
+    "kind": "Write",
+    "text": "The flames rise to the ceiling!  If you do not leave you will be burned alive!"
+  },
+  {
+    "file_offset": 30922,
+    "addr": "0x79ca",
+    "kind": "Write",
+    "text": "Ouch!  A flame licks your hand and you hastily drop the torch."
+  },
+  {
+    "file_offset": 31057,
+    "addr": "0x7a51",
+    "kind": "PushStr",
+    "text": "rope"
+  },
+  {
+    "file_offset": 31089,
+    "addr": "0x7a71",
+    "kind": "PushStr",
+    "text": "The "
+  },
+  {
+    "file_offset": 31107,
+    "addr": "0x7a83",
+    "kind": "PushStr",
+    "text": " will not ignite."
+  },
+  {
+    "file_offset": 31310,
+    "addr": "0x7b4e",
+    "kind": "Write",
+    "text": "The furnace has been inoperable for years."
+  },
+  {
+    "file_offset": 31365,
+    "addr": "0x7b85",
+    "kind": "Write",
+    "text": "You find nothing to light."
+  },
+  {
+    "file_offset": 31417,
+    "addr": "0x7bb9",
+    "kind": "Write",
+    "text": "The fireplace closes."
+  },
+  {
+    "file_offset": 31547,
+    "addr": "0x7c3b",
+    "kind": "PushStr",
+    "text": "There is nothing burning from which to light."
+  },
+  {
+    "file_offset": 31684,
+    "addr": "0x7cc4",
+    "kind": "PushStr",
+    "text": "The bridge is gone."
+  },
+  {
+    "file_offset": 31734,
+    "addr": "0x7cf6",
+    "kind": "Write",
+    "text": "Crash!!  Your weight breaks the bridge and you drown in the river."
+  },
+  {
+    "file_offset": 32062,
+    "addr": "0x7e3e",
+    "kind": "Write",
+    "text": "A golden key falls out of the mouth of the central unicorn!"
+  },
+  {
+    "file_offset": 32205,
+    "addr": "0x7ecd",
+    "kind": "PushStr",
+    "text": "The flask is already full!"
+  },
+  {
+    "file_offset": 32336,
+    "addr": "0x7f50",
+    "kind": "PushStr",
+    "text": "Don't bother."
+  },
+  {
+    "file_offset": 32454,
+    "addr": "0x7fc6",
+    "kind": "Write",
+    "text": "As you touch the picture it moves up the western wall, revealing a long slide.  "
+  },
+  {
+    "file_offset": 32538,
+    "addr": "0x801a",
+    "kind": "Write",
+    "text": "If you go through, you might not be able to get back up."
+  },
+  {
+    "file_offset": 32658,
+    "addr": "0x8092",
+    "kind": "Write",
+    "text": "Ow!  It bites you, then moves out of reach."
+  },
+  {
+    "file_offset": 32718,
+    "addr": "0x80ce",
+    "kind": "PushStr",
+    "text": "water____champagnemineral__grimy____wine"
+  },
+  {
+    "file_offset": 32849,
+    "addr": "0x8151",
+    "kind": "PushStr",
+    "text": "You find no "
+  },
+  {
+    "file_offset": 32916,
+    "addr": "0x8194",
+    "kind": "PushStr",
+    "text": "hay"
+  },
+  {
+    "file_offset": 32936,
+    "addr": "0x81a8",
+    "kind": "PushStr",
+    "text": "Don't bother."
+  },
+  {
+    "file_offset": 32978,
+    "addr": "0x81d2",
+    "kind": "PushStr",
+    "text": "You have no need for the "
+  },
+  {
+    "file_offset": 33035,
+    "addr": "0x820b",
+    "kind": "PushStr",
+    "text": "The "
+  },
+  {
+    "file_offset": 33053,
+    "addr": "0x821d",
+    "kind": "PushStr",
+    "text": " cannot be removed."
+  },
+  {
+    "file_offset": 33118,
+    "addr": "0x825e",
+    "kind": "PushStr",
+    "text": "The "
+  },
+  {
+    "file_offset": 33136,
+    "addr": "0x8270",
+    "kind": "PushStr",
+    "text": " is following you."
+  },
+  {
+    "file_offset": 33201,
+    "addr": "0x82b1",
+    "kind": "PushStr",
+    "text": "You already have them!"
+  },
+  {
+    "file_offset": 33238,
+    "addr": "0x82d6",
+    "kind": "PushStr",
+    "text": "You already have it!"
+  },
+  {
+    "file_offset": 33310,
+    "addr": "0x831e",
+    "kind": "PushStr",
+    "text": "You can't carry anything else."
+  },
+  {
+    "file_offset": 33389,
+    "addr": "0x836d",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 33410,
+    "addr": "0x8382",
+    "kind": "Write",
+    "text": " will follow you."
+  },
+  {
+    "file_offset": 33644,
+    "addr": "0x846c",
+    "kind": "Write",
+    "text": "The hay begins to burn fiercely!"
+  },
+  {
+    "file_offset": 33861,
+    "addr": "0x8545",
+    "kind": "Write",
+    "text": "Splat!"
+  },
+  {
+    "file_offset": 33899,
+    "addr": "0x856b",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 33949,
+    "addr": "0x859d",
+    "kind": "Write",
+    "text": " smashes"
+  },
+  {
+    "file_offset": 33980,
+    "addr": "0x85bc",
+    "kind": "Write",
+    "text": " land"
+  },
+  {
+    "file_offset": 33995,
+    "addr": "0x85cb",
+    "kind": "Write",
+    "text": " lands"
+  },
+  {
+    "file_offset": 34008,
+    "addr": "0x85d8",
+    "kind": "Write",
+    "text": " on the terrace below."
+  },
+  {
+    "file_offset": 34107,
+    "addr": "0x863b",
+    "kind": "Write",
+    "text": " disappear"
+  },
+  {
+    "file_offset": 34168,
+    "addr": "0x8678",
+    "kind": "Write",
+    "text": " into the "
+  },
+  {
+    "file_offset": 34198,
+    "addr": "0x8696",
+    "kind": "Write",
+    "text": "pool."
+  },
+  {
+    "file_offset": 34216,
+    "addr": "0x86a8",
+    "kind": "Write",
+    "text": "gloom."
+  },
+  {
+    "file_offset": 34301,
+    "addr": "0x86fd",
+    "kind": "Write",
+    "text": "Splat!"
+  },
+  {
+    "file_offset": 34398,
+    "addr": "0x875e",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 34419,
+    "addr": "0x8773",
+    "kind": "Write",
+    "text": " drop"
+  },
+  {
+    "file_offset": 34457,
+    "addr": "0x8799",
+    "kind": "Write",
+    "text": " down the opening and into a room far below."
+  },
+  {
+    "file_offset": 34537,
+    "addr": "0x87e9",
+    "kind": "Write",
+    "text": "The statue cracks slightly as it hits the ground."
+  },
+  {
+    "file_offset": 34602,
+    "addr": "0x882a",
+    "kind": "PushStr",
+    "text": "You aren't carrying it!"
+  },
+  {
+    "file_offset": 34965,
+    "addr": "0x8995",
+    "kind": "Write",
+    "text": "Done!"
+  },
+  {
+    "file_offset": 35007,
+    "addr": "0x89bf",
+    "kind": "Write",
+    "text": "The floor shakes for a bit and then stops.  It seems that even Xceron is not"
+  },
+  {
+    "file_offset": 35087,
+    "addr": "0x8a0f",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 35093,
+    "addr": "0x8a15",
+    "kind": "Write",
+    "text": "powerful enough to widen the crack."
+  },
+  {
+    "file_offset": 35154,
+    "addr": "0x8a52",
+    "kind": "Write",
+    "text": "The windlass shakes for a bit and then stops.  It seems that even Xceron is not"
+  },
+  {
+    "file_offset": 35237,
+    "addr": "0x8aa5",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 35243,
+    "addr": "0x8aab",
+    "kind": "Write",
+    "text": "powerful enough to turn it."
+  },
+  {
+    "file_offset": 35321,
+    "addr": "0x8af9",
+    "kind": "Write",
+    "text": "The portcullis slowly rises!"
+  },
+  {
+    "file_offset": 35398,
+    "addr": "0x8b46",
+    "kind": "PushStr",
+    "text": "You can't go in or out from here.  Please use compass directions."
+  },
+  {
+    "file_offset": 35505,
+    "addr": "0x8bb1",
+    "kind": "Write",
+    "text": "You swim about lazily, getting nowhere."
+  },
+  {
+    "file_offset": 35586,
+    "addr": "0x8c02",
+    "kind": "PushStr",
+    "text": "Better get an asbestos swimsuit!"
+  },
+  {
+    "file_offset": 35760,
+    "addr": "0x8cb0",
+    "kind": "PushStr",
+    "text": "You'll have to drop what you're carrying before you can swim."
+  },
+  {
+    "file_offset": 35852,
+    "addr": "0x8d0c",
+    "kind": "Write",
+    "text": "You have been eaten by a large alligator!"
+  },
+  {
+    "file_offset": 35912,
+    "addr": "0x8d48",
+    "kind": "Write",
+    "text": "Splash!  You swim the river and scramble up the opposite bank."
+  },
+  {
+    "file_offset": 36146,
+    "addr": "0x8e32",
+    "kind": "PushStr",
+    "text": "Which door (right, left, or middle)?"
+  },
+  {
+    "file_offset": 36291,
+    "addr": "0x8ec3",
+    "kind": "Write",
+    "text": "ight"
+  },
+  {
+    "file_offset": 36316,
+    "addr": "0x8edc",
+    "kind": "Write",
+    "text": "eft"
+  },
+  {
+    "file_offset": 36340,
+    "addr": "0x8ef4",
+    "kind": "Write",
+    "text": "iddle"
+  },
+  {
+    "file_offset": 36366,
+    "addr": "0x8f0e",
+    "kind": "Write",
+    "text": "one"
+  },
+  {
+    "file_offset": 36486,
+    "addr": "0x8f86",
+    "kind": "Write",
+    "text": "As you open the door, huge granite stones fall from above and strike you dead."
+  },
+  {
+    "file_offset": 36990,
+    "addr": "0x917e",
+    "kind": "Write",
+    "text": "The door is locked."
+  },
+  {
+    "file_offset": 37071,
+    "addr": "0x91cf",
+    "kind": "Write",
+    "text": "The chair and the wall spin around, putting you in another room."
+  },
+  {
+    "file_offset": 37235,
+    "addr": "0x9273",
+    "kind": "Write",
+    "text": "Delicious!"
+  },
+  {
+    "file_offset": 37263,
+    "addr": "0x928f",
+    "kind": "Write",
+    "text": "  Your hunger has been completely satisfied."
+  },
+  {
+    "file_offset": 37377,
+    "addr": "0x9301",
+    "kind": "PushStr",
+    "text": "You won't drain the pool that way!"
+  },
+  {
+    "file_offset": 37447,
+    "addr": "0x9347",
+    "kind": "Write",
+    "text": "Ick!  It tastes terrible!"
+  },
+  {
+    "file_offset": 37493,
+    "addr": "0x9375",
+    "kind": "Write",
+    "text": "The intoxicating effect of the champagne is so great "
+  },
+  {
+    "file_offset": 37550,
+    "addr": "0x93ae",
+    "kind": "Write",
+    "text": "that you stumble about for several minutes."
+  },
+  {
+    "file_offset": 37770,
+    "addr": "0x948a",
+    "kind": "Write",
+    "text": "Mmmm!  The river's mineral water is delicious!"
+  },
+  {
+    "file_offset": 37837,
+    "addr": "0x94cd",
+    "kind": "Write",
+    "text": "The taste is very nice.  (It has, in fact, a sort of mixed flavor of cherry-    "
+  },
+  {
+    "file_offset": 37921,
+    "addr": "0x9521",
+    "kind": "Write",
+    "text": "tart, custard, pineapple, roast turkey, toffy, and hot buttered toast.)"
+  },
+  {
+    "file_offset": 38013,
+    "addr": "0x957d",
+    "kind": "Write",
+    "text": "The wine here is exquisite!"
+  },
+  {
+    "file_offset": 38080,
+    "addr": "0x95c0",
+    "kind": "Write",
+    "text": "Bloodthirsty guttersnipe!"
+  },
+  {
+    "file_offset": 38244,
+    "addr": "0x9664",
+    "kind": "Write",
+    "text": "Room descriptions now appear "
+  },
+  {
+    "file_offset": 38290,
+    "addr": "0x9692",
+    "kind": "PushStr",
+    "text": "only after a LOOK, and sound output is suppressed."
+  },
+  {
+    "file_offset": 38363,
+    "addr": "0x96db",
+    "kind": "PushStr",
+    "text": "only the first time a room is entered."
+  },
+  {
+    "file_offset": 38424,
+    "addr": "0x9718",
+    "kind": "PushStr",
+    "text": "every time a room is entered."
+  },
+  {
+    "file_offset": 38489,
+    "addr": "0x9759",
+    "kind": "PushStr",
+    "text": "It is too dark to find anything to climb."
+  },
+  {
+    "file_offset": 38552,
+    "addr": "0x9798",
+    "kind": "PushStr",
+    "text": "xtreesbranches"
+  },
+  {
+    "file_offset": 38581,
+    "addr": "0x97b5",
+    "kind": "PushStr",
+    "text": "Don't bother."
+  },
+  {
+    "file_offset": 38992,
+    "addr": "0x9950",
+    "kind": "PushStr",
+    "text": "The ladder is not long enough."
+  },
+  {
+    "file_offset": 39094,
+    "addr": "0x99b6",
+    "kind": "PushStr",
+    "text": "There is nothing above to be reached."
+  },
+  {
+    "file_offset": 39146,
+    "addr": "0x99ea",
+    "kind": "PushStr",
+    "text": "You can reach that without the ladder."
+  },
+  {
+    "file_offset": 39240,
+    "addr": "0x9a48",
+    "kind": "PushStr",
+    "text": "The wall is too slippery to climb."
+  },
+  {
+    "file_offset": 39418,
+    "addr": "0x9afa",
+    "kind": "Write",
+    "text": "As you shelve the book, the bookcase slides over to reveal a staircase leading  downward!"
+  },
+  {
+    "file_offset": 39552,
+    "addr": "0x9b80",
+    "kind": "PushStr",
+    "text": "You have nothing with which to clean!"
+  },
+  {
+    "file_offset": 39649,
+    "addr": "0x9be1",
+    "kind": "PushStr",
+    "text": "You can't wash with filthy water!"
+  },
+  {
+    "file_offset": 39755,
+    "addr": "0x9c4b",
+    "kind": "Write",
+    "text": "All right, but what a waste of good wine!"
+  },
+  {
+    "file_offset": 40141,
+    "addr": "0x9dcd",
+    "kind": "Write",
+    "text": "The earth trembles for a moment.  A low voice is heard from the depths of the   "
+  },
+  {
+    "file_offset": 40225,
+    "addr": "0x9e21",
+    "kind": "Write",
+    "text": "well.  \"Xceron is a great force, equal to forty men!\""
+  },
+  {
+    "file_offset": 40304,
+    "addr": "0x9e70",
+    "kind": "Write",
+    "text": "A merry laughter echoes from the depths of the well."
+  },
+  {
+    "file_offset": 40369,
+    "addr": "0x9eb1",
+    "kind": "Write",
+    "text": "An enormous fist comes out from the well, hovers above your head for a moment,  "
+  },
+  {
+    "file_offset": 40453,
+    "addr": "0x9f05",
+    "kind": "Write",
+    "text": "and then comes crashing down, reducing you to dust!"
+  },
+  {
+    "file_offset": 40531,
+    "addr": "0x9f53",
+    "kind": "Write",
+    "text": "The liquid flows down the opening and is heard spilling into a room far below."
+  },
+  {
+    "file_offset": 40622,
+    "addr": "0x9fae",
+    "kind": "Write",
+    "text": "The flask is now empty."
+  },
+  {
+    "file_offset": 40697,
+    "addr": "0x9ff9",
+    "kind": "PushStr",
+    "text": "There doesn't seem to be any way to lower the drawbridge from here."
+  },
+  {
+    "file_offset": 40846,
+    "addr": "0xa08e",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 40867,
+    "addr": "0xa0a3",
+    "kind": "Write",
+    "text": " look"
+  },
+  {
+    "file_offset": 40917,
+    "addr": "0xa0d5",
+    "kind": "Write",
+    "text": " at you quizzically."
+  },
+  {
+    "file_offset": 40958,
+    "addr": "0xa0fe",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 40979,
+    "addr": "0xa113",
+    "kind": "Write",
+    "text": " says that you "
+  },
+  {
+    "file_offset": 41011,
+    "addr": "0xa133",
+    "kind": "Write",
+    "text": " funny."
+  },
+  {
+    "file_offset": 41039,
+    "addr": "0xa14f",
+    "kind": "Write",
+    "text": "It purrs with delight."
+  },
+  {
+    "file_offset": 41167,
+    "addr": "0xa1cf",
+    "kind": "Write",
+    "text": "There is a rattling inside!"
+  },
+  {
+    "file_offset": 41270,
+    "addr": "0xa236",
+    "kind": "Write",
+    "text": "Presto!  The table is covered with delicious food."
+  },
+  {
+    "file_offset": 41398,
+    "addr": "0xa2b6",
+    "kind": "Write",
+    "text": "The floor parts with a tremendous roar that shakes the castle!"
+  },
+  {
+    "file_offset": 41535,
+    "addr": "0xa33f",
+    "kind": "Write",
+    "text": "The dragons pop back to life!"
+  },
+  {
+    "file_offset": 41635,
+    "addr": "0xa3a3",
+    "kind": "PushStr",
+    "text": "Trying to break the "
+  },
+  {
+    "file_offset": 41669,
+    "addr": "0xa3c5",
+    "kind": "PushStr",
+    "text": " accomplishes nothing."
+  },
+  {
+    "file_offset": 41709,
+    "addr": "0xa3ed",
+    "kind": "PushStr",
+    "text": "The "
+  },
+  {
+    "file_offset": 41727,
+    "addr": "0xa3ff",
+    "kind": "PushStr",
+    "text": " cannot be broken."
+  },
+  {
+    "file_offset": 41871,
+    "addr": "0xa48f",
+    "kind": "Write",
+    "text": "Be not deceived; God is not mocked!"
+  },
+  {
+    "file_offset": 41927,
+    "addr": "0xa4c7",
+    "kind": "Write",
+    "text": "The statue smashes, and a poisonous gas emerges!"
+  },
+  {
+    "file_offset": 42002,
+    "addr": "0xa512",
+    "kind": "Write",
+    "text": "The wind shifts, blowing the toxic gas into your eyes and blinding you          "
+  },
+  {
+    "file_offset": 42086,
+    "addr": "0xa566",
+    "kind": "Write",
+    "text": "permanently."
+  },
+  {
+    "file_offset": 42138,
+    "addr": "0xa59a",
+    "kind": "Write",
+    "text": "With your dying breath, you notice something glistening among the fragments."
+  },
+  {
+    "file_offset": 42263,
+    "addr": "0xa617",
+    "kind": "Write",
+    "text": "Crash!!  The mirror shatters, revealing a secret passage extending south!"
+  },
+  {
+    "file_offset": 42391,
+    "addr": "0xa697",
+    "kind": "PushStr",
+    "text": "windowsorieldormer"
+  },
+  {
+    "file_offset": 42427,
+    "addr": "0xa6bb",
+    "kind": "Write",
+    "text": "Just like a little kid!  You can't think of anything clever to do, so you go"
+  },
+  {
+    "file_offset": 42510,
+    "addr": "0xa70e",
+    "kind": "PushStr",
+    "text": "around breaking other people's windows!"
+  },
+  {
+    "file_offset": 42822,
+    "addr": "0xa846",
+    "kind": "PushStr",
+    "text": "music"
+  },
+  {
+    "file_offset": 42988,
+    "addr": "0xa8ec",
+    "kind": "Write",
+    "text": "The oboe is filled with too much dirt to play."
+  },
+  {
+    "file_offset": 43063,
+    "addr": "0xa937",
+    "kind": "Write",
+    "text": "You play very well!  "
+  },
+  {
+    "file_offset": 43120,
+    "addr": "0xa970",
+    "kind": "Write",
+    "text": "Your soothing notes put the tiger to sleep."
+  },
+  {
+    "file_offset": 43190,
+    "addr": "0xa9b6",
+    "kind": "Write",
+    "text": "Unfortunately, the tiger is tired of hearing you play and  "
+  },
+  {
+    "file_offset": 43253,
+    "addr": "0xa9f5",
+    "kind": "Write",
+    "text": "continues to pace angrily."
+  },
+  {
+    "file_offset": 43319,
+    "addr": "0xaa37",
+    "kind": "Write",
+    "text": "You play very well, although the harpsichord sounds tinny."
+  },
+  {
+    "file_offset": 43456,
+    "addr": "0xaac0",
+    "kind": "Write",
+    "text": "Poof!  The frog turns into a "
+  },
+  {
+    "file_offset": 43578,
+    "addr": "0xab3a",
+    "kind": "Write",
+    "text": "The coward does it with a kiss, the brave man with a sword!"
+  },
+  {
+    "file_offset": 43658,
+    "addr": "0xab8a",
+    "kind": "Write",
+    "text": "Says the troll, \"Open rebuke is better than secret love.  Faithful are the      "
+  },
+  {
+    "file_offset": 43742,
+    "addr": "0xabde",
+    "kind": "Write",
+    "text": "wounds of a friend; but the kisses of an enemy are deceitful.\""
+  },
+  {
+    "file_offset": 43830,
+    "addr": "0xac36",
+    "kind": "Write",
+    "text": "You're getting pretty desperate without the "
+  },
+  {
+    "file_offset": 43891,
+    "addr": "0xac73",
+    "kind": "Write",
+    "text": ", aren't you?"
+  },
+  {
+    "file_offset": 43935,
+    "addr": "0xac9f",
+    "kind": "Write",
+    "text": "Some there be that shadows kiss, such have but a shadow's bliss."
+  },
+  {
+    "file_offset": 44020,
+    "addr": "0xacf4",
+    "kind": "Write",
+    "text": "Witchcraft celebrates pale Hecate's offerings."
+  },
+  {
+    "file_offset": 44087,
+    "addr": "0xad37",
+    "kind": "Write",
+    "text": "The kiss you take is better than you give!"
+  },
+  {
+    "file_offset": 44155,
+    "addr": "0xad7b",
+    "kind": "Write",
+    "text": "Lord, I wonder what fool it was that first invented kissing!"
+  },
+  {
+    "file_offset": 44406,
+    "addr": "0xae76",
+    "kind": "Write",
+    "text": "The back of the fireplace opens!"
+  },
+  {
+    "file_offset": 44486,
+    "addr": "0xaec6",
+    "kind": "Write",
+    "text": "They're"
+  },
+  {
+    "file_offset": 44503,
+    "addr": "0xaed7",
+    "kind": "Write",
+    "text": "It's"
+  },
+  {
+    "file_offset": 44511,
+    "addr": "0xaedf",
+    "kind": "PushStr",
+    "text": " not lighted."
+  },
+  {
+    "file_offset": 44583,
+    "addr": "0xaf27",
+    "kind": "PushStr",
+    "text": "It's not lighted."
+  },
+  {
+    "file_offset": 44715,
+    "addr": "0xafab",
+    "kind": "PushStr",
+    "text": "You have no food!"
+  },
+  {
+    "file_offset": 44778,
+    "addr": "0xafea",
+    "kind": "PushStr",
+    "text": "The witches' pets eat only insects."
+  },
+  {
+    "file_offset": 44839,
+    "addr": "0xb027",
+    "kind": "Write",
+    "text": "\"My life, my joy, my food, my all the world!\" recites the "
+  },
+  {
+    "file_offset": 44914,
+    "addr": "0xb072",
+    "kind": "Write",
+    "text": " while eating."
+  },
+  {
+    "file_offset": 44967,
+    "addr": "0xb0a7",
+    "kind": "PushStr",
+    "text": "Witches eat only viscera."
+  },
+  {
+    "file_offset": 45018,
+    "addr": "0xb0da",
+    "kind": "Write",
+    "text": "The tiger devours the food and goes back to sleep."
+  },
+  {
+    "file_offset": 45104,
+    "addr": "0xb130",
+    "kind": "PushStr",
+    "text": "It doesn't want your food.  It wants YOU."
+  },
+  {
+    "file_offset": 45204,
+    "addr": "0xb194",
+    "kind": "PushStr",
+    "text": "abort"
+  },
+  {
+    "file_offset": 45229,
+    "addr": "0xb1ad",
+    "kind": "Write",
+    "text": "Type \"abort\" to abort command."
+  },
+  {
+    "file_offset": 45269,
+    "addr": "0xb1d5",
+    "kind": "Write",
+    "text": "Name of state"
+  },
+  {
+    "file_offset": 45307,
+    "addr": "0xb1fb",
+    "kind": "Write",
+    "text": " (default = "
+  },
+  {
+    "file_offset": 45435,
+    "addr": "0xb27b",
+    "kind": "PushStr",
+    "text": "abort"
+  },
+  {
+    "file_offset": 45640,
+    "addr": "0xb348",
+    "kind": "Write",
+    "text": "Game state saved."
+  },
+  {
+    "file_offset": 45670,
+    "addr": "0xb366",
+    "kind": "Write",
+    "text": "Disk full -- save unsuccessful."
+  },
+  {
+    "file_offset": 45721,
+    "addr": "0xb399",
+    "kind": "Write",
+    "text": "Illegal state name -- save unsuccessful."
+  },
+  {
+    "file_offset": 45802,
+    "addr": "0xb3ea",
+    "kind": "PushStr",
+    "text": "abort"
+  },
+  {
+    "file_offset": 45997,
+    "addr": "0xb4ad",
+    "kind": "Write",
+    "text": "No such state."
+  },
+  {
+    "file_offset": 46052,
+    "addr": "0xb4e4",
+    "kind": "PushStr",
+    "text": "abort"
+  },
+  {
+    "file_offset": 46140,
+    "addr": "0xb53c",
+    "kind": "PushStr",
+    "text": "abort"
+  },
+  {
+    "file_offset": 46232,
+    "addr": "0xb598",
+    "kind": "Write",
+    "text": "State deleted."
+  },
+  {
+    "file_offset": 46259,
+    "addr": "0xb5b3",
+    "kind": "Write",
+    "text": "No such state."
+  },
+  {
+    "file_offset": 46618,
+    "addr": "0xb71a",
+    "kind": "PushStr",
+    "text": "*."
+  },
+  {
+    "file_offset": 46660,
+    "addr": "0xb744",
+    "kind": "Write",
+    "text": "No saved states."
+  },
+  {
+    "file_offset": 46929,
+    "addr": "0xb851",
+    "kind": "Write",
+    "text": "A great whiffling and burbling is heard!"
+  },
+  {
+    "file_offset": 47025,
+    "addr": "0xb8b1",
+    "kind": "Write",
+    "text": "Only the sounds of the storm are heard."
+  },
+  {
+    "file_offset": 47100,
+    "addr": "0xb8fc",
+    "kind": "Write",
+    "text": "You hear a fearful cackling."
+  },
+  {
+    "file_offset": 47159,
+    "addr": "0xb937",
+    "kind": "Write",
+    "text": "You hear running water."
+  },
+  {
+    "file_offset": 47203,
+    "addr": "0xb963",
+    "kind": "Write",
+    "text": "\"There must be more money!\""
+  },
+  {
+    "file_offset": 47251,
+    "addr": "0xb993",
+    "kind": "Write",
+    "text": "The music is unadulterated Elizabethan boogie, not to be taken seriously."
+  },
+  {
+    "file_offset": 47355,
+    "addr": "0xb9fb",
+    "kind": "Write",
+    "text": "A faint tapping sound is heard."
+  },
+  {
+    "file_offset": 47441,
+    "addr": "0xba51",
+    "kind": "Write",
+    "text": "You hear the snorting of dragons."
+  },
+  {
+    "file_offset": 47529,
+    "addr": "0xbaa9",
+    "kind": "Write",
+    "text": "The troll's expletives should not be printed."
+  },
+  {
+    "file_offset": 47666,
+    "addr": "0xbb32",
+    "kind": "Write",
+    "text": "Something is ticking."
+  },
+  {
+    "file_offset": 47700,
+    "addr": "0xbb54",
+    "kind": "Write",
+    "text": "All is quiet."
+  },
+  {
+    "file_offset": 47765,
+    "addr": "0xbb95",
+    "kind": "PushStr",
+    "text": "book"
+  },
+  {
+    "file_offset": 47795,
+    "addr": "0xbbb3",
+    "kind": "Write",
+    "text": "Because only two words can be understood at a time, it is difficult to          "
+  },
+  {
+    "file_offset": 47879,
+    "addr": "0xbc07",
+    "kind": "Write",
+    "text": "understand you.  Try to rephrase your command."
+  },
+  {
+    "file_offset": 48215,
+    "addr": "0xbd57",
+    "kind": "Write",
+    "text": "The basilisk"
+  },
+  {
+    "file_offset": 48245,
+    "addr": "0xbd75",
+    "kind": "Write",
+    "text": "The Zimbu"
+  },
+  {
+    "file_offset": 48261,
+    "addr": "0xbd85",
+    "kind": "Write",
+    "text": " is after you!"
+  },
+  {
+    "file_offset": 48501,
+    "addr": "0xbe75",
+    "kind": "Write",
+    "text": "\r\n"
+  },
+  {
+    "file_offset": 48507,
+    "addr": "0xbe7b",
+    "kind": "Write",
+    "text": "The "
+  },
+  {
+    "file_offset": 48528,
+    "addr": "0xbe90",
+    "kind": "Write",
+    "text": " walks away to the "
+  },
+  {
+    "file_offset": 48709,
+    "addr": "0xbf45",
+    "kind": "Write",
+    "text": "You are becoming extremely hungry."
+  },
+  {
+    "file_offset": 48764,
+    "addr": "0xbf7c",
+    "kind": "Write",
+    "text": "You are feeling weak from the lack of nourishment.  If you do not find food soonyou will collapse."
+  },
+  {
+    "file_offset": 48883,
+    "addr": "0xbff3",
+    "kind": "Write",
+    "text": "You feel dizzy and your vision is cloudy.  You can last only a few more minutes without food."
+  },
+  {
+    "file_offset": 49006,
+    "addr": "0xc06e",
+    "kind": "Write",
+    "text": "You collapse.  As the life seeps from your body you notice the castle rats begin"
+  },
+  {
+    "file_offset": 49090,
+    "addr": "0xc0c2",
+    "kind": "Write",
+    "text": "to gather around you."
+  },
+  {
+    "file_offset": 49283,
+    "addr": "0xc183",
+    "kind": "Write",
+    "text": "The wind has blown out the torch!"
+  },
+  {
+    "file_offset": 49463,
+    "addr": "0xc237",
+    "kind": "Write",
+    "text": "The stable collapses, and you burn to death in the flames!"
+  },
+  {
+    "file_offset": 49554,
+    "addr": "0xc292",
+    "kind": "Write",
+    "text": "The castle burns to the ground before you have escaped!"
+  },
+  {
+    "file_offset": 49868,
+    "addr": "0xc3cc",
+    "kind": "PushStr",
+    "text": "Would you like to begin again?"
+  },
+  {
+    "file_offset": 50032,
+    "addr": "0xc470",
+    "kind": "Write",
+    "text": "Sorry, but you are dead."
+  },
+  {
+    "file_offset": 50077,
+    "addr": "0xc49d",
+    "kind": "Write",
+    "text": "You have died on this adventure."
+  },
+  {
+    "file_offset": 50130,
+    "addr": "0xc4d2",
+    "kind": "Write",
+    "text": "You are no longer alive!"
+  },
+  {
+    "file_offset": 50267,
+    "addr": "0xc55b",
+    "kind": "PushStr",
+    "text": "xceron"
+  },
+  {
+    "file_offset": 50338,
+    "addr": "0xc5a2",
+    "kind": "PushStr",
+    "text": "upwa"
+  },
+  {
+    "file_offset": 50359,
+    "addr": "0xc5b7",
+    "kind": "PushStr",
+    "text": "up"
+  },
+  {
+    "file_offset": 50553,
+    "addr": "0xc679",
+    "kind": "PushStr",
+    "text": "retu"
+  },
+  {
+    "file_offset": 50582,
+    "addr": "0xc696",
+    "kind": "PushStr",
+    "text": "in"
+  },
+  {
+    "file_offset": 50625,
+    "addr": "0xc6c1",
+    "kind": "PushStr",
+    "text": "slide"
+  },
+  {
+    "file_offset": 50692,
+    "addr": "0xc704",
+    "kind": "PushStr",
+    "text": "malabar"
+  },
+  {
+    "file_offset": 50711,
+    "addr": "0xc717",
+    "kind": "PushStr",
+    "text": "\"Malabar\" doesn't do anything.  It's just the name of the horse."
+  },
+  {
+    "file_offset": 50804,
+    "addr": "0xc774",
+    "kind": "PushStr",
+    "text": "What?"
+  },
+  {
+    "file_offset": 50824,
+    "addr": "0xc788",
+    "kind": "PushStr",
+    "text": "You don't know how to "
+  },
+  {
+    "file_offset": 50885,
+    "addr": "0xc7c5",
+    "kind": "PushStr",
+    "text": " the "
+  },
+  {
+    "file_offset": 50933,
+    "addr": "0xc7f5",
+    "kind": "PushStr",
+    "text": " a "
+  },
+  {
+    "file_offset": 50979,
+    "addr": "0xc823",
+    "kind": "PushStr",
+    "text": " to "
+  },
+  {
+    "file_offset": 51050,
+    "addr": "0xc86a",
+    "kind": "PushStr",
+    "text": "pick up "
+  },
+  {
+    "file_offset": 51085,
+    "addr": "0xc88d",
+    "kind": "PushStr",
+    "text": "get"
+  },
+  {
+    "file_offset": 51134,
+    "addr": "0xc8be",
+    "kind": "PushStr",
+    "text": "blow out "
+  },
+  {
+    "file_offset": 51369,
+    "addr": "0xc9a9",
+    "kind": "PushStr",
+    "text": "it"
+  },
+  {
+    "file_offset": 51386,
+    "addr": "0xc9ba",
+    "kind": "PushStr",
+    "text": "him"
+  },
+  {
+    "file_offset": 51407,
+    "addr": "0xc9cf",
+    "kind": "PushStr",
+    "text": "her"
+  },
+  {
+    "file_offset": 51428,
+    "addr": "0xc9e4",
+    "kind": "PushStr",
+    "text": "them"
+  },
+  {
+    "file_offset": 51998,
+    "addr": "0xcc1e",
+    "kind": "Write",
+    "text": "Digging without a shovel is most impractical."
+  },
+  {
+    "file_offset": 52064,
+    "addr": "0xcc60",
+    "kind": "Write",
+    "text": "You must locate things by yourself."
+  },
+  {
+    "file_offset": 52145,
+    "addr": "0xccb1",
+    "kind": "Write",
+    "text": "Your questions cannot be answered."
+  },
+  {
+    "file_offset": 52200,
+    "addr": "0xcce8",
+    "kind": "Write",
+    "text": "This is no time for merriment!"
+  },
+  {
+    "file_offset": 52251,
+    "addr": "0xcd1b",
+    "kind": "Write",
+    "text": "Your prayers are in vain."
+  },
+  {
+    "file_offset": 52325,
+    "addr": "0xcd65",
+    "kind": "Write",
+    "text": "You need a magic spell to save your state."
+  },
+  {
+    "file_offset": 52751,
+    "addr": "0xcf0f",
+    "kind": "Write",
+    "text": "Ok, \""
+  },
+  {
+    "file_offset": 52773,
+    "addr": "0xcf25",
+    "kind": "Write",
+    "text": ".\""
+  },
+  {
+    "file_offset": 52815,
+    "addr": "0xcf4f",
+    "kind": "Write",
+    "text": "What do you want to do with the "
+  },
+  {
+    "file_offset": 52864,
+    "addr": "0xcf80",
+    "kind": "Write",
+    "text": "? "
+  },
+  {
+    "file_offset": 53692,
+    "addr": "0xd2bc",
+    "kind": "PushStr",
+    "text": "Excellent!  You have escaped from the castle!"
+  },
+  {
+    "file_offset": 53788,
+    "addr": "0xd31c",
+    "kind": "PushStr",
+    "text": "You've rescued the "
+  },
+  {
+    "file_offset": 53839,
+    "addr": "0xd34f",
+    "kind": "PushStr",
+    "text": "You left the "
+  },
+  {
+    "file_offset": 53866,
+    "addr": "0xd36a",
+    "kind": "PushStr",
+    "text": " in the castle."
+  },
+  {
+    "file_offset": 53935,
+    "addr": "0xd3af",
+    "kind": "PushStr",
+    "text": "You have the Star Diamond!"
+  },
+  {
+    "file_offset": 53976,
+    "addr": "0xd3d8",
+    "kind": "PushStr",
+    "text": "You did not leave with the Star Diamond."
+  },
+  {
+    "file_offset": 54067,
+    "addr": "0xd433",
+    "kind": "PushStr",
+    "text": "The castle has been demolished by the fire!"
+  },
+  {
+    "file_offset": 54174,
+    "addr": "0xd49e",
+    "kind": "Write",
+    "text": "You have completed the entire Enchanted Castle adventure game!"
+  },
+  {
+    "file_offset": 54270,
+    "addr": "0xd4fe",
+    "kind": "PushStr",
+    "text": "Too bad you didn't destroy the castle as you left."
+  },
+  {
+    "file_offset": 54504,
+    "addr": "0xd5e8",
+    "kind": "PushStr",
+    "text": "EC.DAT"
+  },
+  {
+    "file_offset": 54542,
+    "addr": "0xd60e",
+    "kind": "Write",
+    "text": "EC.DAT not found."
+  },
+  {
+    "file_offset": 54591,
+    "addr": "0xd63f",
+    "kind": "Write",
+    "text": "(C) Copyright 1986 Michael R. Wilk    All rights reserved    Release 1"
+  }
+]

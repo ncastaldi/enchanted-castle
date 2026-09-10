@@ -1,0 +1,225 @@
+[
+  {
+    "code": "torc",
+    "raw_code": "torc",
+    "index": 0,
+    "default_name": "burning torch",
+    "alternate_name": "unlighted torch",
+    "notes": "Torch - light source; burning/unlighted states"
+  },
+  {
+    "code": "oboe",
+    "raw_code": "oboe",
+    "index": 1,
+    "default_name": "dusty oboe",
+    "alternate_name": "shiny oboe",
+    "notes": "Oboe - musical instrument; dusty/shiny states (a cleaning puzzle)"
+  },
+  {
+    "code": "cros",
+    "raw_code": "cros",
+    "index": 2,
+    "default_name": "wooden cross",
+    "alternate_name": "broken cross",
+    "notes": "Cross - wooden cross; can be broken"
+  },
+  {
+    "code": "flas",
+    "raw_code": "flas",
+    "index": 3,
+    "default_name": "flask of",
+    "alternate_name": "empty flask",
+    "notes": "Flask - liquid container; full/empty. Contents seen: grimy water, champagne, mineral water (colors: green/cyan/red/magenta/brown/white liquid/wine) -- likely a potion-mixing / color puzzle"
+  },
+  {
+    "code": "frog",
+    "raw_code": "frog",
+    "index": 4,
+    "default_name": "hideous frog",
+    "alternate_name": "dead frog",
+    "notes": "Hideous frog -- becomes 'dead frog' or transforms into the prince (fairy-tale curse-breaking puzzle)"
+  },
+  {
+    "code": "prin",
+    "raw_code": "prin",
+    "index": 5,
+    "default_name": "fair princess",
+    "alternate_name": "handsome prince",
+    "notes": "Fair princess, OR (after the frog/prince twist) handsome prince"
+  },
+  {
+    "code": "armo",
+    "raw_code": "armo",
+    "index": 6,
+    "default_name": "armor",
+    "notes": "Armor - wearable"
+  },
+  {
+    "code": "book",
+    "raw_code": "book",
+    "index": 7,
+    "default_name": "book",
+    "notes": "Book - readable object"
+  },
+  {
+    "code": "ladd",
+    "raw_code": "ladd",
+    "index": 8,
+    "default_name": "long ladder",
+    "notes": "Long ladder - tool for reaching high places"
+  },
+  {
+    "code": "swor",
+    "raw_code": "swor",
+    "index": 9,
+    "default_name": "silver sword",
+    "notes": "Silver sword - weapon"
+  },
+  {
+    "code": "seca",
+    "raw_code": "seca",
+    "index": 10,
+    "default_name": "secateurs",
+    "notes": "Secateurs - garden shears (likely used to cut the thicket/hedge maze!)"
+  },
+  {
+    "code": "boxo",
+    "raw_code": "boxo",
+    "index": 11,
+    "default_name": "ticking box",
+    "notes": "Ticking box - likely a bomb/trap ('KABOOM!' / 'gigantic explosion' messages)"
+  },
+  {
+    "code": "diam",
+    "raw_code": "diam",
+    "index": 12,
+    "default_name": "The Star Diamond",
+    "notes": "The Star Diamond - the game's main treasure / a win-condition item"
+  },
+  {
+    "code": "bell",
+    "raw_code": "bell",
+    "index": 13,
+    "default_name": "servants' bell",
+    "notes": "Servants' bell"
+  },
+  {
+    "code": "stat",
+    "raw_code": "stat",
+    "index": 14,
+    "default_name": "porcelain statue",
+    "notes": "Porcelain statue"
+  },
+  {
+    "code": "food",
+    "raw_code": "food",
+    "index": 15,
+    "default_name": "tasty food",
+    "notes": "Tasty food - consumable"
+  },
+  {
+    "code": "wand",
+    "raw_code": "wand",
+    "index": 16,
+    "default_name": "sorcerer's wand",
+    "notes": "Sorcerer's wand - magic item"
+  },
+  {
+    "code": "keys",
+    "raw_code": "keys",
+    "index": 17,
+    "default_name": "set of keys",
+    "notes": "Set of keys (plural) - the troll can steal these"
+  },
+  {
+    "code": "key",
+    "raw_code": "key",
+    "index": 18,
+    "default_name": "golden key",
+    "notes": "Golden key (singular) - distinct object from 'keys'"
+  },
+  {
+    "code": "brid",
+    "raw_code": "brid",
+    "index": 19,
+    "notes": "Scenery noun (possibly 'bridle'); no inventory long-name found -- likely fixed scenery, not carryable"
+  },
+  {
+    "code": "cand",
+    "raw_code": "cand",
+    "index": 20,
+    "notes": "Candle - scenery/light-related noun"
+  },
+  {
+    "code": "hay",
+    "raw_code": "hay",
+    "index": 21,
+    "notes": "Hay - scenery noun"
+  },
+  {
+    "code": "mirr",
+    "raw_code": "mirr",
+    "index": 22,
+    "notes": "Mirror - scenery noun"
+  },
+  {
+    "code": "harp",
+    "raw_code": "harp",
+    "index": 23,
+    "notes": "Harp - scenery/musical noun (PC-speaker music plays somewhere in the castle per community notes)"
+  },
+  {
+    "code": "pict",
+    "raw_code": "pict",
+    "index": 24,
+    "notes": "Picture - scenery noun"
+  },
+  {
+    "code": "drag",
+    "raw_code": "drag",
+    "index": 25,
+    "notes": "Dragon(s) - monster; 'Fierce dragons block your path!'"
+  },
+  {
+    "code": "trol",
+    "raw_code": "trol",
+    "index": 26,
+    "notes": "Troll - monster; blocks a path and can steal your keys"
+  },
+  {
+    "code": "spid",
+    "raw_code": "spid",
+    "index": 27,
+    "notes": "Spider - monster/creature; likely the subject of the in-game riddle poem"
+  },
+  {
+    "code": "snak",
+    "raw_code": "snak",
+    "index": 28,
+    "notes": "Snake - monster/creature"
+  },
+  {
+    "code": "witc",
+    "raw_code": "witc",
+    "index": 29,
+    "notes": "Witch/witches - monster; 'The witches prevent you from coming near.'"
+  },
+  {
+    "code": "tige",
+    "raw_code": "tige",
+    "index": 30,
+    "notes": "Tiger - monster; blocks a path"
+  },
+  {
+    "code": "basi",
+    "raw_code": "basi",
+    "index": 31,
+    "notes": "Basilisk - monster; lethal poisonous breath attack"
+  },
+  {
+    "code": "zimb",
+    "raw_code": "zimb",
+    "index": 32,
+    "notes": "Zimbu - giant/ogre monster; instant-death crushing attack"
+  }
+]

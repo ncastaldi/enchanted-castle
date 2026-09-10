@@ -1,0 +1,97 @@
+{
+  "note": "Only the 5-room 'thicket' maze was fully confirmed to fit a clean fixed 63-byte record. Other rooms in the file likely use a variable-length record (probably record length depends on how many trackable objects/flags that room has), so this fixed stride does not extend further. See ANALYSIS.md for details and next steps.",
+  "record_layout_confirmed": {
+    "total_record_size_bytes": 63,
+    "byte_0": "Pascal length-prefix byte for the room's location phrase (e.g. 'in the thicket')",
+    "bytes_1_to_39": "phrase text, space-padded to 39 bytes",
+    "byte_40": "0xFF sentinel marking end of the phrase field",
+    "bytes_41_to_62": "22 bytes (~10-11 words) of exit/flag data -- 0x0091 (145) recurs and is hypothesized to be a 'no exit here' sentinel; exact field meaning (which word = which compass direction, etc.) NOT yet confirmed"
+  },
+  "rooms": [
+    {
+      "file_offset": 966,
+      "phrase": "in the thicket",
+      "tail_words_hex": [
+        "0x1",
+        "0x3",
+        "0x5",
+        "0x2",
+        "0x91",
+        "0x91",
+        "0x5",
+        "0x3",
+        "0x2",
+        "0x2"
+      ],
+      "tail_leftover_byte": "0x2"
+    },
+    {
+      "file_offset": 1029,
+      "phrase": "in the thicket",
+      "tail_words_hex": [
+        "0x2",
+        "0x1",
+        "0x3",
+        "0x2",
+        "0x91",
+        "0x91",
+        "0x2",
+        "0x3",
+        "0x2",
+        "0x3"
+      ],
+      "tail_leftover_byte": "0x2"
+    },
+    {
+      "file_offset": 1092,
+      "phrase": "in the thicket",
+      "tail_words_hex": [
+        "0x1",
+        "0x1",
+        "0x9",
+        "0x1",
+        "0x91",
+        "0x91",
+        "0x4",
+        "0x5",
+        "0x1",
+        "0x1"
+      ],
+      "tail_leftover_byte": "0x2"
+    },
+    {
+      "file_offset": 1155,
+      "phrase": "in the thicket",
+      "tail_words_hex": [
+        "0x1",
+        "0x2",
+        "0xa",
+        "0x1",
+        "0x91",
+        "0x91",
+        "0x4",
+        "0x3",
+        "0x1",
+        "0x2"
+      ],
+      "tail_leftover_byte": "0x2"
+    },
+    {
+      "file_offset": 1218,
+      "phrase": "in the thicket",
+      "tail_words_hex": [
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91",
+        "0x91"
+      ],
+      "tail_leftover_byte": "0x1"
+    }
+  ]
+}

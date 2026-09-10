@@ -1,0 +1,2849 @@
+{
+  "total_rooms": 143,
+  "rooms": [
+    {
+      "id": 0,
+      "phrase": "in the thicket",
+      "description_index": 255,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 0
+        },
+        "S": {
+          "room": 3,
+          "flags": 0
+        },
+        "E": {
+          "room": 5,
+          "flags": 0
+        },
+        "W": {
+          "room": 2,
+          "flags": 0
+        },
+        "NE": {
+          "room": 5,
+          "flags": 0
+        },
+        "NW": {
+          "room": 3,
+          "flags": 0
+        },
+        "SE": {
+          "room": 2,
+          "flags": 0
+        },
+        "SW": {
+          "room": 2,
+          "flags": 0
+        }
+      },
+      "room_flags": 2
+    },
+    {
+      "id": 1,
+      "phrase": "in the thicket",
+      "description_index": 255,
+      "exits": {
+        "N": {
+          "room": 2,
+          "flags": 0
+        },
+        "S": {
+          "room": 1,
+          "flags": 0
+        },
+        "E": {
+          "room": 3,
+          "flags": 0
+        },
+        "W": {
+          "room": 2,
+          "flags": 0
+        },
+        "NE": {
+          "room": 2,
+          "flags": 0
+        },
+        "NW": {
+          "room": 3,
+          "flags": 0
+        },
+        "SE": {
+          "room": 2,
+          "flags": 0
+        },
+        "SW": {
+          "room": 3,
+          "flags": 0
+        }
+      },
+      "room_flags": 2
+    },
+    {
+      "id": 2,
+      "phrase": "in the thicket",
+      "description_index": 255,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 0
+        },
+        "S": {
+          "room": 1,
+          "flags": 0
+        },
+        "E": {
+          "room": 9,
+          "flags": 0
+        },
+        "W": {
+          "room": 1,
+          "flags": 0
+        },
+        "NE": {
+          "room": 4,
+          "flags": 0
+        },
+        "NW": {
+          "room": 5,
+          "flags": 0
+        },
+        "SE": {
+          "room": 1,
+          "flags": 0
+        },
+        "SW": {
+          "room": 1,
+          "flags": 0
+        }
+      },
+      "room_flags": 2
+    },
+    {
+      "id": 3,
+      "phrase": "in the thicket",
+      "description_index": 255,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 0
+        },
+        "S": {
+          "room": 2,
+          "flags": 0
+        },
+        "E": {
+          "room": 10,
+          "flags": 0
+        },
+        "W": {
+          "room": 1,
+          "flags": 0
+        },
+        "NE": {
+          "room": 4,
+          "flags": 0
+        },
+        "NW": {
+          "room": 3,
+          "flags": 0
+        },
+        "SE": {
+          "room": 1,
+          "flags": 0
+        },
+        "SW": {
+          "room": 2,
+          "flags": 0
+        }
+      },
+      "room_flags": 2
+    },
+    {
+      "id": 4,
+      "phrase": "in the thicket",
+      "description_index": 255,
+      "exits": {},
+      "room_flags": 1
+    },
+    {
+      "id": 5,
+      "phrase": "in the Fountain of the Moors",
+      "description_index": 0,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 0
+        },
+        "S": {
+          "room": 8,
+          "flags": 0
+        },
+        "E": {
+          "room": 14,
+          "flags": 0
+        },
+        "W": {
+          "room": 1,
+          "flags": 0
+        },
+        "SE": {
+          "room": 1,
+          "flags": 0
+        },
+        "SW": {
+          "room": 1,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "You are swimming in the deep pool.  A    steep moss-covered wall encircles you.  Any objects you may have been carrying  have sunk to the bottom as you struggle to stay afloat.  The grinning stone     figures crouch around you; no matter where you swim, you cannot escape the      streams of water th..."
+    },
+    {
+      "id": 6,
+      "phrase": "at the west end of the graveyard",
+      "description_index": 1,
+      "exits": {
+        "N": {
+          "room": 7,
+          "flags": 1
+        },
+        "S": {
+          "room": 9,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Mossy tombstones and cenotaphs stick up like green teeth between rows of one-hundred-year-old chestnut and linden    trees.  Beneath one ancient linden tree of a mighty growth is a tombstone       engraved with the words, \"Da edsil uap.\"  The graveyard extends eastward.  To   the south is a building..."
+    },
+    {
+      "id": 7,
+      "phrase": "in the greenhouse",
+      "description_index": 2,
+      "exits": {
+        "N": {
+          "room": 8,
+          "flags": 0
+        },
+        "S": {
+          "room": 10,
+          "flags": 0
+        },
+        "W": {
+          "room": 4,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "The strong smell of humus greets your nostrils.     This place is a veritable jungle, replete with many varieties of tropical flora.The damp earth seems alive with meal worms, and small reptiles dash to and fro  over your feet.  A closed ecosystem, the greenhouse presents all stages of the  life cyc..."
+    },
+    {
+      "id": 8,
+      "phrase": "at the north end of the garden",
+      "description_index": 4,
+      "exits": {
+        "N": {
+          "room": 9,
+          "flags": 0
+        },
+        "S": {
+          "room": 11,
+          "flags": 0
+        },
+        "E": {
+          "room": 17,
+          "flags": 0
+        },
+        "W": {
+          "room": 5,
+          "flags": 0
+        },
+        "U": {
+          "room": 17,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "You walk on cobbled serpentine garden- paths within the remains of elaborate parterres and topiary.  Westward, an      abandoned tree-lined lawn, once of prized English turf dotted with totemic pink flamingos, ends in a wall of brambles.  A walk southward will take you to some  weedy flower beds.  T..."
+    },
+    {
+      "id": 9,
+      "phrase": "at the south end of the garden",
+      "description_index": 5,
+      "exits": {
+        "N": {
+          "room": 10,
+          "flags": 0
+        },
+        "S": {
+          "room": 12,
+          "flags": 0
+        },
+        "D": {
+          "room": 6,
+          "flags": 1
+        }
+      },
+      "room_flags": 2,
+      "description": "Willows dangle their tresses over weedyground as if to mourn the loss of the herbs and beautiful flowers that were oncegrown here.  The garden extends northward.  Three wide, stone steps lead up to aterrace to the east.  A path leads into a dense thicket to the west.  To the    south a low wall is s..."
+    },
+    {
+      "id": 10,
+      "phrase": "at the edge of the Fountain of the Moors",
+      "description_index": 6,
+      "exits": {
+        "N": {
+          "room": 11,
+          "flags": 0
+        },
+        "S": {
+          "room": 13,
+          "flags": 0
+        },
+        "W": {
+          "room": 3,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "A stone balustrade keeps you from falling into the pool far below.  In the pool crouch black stone figures,  all smiling, as if eternally sharing some great joke.  To the north are some    abandoned gardens, beyond which a building is seen.  Something looms to the     south.  It is hard to make it o..."
+    },
+    {
+      "id": 11,
+      "phrase": "at the side of a well",
+      "description_index": 7,
+      "exits": {
+        "N": {
+          "room": 12,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "Once this well provided drinking water for the  inhabitants of the castle during a time of siege; now it is dry.  The wellhead, however, supports a miniature forest of seedlings on its moss-covered pents.    You are engulfed in a pungent cloud, thicker to the south than to the north.  A low wall can..."
+    },
+    {
+      "id": 12,
+      "phrase": "at the edge of a moat",
+      "description_index": 8,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 0
+        },
+        "E": {
+          "room": 1,
+          "flags": 0
+        },
+        "W": {
+          "room": 7,
+          "flags": 0
+        },
+        "NE": {
+          "room": 1,
+          "flags": 0
+        },
+        "NW": {
+          "room": 1,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "A foul, thick miasma rises from the water.  Now a mire alive with mosquito larvae, the moat prevents you from continuing furthersouth; in fact, the opposite bank is hidden by the putrid atmosphere.  Bubbles  rising from the sludge suggest submerged life forms!  Just barely visible is thewell to the ..."
+    },
+    {
+      "id": 13,
+      "phrase": "at the east end of the graveyard",
+      "description_index": 9,
+      "exits": {
+        "S": {
+          "room": 16,
+          "flags": 1
+        },
+        "U": {
+          "room": 14,
+          "flags": 0
+        }
+      },
+      "room_flags": 3,
+      "description": "The thicket becomes terribly gnarled at this end: thick, ancient trunks, black as charred flesh, support low brancheswith their strange burden of woolly leaves.  The waning moon shines on a nearby crypt.  Some tombstones lie to the west.  To the south is the outer wall of the castle, steep and impen..."
+    },
+    {
+      "id": 14,
+      "phrase": "in the crypt",
+      "description_index": 10,
+      "exits": {
+        "N": {
+          "room": 15,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "You hear not a sound as you explore the forbidding       Romanesque vaults.  Roughly-cut stone steps lead up into the graveyard.  At the southern end you come upon a candle flickering under a cool draft.  Three doors are seen in the nearby wall.  A sign reads \"Go Back!  Extremely hazardous!\"\n"
+    },
+    {
+      "id": 15,
+      "phrase": "in a murky dungeon",
+      "description_index": 12,
+      "exits": {
+        "E": {
+          "room": 21,
+          "flags": 0
+        },
+        "W": {
+          "room": 10,
+          "flags": 0
+        },
+        "D": {
+          "room": 10,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "The dungeon, heavy with timber and gargoyles, is   cold, forbidding, and feudal.  The ancient beds, structures in solidly-hewn     wood, resemble the accommodation given nowadays to a pack of staghounds.  A suitof armor stands before a cell on the far side.  The cell is locked.  An open    doorway t..."
+    },
+    {
+      "id": 16,
+      "phrase": "on the terrace",
+      "description_index": 14,
+      "exits": {
+        "E": {
+          "room": 23,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "An enormous marble platform, the terrace offers a wide view of the surrounding territory.  There appears to be some order to the       intricate inlay of the precious imported marbles on its surface, but the large  scale renders its meaning undecipherable from your present position.  Huge      grani..."
+    },
+    {
+      "id": 17,
+      "phrase": "in the hundekammer",
+      "description_index": 15,
+      "exits": {
+        "U": {
+          "room": 23,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Here spaniels could pause in their houses beneath  the gun cupboards to chew on an old bone or two before getting down to serious  hunting.  All that remains of them are rotting bones that rest in the rusted    cages.  A single door to the east provides an exit.\n"
+    },
+    {
+      "id": 18,
+      "phrase": "in the wood cellar",
+      "description_index": 16,
+      "exits": {
+        "S": {
+          "room": 21,
+          "flags": 0
+        },
+        "NE": {
+          "room": 25,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The smell of oil and rotting leather fills the air.Some tools remain, rusted together and useless.  The only exit is a staircase   leading upward.\n"
+    },
+    {
+      "id": 19,
+      "phrase": "at an arched hallway",
+      "description_index": 17,
+      "exits": {
+        "N": {
+          "room": 20,
+          "flags": 0
+        },
+        "S": {
+          "room": 23,
+          "flags": 0
+        },
+        "W": {
+          "room": 17,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The arches are made from oak beams, with wattle  and daub construction between them.  The hall curves from the south to a        staircase at the northeast end.\n"
+    },
+    {
+      "id": 20,
+      "phrase": "in an elbow room",
+      "description_index": 18,
+      "exits": {
+        "N": {
+          "room": 20,
+          "flags": 0
+        },
+        "S": {
+          "room": 23,
+          "flags": 0
+        },
+        "W": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "Starting from the north, the room first curves to thewest, then curves back and opens into a room to the south.  A sign above a door on the west wall reads \"Ye who enter here, abandon all hope.\"\n"
+    },
+    {
+      "id": 21,
+      "phrase": "in an elbow room",
+      "description_index": 19,
+      "exits": {
+        "N": {
+          "room": 22,
+          "flags": 0
+        },
+        "S": {
+          "room": 24,
+          "flags": 0
+        },
+        "E": {
+          "room": 27,
+          "flags": 0
+        },
+        "W": {
+          "room": 18,
+          "flags": 0
+        },
+        "D": {
+          "room": 19,
+          "flags": 0
+        }
+      },
+      "room_flags": 3,
+      "description": "Starting from the south, the room first curves to theeast, then curves back and opens into a room to the north.  A sign above a door on the west wall reads \"All hope abandon, ye who enter here.\"\n"
+    },
+    {
+      "id": 22,
+      "phrase": "in the stable",
+      "description_index": 20,
+      "exits": {
+        "N": {
+          "room": 23,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The hay and horse stalls are all ablaze!\n"
+    },
+    {
+      "id": 23,
+      "phrase": "in the blacksmith's shop",
+      "description_index": 22,
+      "exits": {
+        "U": {
+          "room": 20,
+          "flags": 0
+        },
+        "D": {
+          "room": 29,
+          "flags": 0
+        },
+        "SW": {
+          "room": 20,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The shop seems to be full of all manner of   curious things -- but the oddest part of it is that, whenever you look hard at  any shelf, to make out exactly what it has on it, that particular shelf is      always quite empty, though the others round it are crowded full as they can     hold.  To the n..."
+    },
+    {
+      "id": 24,
+      "phrase": "on some wooden stairs",
+      "description_index": 23,
+      "exits": {
+        "N": {
+          "room": 1,
+          "flags": 1
+        },
+        "S": {
+          "room": 27,
+          "flags": 0
+        },
+        "E": {
+          "room": 35,
+          "flags": 0
+        },
+        "W": {
+          "room": 1,
+          "flags": 1
+        },
+        "NW": {
+          "room": 30,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "A hallway is seen to the southwest.  The stairs lead downward to a dark room.\n"
+    },
+    {
+      "id": 25,
+      "phrase": "at the NW corner of a courtyard",
+      "description_index": 24,
+      "exits": {
+        "N": {
+          "room": 26,
+          "flags": 0
+        },
+        "S": {
+          "room": 28,
+          "flags": 0
+        },
+        "E": {
+          "room": 36,
+          "flags": 0
+        },
+        "W": {
+          "room": 23,
+          "flags": 0
+        },
+        "NE": {
+          "room": 30,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "Doors are to your north and west; the rest of the courtyard is also accessible.\n"
+    },
+    {
+      "id": 26,
+      "phrase": "at the SW corner of a courtyard",
+      "description_index": 25,
+      "exits": {
+        "N": {
+          "room": 27,
+          "flags": 0
+        },
+        "E": {
+          "room": 31,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Doors are to your west and south; the rest of the courtyard is also accessible.\n"
+    },
+    {
+      "id": 27,
+      "phrase": "in a large vestibule",
+      "description_index": 26,
+      "exits": {
+        "U": {
+          "room": 25,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Fielded panels are set between Corinthian        pilasters, a frieze of delicately carved sheaves and festoons runs around the   room under the cornice, while cornice and ceiling form a contrast of white      plaster ornament.  It is paved with marble slabs and seems very lofty; the soundof your foo..."
+    },
+    {
+      "id": 28,
+      "phrase": "at the west end of a wine cellar",
+      "description_index": 27,
+      "exits": {
+        "NE": {
+          "room": 35,
+          "flags": 0
+        },
+        "NW": {
+          "room": 36,
+          "flags": 0
+        },
+        "SE": {
+          "room": 26,
+          "flags": 0
+        },
+        "SW": {
+          "room": 27,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "In this dank place, hundreds of      gallons of wine remain in large casks, embedded in a thick mesh of cobwebs.  A  recent cave-in prevents you from getting to the eastern end.  A wooden staircaseleads upward.\n"
+    },
+    {
+      "id": 29,
+      "phrase": "in a gazebo",
+      "description_index": 28,
+      "exits": {
+        "S": {
+          "room": 32,
+          "flags": 0
+        },
+        "E": {
+          "room": 37,
+          "flags": 0
+        },
+        "W": {
+          "room": 28,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Now covered beautifully with ivy, this place was used as agathering place in the middle of the courtyard.  The gazebo is fitted with      slender turrets from which banners would fly when the lord was in residence.\n"
+    },
+    {
+      "id": 30,
+      "phrase": "in an entrance hall",
+      "description_index": 29,
+      "exits": {
+        "N": {
+          "room": 31,
+          "flags": 0
+        },
+        "S": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 1,
+      "description": "The walls are extremely high, covered with reliefsdepicting a former occupant's legendary victory over the Saracens.  The tracery of the ceiling carefully conceals murder holes, through which missiles could be dropped on invaders.  A small window casts some light onto the grimy floor.  Thehall exten..."
+    },
+    {
+      "id": 31,
+      "phrase": "at the gatehouse",
+      "description_index": 30,
+      "exits": {
+        "U": {
+          "room": 39,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The portcullis, a heavy wooden grille shod with iron points, closes off the exit.  An entrance hall extends north.  The drawbridge   is\n"
+    },
+    {
+      "id": 32,
+      "phrase": "at the east end of a wine cellar",
+      "description_index": 32,
+      "exits": {
+        "S": {
+          "room": 35,
+          "flags": 0
+        },
+        "NW": {
+          "room": 39,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "A recent cave-in prevents you from   getting to the western end.  A staircase leads upward.\n"
+    },
+    {
+      "id": 33,
+      "phrase": "in the scullery",
+      "description_index": 33,
+      "exits": {
+        "N": {
+          "room": 34,
+          "flags": 0
+        },
+        "S": {
+          "room": 36,
+          "flags": 0
+        },
+        "E": {
+          "room": 39,
+          "flags": 0
+        },
+        "W": {
+          "room": 26,
+          "flags": 0
+        },
+        "SW": {
+          "room": 30,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "From out of a leonine head spout, dirty water drips   slowly into a sink.  There are exits to the south and southeast.\n"
+    },
+    {
+      "id": 34,
+      "phrase": "at the NE corner of a courtyard",
+      "description_index": 34,
+      "exits": {
+        "N": {
+          "room": 35,
+          "flags": 0
+        },
+        "S": {
+          "room": 37,
+          "flags": 0
+        },
+        "E": {
+          "room": 40,
+          "flags": 0
+        },
+        "W": {
+          "room": 27,
+          "flags": 0
+        },
+        "SE": {
+          "room": 30,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "Doors are to your north and east; the rest of the courtyard is also accessible.\n"
+    },
+    {
+      "id": 35,
+      "phrase": "at the SE corner of a courtyard",
+      "description_index": 35,
+      "exits": {
+        "N": {
+          "room": 36,
+          "flags": 0
+        },
+        "E": {
+          "room": 45,
+          "flags": 0
+        },
+        "W": {
+          "room": 31,
+          "flags": 0
+        },
+        "NE": {
+          "room": 40,
+          "flags": 0
+        }
+      },
+      "room_flags": 3,
+      "description": "Doors are to your east and south; the rest of the courtyard is also accessible.\n"
+    },
+    {
+      "id": 36,
+      "phrase": "in the reception room",
+      "description_index": 36,
+      "exits": {
+        "S": {
+          "room": 39,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "It is a somber chamber of teakwood providing a  subdued background in contrast to the Great Hall.  The general richness of the  room in its hangings and carved panels once created an atmosphere of restfulnessfor guests awaiting the greetings of the lord.  Above you, a lighted ormolu and porcelain ch..."
+    },
+    {
+      "id": 37,
+      "phrase": "in the pantry",
+      "description_index": 38,
+      "exits": {
+        "N": {
+          "room": 38,
+          "flags": 0
+        },
+        "S": {
+          "room": 40,
+          "flags": 0
+        },
+        "E": {
+          "room": 43,
+          "flags": 0
+        },
+        "W": {
+          "room": 35,
+          "flags": 0
+        },
+        "D": {
+          "room": 33,
+          "flags": 0
+        },
+        "NE": {
+          "room": 42,
+          "flags": 0
+        },
+        "SE": {
+          "room": 34,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The smells of garden herbs remain: basil, camomile,     costmary, cowslip, all kinds of daisies, sweet fennel, germander, haulm,        lavender, lavender spike, lavender cotton, marjoram, pennyroyal, roses, red     mints, sage, tansy, violets, and winter savory.  The pantry doors lead into the grea..."
+    },
+    {
+      "id": 38,
+      "phrase": "in the kitchen",
+      "description_index": 39,
+      "exits": {
+        "N": {
+          "room": 39,
+          "flags": 0
+        },
+        "E": {
+          "room": 44,
+          "flags": 0
+        },
+        "W": {
+          "room": 36,
+          "flags": 0
+        },
+        "NW": {
+          "room": 45,
+          "flags": 0
+        },
+        "SW": {
+          "room": 37,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Time has yet to extinguish the aroma that centuries of royal cuisine have imparted to this room.  Great ovens surround you, capable of roasting two or three oxen at once!  The kitchen must once have been the scene  of much activity, but its cold, stone floors and granite ceiling now express an almos..."
+    },
+    {
+      "id": 39,
+      "phrase": "in the refectory",
+      "description_index": 40,
+      "exits": {
+        "W": {
+          "room": 134,
+          "flags": 0
+        },
+        "U": {
+          "room": 134,
+          "flags": 0
+        },
+        "D": {
+          "room": 46,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": " It is luxurious, with hangings and chairs in green  satin and a mahogany-and-marble-mosaic dining table arranged lengthwise down thecenter.  The table, supported by sixteen Corinthian columns with gilded bronze  capitals, is covered with delicious food!\n"
+    },
+    {
+      "id": 40,
+      "phrase": "on a marble staircase",
+      "description_index": 42,
+      "exits": {
+        "SW": {
+          "room": 39,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "There is a landing below and a room to the west.\n"
+    },
+    {
+      "id": 41,
+      "phrase": "in the storeroom",
+      "description_index": 43,
+      "exits": {
+        "N": {
+          "room": 47,
+          "flags": 0
+        },
+        "S": {
+          "room": 44,
+          "flags": 0
+        },
+        "E": {
+          "room": 48,
+          "flags": 0
+        },
+        "W": {
+          "room": 39,
+          "flags": 0
+        },
+        "U": {
+          "room": 47,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Corn, wheat malt, beans, barley, oatmeal, oxhides,   salted meat, stockfish, mutton carcasses, hams, honey, and vinegar were once    stored in this cavernous room to provide for the inhabitants of the castle      during a time of siege.  The room is dark and cool, surrounded by strong walls  of thic..."
+    },
+    {
+      "id": 42,
+      "phrase": "in the Great Hall",
+      "description_index": 44,
+      "exits": {
+        "N": {
+          "room": 43,
+          "flags": 0
+        },
+        "S": {
+          "room": 45,
+          "flags": 0
+        },
+        "W": {
+          "room": 40,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This long, high room is beautifully designed in     stone with wooden trusses spanning the upper portions of the sixty-foot-high    ceiling from which singed banners of former lords still hang.  Doors on all     sides lead to many parts of the castle.  A wide staircase to the north climbs   upward. ..."
+    },
+    {
+      "id": 43,
+      "phrase": "in a vast ballroom",
+      "description_index": 45,
+      "exits": {
+        "N": {
+          "room": 44,
+          "flags": 0
+        },
+        "E": {
+          "room": 50,
+          "flags": 0
+        },
+        "W": {
+          "room": 37,
+          "flags": 0
+        },
+        "SE": {
+          "room": 40,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "You are surrounded on all sides by a suspended     gallery of gilded wood.  The three entrances are tall, narrow arches fitted to  half their height with bronze gates.  The predominant colors are ivory and gold,and the hardwood floor, with its intricate rosewood parquetry, still gleams fromthe polis..."
+    },
+    {
+      "id": 44,
+      "phrase": "in the lounge",
+      "description_index": 46,
+      "exits": {
+        "W": {
+          "room": 51,
+          "flags": 1
+        },
+        "U": {
+          "room": 41,
+          "flags": 0
+        },
+        "D": {
+          "room": 47,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Low horsehair sofas cushioned in soft colors occupy the angles of the room, window seats are arranged behind unobtrusive balustrades,   and an octagonal table with gadrooned border and hairy paw feet stands in the   center.  The glitter of filigree and the colors of fresh wood, silk, and wool   have..."
+    },
+    {
+      "id": 45,
+      "phrase": "on the staircase landing",
+      "description_index": 47,
+      "exits": {
+        "S": {
+          "room": 43,
+          "flags": 0
+        },
+        "U": {
+          "room": 46,
+          "flags": 0
+        },
+        "D": {
+          "room": 43,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The landing, between two flights of marble   stairs, is paved in squares of black and ruddy-white marble which shine like    ice.  In alcoves in the center of side-walls stand statues of Flora and         Hercules.  Between them hangs a picture of the Battle of Issus.\n"
+    },
+    {
+      "id": 46,
+      "phrase": "on a marble staircase",
+      "description_index": 49,
+      "exits": {
+        "E": {
+          "room": 52,
+          "flags": 0
+        },
+        "W": {
+          "room": 43,
+          "flags": 0
+        }
+      },
+      "room_flags": 3,
+      "description": "The Great Hall is seen to the south.  The stairslead upward.\n"
+    },
+    {
+      "id": 47,
+      "phrase": "in a rocky passageway",
+      "description_index": 50,
+      "exits": {
+        "S": {
+          "room": 50,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Torches burn on the wall giving light.  The roomyou started from is back to the west.  The passage continues to the east.  One  of the torches appears not to be attached firmly to the wall.\n"
+    },
+    {
+      "id": 48,
+      "phrase": "in the treasury",
+      "description_index": 52,
+      "exits": {
+        "N": {
+          "room": 49,
+          "flags": 1
+        },
+        "W": {
+          "room": 45,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Piles of rotting, empty sacks lie in the center of theroom and broken cabinets line the walls.  Obviously sacked of its cash, silver, and gold plate long ago, this room holds no interest any longer.  The only      way out is the way you came in.\n"
+    },
+    {
+      "id": 49,
+      "phrase": "in the portrait gallery",
+      "description_index": 53,
+      "exits": {},
+      "room_flags": 0,
+      "description": "Hanging on display are an astonishing         collection of proud men, women, and children, with the bloom of purple grapes   about their clothes and persons, and adopting attitudes and expressions that    make them almost as intolerable in paint as they must have been in the flesh.   Engraved on a ..."
+    },
+    {
+      "id": 50,
+      "phrase": "in a cell in the dungeon",
+      "description_index": 54,
+      "exits": {
+        "E": {
+          "room": 55,
+          "flags": 0
+        },
+        "W": {
+          "room": 48,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The cell is locked.  You fell in through a   hole high in the ceiling.  Prisoners of long ago have written cryptic messages  on the walls.  Outside the cell on the north wall there are three doors.  You,  of course, cannot get to them.  Huge granite stones perched above two of the    doors suggest t..."
+    },
+    {
+      "id": 51,
+      "phrase": "in a misty cavern",
+      "description_index": 55,
+      "exits": {
+        "S": {
+          "room": 54,
+          "flags": 0
+        },
+        "NW": {
+          "room": 59,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Great whirlpools of evil-smelling vapor rise upward from pools of bubbling pitch, clouding your vision.  Small puffs of smoke emergefrom a passage to the east.  To the west are two enormous stones, between which flickering lights emanate.\n"
+    },
+    {
+      "id": 52,
+      "phrase": "in the catacombs",
+      "description_index": 56,
+      "exits": {
+        "N": {
+          "room": 53,
+          "flags": 0
+        },
+        "E": {
+          "room": 58,
+          "flags": 0
+        },
+        "NW": {
+          "room": 61,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Most of the tunnels have collapsed, but within the   walls of the few that remain are seen recesses for the graves of Christians.  A painting above suggests the Dome of Heaven, inscribed with a cross.  In the     central medallion is seen a youthful shepherd, with a sheep on his shoulders, ina pose ..."
+    },
+    {
+      "id": 53,
+      "phrase": "at the edge of a chasm",
+      "description_index": 57,
+      "exits": {
+        "E": {
+          "room": 59,
+          "flags": 1
+        },
+        "W": {
+          "room": 52,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The chasm is too wide to cross; the other side cannot be seen.  Small tunnels lead to the north, east, and southeast.\n"
+    },
+    {
+      "id": 54,
+      "phrase": "at the Hall of Dragons",
+      "description_index": 58,
+      "exits": {
+        "E": {
+          "room": 60,
+          "flags": 0
+        },
+        "NE": {
+          "room": 59,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Fierce fire-breathing dragons are positioned infront of a crevice in the rocks to the east.  They are excited by your presence,and begin emitting smoke and grunting to one another.  You cannot be sure, but  you get the impression they are deciding on how to prepare you for dinner.  To  the west the ..."
+    },
+    {
+      "id": 55,
+      "phrase": "at a high wall of ice",
+      "description_index": 60,
+      "exits": {
+        "E": {
+          "room": 63,
+          "flags": 0
+        },
+        "NE": {
+          "room": 60,
+          "flags": 0
+        },
+        "NW": {
+          "room": 63,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The wall is too slippery to climb.  A gelid     breeze blows down from the wall, causing your torch to burn low.  Above you no  ceiling is perceptible, only blackness.  Small paths to the east and northeast  lead to more interesting rooms.\n"
+    },
+    {
+      "id": 56,
+      "phrase": "in the glycerin caverns",
+      "description_index": 61,
+      "exits": {
+        "E": {
+          "room": 61,
+          "flags": 0
+        },
+        "W": {
+          "room": 54,
+          "flags": 0
+        },
+        "U": {
+          "room": 54,
+          "flags": 0
+        },
+        "D": {
+          "room": 61,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This strange Precambrian netherworld is       forested with speleothems, and decorated in places with hanging curtains of     stone, massive sculptured columns, and delicate, flowerlike structures.  Vampirebats have used this cavern for hibernation.  Should they return, they will not  suck your bloo..."
+    },
+    {
+      "id": 57,
+      "phrase": "on a steep E/W incline",
+      "description_index": 255,
+      "exits": {
+        "W": {
+          "room": 55,
+          "flags": 0
+        },
+        "NE": {
+          "room": 61,
+          "flags": 0
+        },
+        "NW": {
+          "room": 63,
+          "flags": 0
+        },
+        "SE": {
+          "room": 53,
+          "flags": 0
+        },
+        "SW": {
+          "room": 56,
+          "flags": 0
+        }
+      },
+      "room_flags": 0
+    },
+    {
+      "id": 58,
+      "phrase": "in the catacombs",
+      "description_index": 62,
+      "exits": {
+        "N": {
+          "room": 60,
+          "flags": 0
+        },
+        "S": {
+          "room": 60,
+          "flags": 0
+        },
+        "E": {
+          "room": 62,
+          "flags": 0
+        },
+        "W": {
+          "room": 56,
+          "flags": 0
+        },
+        "NE": {
+          "room": 60,
+          "flags": 0
+        },
+        "NW": {
+          "room": 60,
+          "flags": 0
+        },
+        "SE": {
+          "room": 60,
+          "flags": 0
+        },
+        "SW": {
+          "room": 57,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Most of the tunnels have collapsed, but within the   walls of the few that remain are seen recesses for the graves of Christians.    Paintings of standing figures represent members of the Church, with their hands raised in prayer, pleading for divine help.  The entire scheme, though small in scale a..."
+    },
+    {
+      "id": 59,
+      "phrase": "in a large cave of stalactites",
+      "description_index": 63,
+      "exits": {
+        "W": {
+          "room": 58,
+          "flags": 0
+        },
+        "SE": {
+          "room": 54,
+          "flags": 0
+        },
+        "SW": {
+          "room": 59,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Magnificent ice formations protrude    from every inch of the ceiling.  The floor is coated with transparent sheets of ice made up of hexagonal prisms standing vertically.  The walls also have large platelike ice crystals with well-developed crystal faces.  A maze of passages   leads in many directi..."
+    },
+    {
+      "id": 60,
+      "phrase": "at a river's edge",
+      "description_index": 64,
+      "exits": {
+        "S": {
+          "room": 63,
+          "flags": 0
+        },
+        "W": {
+          "room": 60,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The river is to the east, and flows north to south. Sheets of calcite flowstone have formed over nearby silt beds, and crystals     within the flowstone can be detected by their sparkle.  Rough paths lead away   from the water in the western directions.\n"
+    },
+    {
+      "id": 61,
+      "phrase": "in a low icy passage",
+      "description_index": 65,
+      "exits": {
+        "N": {
+          "room": 62,
+          "flags": 0
+        },
+        "S": {
+          "room": 63,
+          "flags": 0
+        },
+        "E": {
+          "room": 63,
+          "flags": 0
+        },
+        "W": {
+          "room": 60,
+          "flags": 0
+        },
+        "NE": {
+          "room": 66,
+          "flags": 0
+        },
+        "NW": {
+          "room": 63,
+          "flags": 0
+        },
+        "SE": {
+          "room": 59,
+          "flags": 0
+        },
+        "SW": {
+          "room": 60,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This passage connects two large caves to the westand south.  On the damp clay-covered walls appear finger tracings of geometric  designs and simple animal outlines.  The pigments consist mainly of red and     yellow ocher, probably mixed with animal fat.\n"
+    },
+    {
+      "id": 62,
+      "phrase": "in the glistening caverns",
+      "description_index": 66,
+      "exits": {
+        "U": {
+          "room": 67,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Calcite greatly predominates, followed in   approximate order of abundance by gypsum, ice, aragonite, the iron mineral      goethite, and the manganese mineral birnessite.  The fetid, ammoniac odor of    bat guano is readily detected.  Your torch casts beautiful patterns on the      cavern walls.  T..."
+    },
+    {
+      "id": 63,
+      "phrase": "in the pit",
+      "description_index": 67,
+      "exits": {
+        "NE": {
+          "room": 67,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Warning!  You have entered the home of the Zimbu!  (Wild   Boys create offspring known as Zimbus.  In the natural darkness of the pit,     where sight and camouflage are both useless, mutant animals lacking both eyes   and pigment tend to accumulate.)  You should escape as quickly as possible; the Z..."
+    },
+    {
+      "id": 64,
+      "phrase": "at the side of a large waterfall",
+      "description_index": 68,
+      "exits": {
+        "SW": {
+          "room": 63,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The water pours out of a crevice highabove and runs down to the west.  Perhaps attracted by mist from the cascade,   troglobitic parasites rain from the ceiling.  There is a large opening in the   ground to the northeast.\n"
+    },
+    {
+      "id": 65,
+      "phrase": "next to a bridge",
+      "description_index": 69,
+      "exits": {
+        "S": {
+          "room": 68,
+          "flags": 0
+        },
+        "D": {
+          "room": 64,
+          "flags": 0
+        },
+        "SW": {
+          "room": 65,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "This rickety bridge spans a river too dangerous to   swim.  A maze of caves is seen to the southwest.\n"
+    },
+    {
+      "id": 66,
+      "phrase": "at the edge of a huge pit",
+      "description_index": 71,
+      "exits": {
+        "N": {
+          "room": 68,
+          "flags": 0
+        },
+        "S": {
+          "room": 69,
+          "flags": 0
+        },
+        "E": {
+          "room": 68,
+          "flags": 0
+        },
+        "W": {
+          "room": 67,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Years ago, a surface stream entered here,   cutting the vertical shaft of the pit and leaving a record of scallops, cave    coral, and sediment.  Flickering lights from above cast eerie shadows.  Running water is heard to the southwest.  A twisted tunnel leads south.\n"
+    },
+    {
+      "id": 67,
+      "phrase": "in the cave of winds",
+      "description_index": 72,
+      "exits": {
+        "E": {
+          "room": 68,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "Centuries of slowly seeping water have formed    delicate helictites that project at many angles from the ceiling, walls, and    floor.  A series of tortuous interconnected passages lead to other caves.       Interestingly enough, the air is very still here.\n"
+    },
+    {
+      "id": 68,
+      "phrase": "in the troll's grotto",
+      "description_index": 73,
+      "exits": {
+        "E": {
+          "room": 77,
+          "flags": 0
+        },
+        "D": {
+          "room": 76,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "An ugly troll is chained in front of a low      tunnel to the east.  He sits in a pile of his own waste, and mutters guttural   obscenities.  Your presence does not disturb him.  A rickety bridge nearby spansthe river.\n"
+    },
+    {
+      "id": 69,
+      "phrase": "in the furnace room",
+      "description_index": 75,
+      "exits": {
+        "S": {
+          "room": 72,
+          "flags": 0
+        },
+        "E": {
+          "room": 86,
+          "flags": 0
+        },
+        "NW": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "This is where the ninth lord of the castle, a     propounder of eugenic theory, disposed of the bodies of heretics.  The walls aregreasy and still retain the faint aroma of charred flesh.  A nearby staircase   leads downward.  There is another room to the east.\n"
+    },
+    {
+      "id": 70,
+      "phrase": "at a champagne fountain",
+      "description_index": 76,
+      "exits": {
+        "N": {
+          "room": 71,
+          "flags": 0
+        },
+        "E": {
+          "room": 87,
+          "flags": 0
+        },
+        "NE": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "Bubbly champagne pours out of a sculptured    fish's mouth at the top and into a shallow pool at the bottom.  There are exits south, east, and southeast.  The last of these leads to the Room of Certain     Death.\n"
+    },
+    {
+      "id": 71,
+      "phrase": "in the servants' chambers",
+      "description_index": 77,
+      "exits": {
+        "E": {
+          "room": 80,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Here lived the drudge, the erk, the groom   and porter, the char and gong farmer, the footman, lackey, cook, and page.  The turnspit and amah, the housecarl and equerry.  Seneschals and cellarers.  Blood reds and deep blues of nobility are not to be found here, only tawns and rusts, bleached greens ..."
+    },
+    {
+      "id": 72,
+      "phrase": "at the western battlements",
+      "description_index": 78,
+      "exits": {
+        "E": {
+          "room": 81,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "The crenels here are fitted with shutters  hanging on swivels anchored on the merlons on either side.  These shutters gave the archers extra protection when firing, just as the merlons allowed them to   load in safety.  The machicolations, from which stones and scalding liquids     could be dropped,..."
+    },
+    {
+      "id": 73,
+      "phrase": "on the west balcony",
+      "description_index": 79,
+      "exits": {
+        "E": {
+          "room": 83,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "A curved iron-work railing fends you from the     precipitous drop.  From here you command a view of the gardens, with the well   and greenhouse just visible through the mist.  You are also able to behold the  family's armorial emblem, the feuille-de-rose, beautifully designed on the      terrace in..."
+    },
+    {
+      "id": 74,
+      "phrase": "in a garderobe",
+      "description_index": 80,
+      "exits": {
+        "U": {
+          "room": 70,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Hundreds of thirsty flies attempt to suck the moisture from your eyes as you stumble about in a daze.  The buzzing is deafening, and   you are stepping into what appears to be a breeding ground for larvae.  Full,   fetid chamber pots overwhelm you with their disgusting contents.  You must      exit ..."
+    },
+    {
+      "id": 75,
+      "phrase": "in the coal cellar",
+      "description_index": 81,
+      "exits": {
+        "S": {
+          "room": 78,
+          "flags": 0
+        },
+        "E": {
+          "room": 85,
+          "flags": 0
+        },
+        "W": {
+          "room": 70,
+          "flags": 0
+        },
+        "U": {
+          "room": 85,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "As you descended, something up the stairs did moan.The carbonized bones of martyrs crumble under your feet, sending plumes of dust and soot into the air.  Blackened tears of compassion for the victims course    down your cheeks.  A thin set of stairs leads up to the furnace room.\n"
+    },
+    {
+      "id": 76,
+      "phrase": "in the nursery",
+      "description_index": 82,
+      "exits": {
+        "N": {
+          "room": 77,
+          "flags": 0
+        },
+        "NE": {
+          "room": 86,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "Frescoes of heroic, mythological, and allegorical      figures are perhaps easier to live with in their present mottled state than whenthey were richly glowing.  A haunting sound comes whispering from the springs ofa still-swaying rocking horse named Malabar.  A sagging playpen in one corner isstain..."
+    },
+    {
+      "id": 77,
+      "phrase": "in a small alcove",
+      "description_index": 83,
+      "exits": {
+        "D": {
+          "room": 80,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "It is a room to delight the senses, decorated       lasciviously, with flamboyant swags and putti, fantastic birds and dragons in   chinoiserie, and mythological sylvan deities set in niches.  Tendrils of gilded stucco lick the ceiling like little flames.  You entered from the north.  A doorto the n..."
+    },
+    {
+      "id": 78,
+      "phrase": "in the west tower",
+      "description_index": 85,
+      "exits": {
+        "S": {
+          "room": 81,
+          "flags": 0
+        },
+        "W": {
+          "room": 73,
+          "flags": 0
+        },
+        "U": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 1,
+      "description": "The relentless storm rages around you.  You can get down using the ladder you climbed to get here.\n"
+    },
+    {
+      "id": 79,
+      "phrase": "at a tumbled-down staircase",
+      "description_index": 86,
+      "exits": {
+        "N": {
+          "room": 80,
+          "flags": 0
+        },
+        "S": {
+          "room": 82,
+          "flags": 0
+        },
+        "E": {
+          "room": 89,
+          "flags": 0
+        },
+        "W": {
+          "room": 74,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "The large stones that once led to the westtower are no longer here.  The moon shines in through the slit of an arrow loop.Two large doors lead to the west and south.\n"
+    },
+    {
+      "id": 80,
+      "phrase": "in the oratory",
+      "description_index": 87,
+      "exits": {
+        "N": {
+          "room": 81,
+          "flags": 0
+        },
+        "S": {
+          "room": 83,
+          "flags": 0
+        },
+        "NW": {
+          "room": 90,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This room was reserved for the private orisons of the  lord and his family.  Although the gilt ironwork and frescoes are peeling and   faded, this room still remains one of the most beautiful in the castle.  The    high-vaulted ceiling and tall Gothic windows recall the halcyon days of lordly  mysti..."
+    },
+    {
+      "id": 81,
+      "phrase": "in the salon",
+      "description_index": 88,
+      "exits": {
+        "N": {
+          "room": 82,
+          "flags": 0
+        },
+        "S": {
+          "room": 84,
+          "flags": 1
+        },
+        "E": {
+          "room": 90,
+          "flags": 0
+        },
+        "W": {
+          "room": 75,
+          "flags": 0
+        },
+        "D": {
+          "room": 92,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The splendor of this room is in the furnishings: tables, chairs, dressers, and taborets decorated in tortoise shell and ivory marquetry, embellished with vermeil.  The salon was once the meeting place for those nobleswho had right of entr\ufffde, that is, ceremonial access to the lord's bedchamber.   Exi..."
+    },
+    {
+      "id": 82,
+      "phrase": "in the lord's bedchamber",
+      "description_index": 89,
+      "exits": {
+        "N": {
+          "room": 83,
+          "flags": 0
+        },
+        "D": {
+          "room": 85,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The bed is a thick balk of timber worn clean through at one end by the scraping of spurs.  A painting of the lord of the     castle is seen hung high on the wall, surrounded by armorial ensigns.  A soft,  cool breeze is felt coming up through a small opening in the floor.  There are  four doors: nor..."
+    },
+    {
+      "id": 83,
+      "phrase": "in the lord's closet",
+      "description_index": 90,
+      "exits": {
+        "U": {
+          "room": 84,
+          "flags": 0
+        },
+        "D": {
+          "room": 77,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "A forbidding staircase leads downward.  The      lord's bedchamber can be seen to the north.\n"
+    },
+    {
+      "id": 84,
+      "phrase": "on a spiral staircase",
+      "description_index": 91,
+      "exits": {
+        "S": {
+          "room": 87,
+          "flags": 0
+        },
+        "W": {
+          "room": 71,
+          "flags": 0
+        },
+        "U": {
+          "room": 93,
+          "flags": 0
+        },
+        "SW": {
+          "room": 78,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The stairs may have provided a secret escape forthe lord and his family.\n"
+    },
+    {
+      "id": 85,
+      "phrase": "in the tearoom",
+      "description_index": 92,
+      "exits": {
+        "N": {
+          "room": 86,
+          "flags": 0
+        },
+        "W": {
+          "room": 72,
+          "flags": 0
+        },
+        "SE": {
+          "room": 146,
+          "flags": 1
+        }
+      },
+      "room_flags": 2,
+      "description": "It is a large, white, high-ceilinged room with black   curtains and a painted sky above.  The surface of the walls is a marvel of      beautiful stone carving as fine as lace.  A number of exits lead out of here.\n"
+    },
+    {
+      "id": 86,
+      "phrase": "on the loggia",
+      "description_index": 93,
+      "exits": {
+        "U": {
+          "room": 96,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The room is roofed but open to the south; only a        colonnade separates you from tonight's storm.  But the view from this height is a grand one: the lights of a modern city off in the distance, your salvation if ever you escape the Enchanted Castle!  An unlighted road from the south leads   towa..."
+    },
+    {
+      "id": 87,
+      "phrase": "in the witches' repository",
+      "description_index": 94,
+      "exits": {
+        "S": {
+          "room": 98,
+          "flags": 0
+        },
+        "W": {
+          "room": 81,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This room, consecrated to the Evil One, is pentagonal, and contains the monolithic statue of a goat standing watch from theomphalos.  A snake slithers over the face of the goat, while a spider and a frogcreep at its hooves.  The accumulated ingredients for magic potions were stored in the canisters ..."
+    },
+    {
+      "id": 88,
+      "phrase": "in the parlor",
+      "description_index": 96,
+      "exits": {
+        "S": {
+          "room": 91,
+          "flags": 0
+        },
+        "E": {
+          "room": 98,
+          "flags": 0
+        },
+        "W": {
+          "room": 83,
+          "flags": 0
+        },
+        "SE": {
+          "room": 82,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "A long, low-ceilinged room, the parlor is decorated     primarily in hand-printed calico, and adorned with fine German reproductions of Renoir and C\ufffdzanne.  Tooled mahogany doors provide exits to the west and south. A cold chill crawls up your spine as you gaze at a message scrawled in blood.   The ..."
+    },
+    {
+      "id": 89,
+      "phrase": "in the guest room",
+      "description_index": 98,
+      "exits": {
+        "N": {
+          "room": 90,
+          "flags": 0
+        },
+        "NW": {
+          "room": 99,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The grossest, most tasteless form of heavy gilding  is combined with carving on a scale far too big for this room.  Swags of flowersand fruit hang lumpishly from the rafters, and the fireplace strides out into   the room like a stage-setting.  The ceiling panels are crude and mannerist, and the colu..."
+    },
+    {
+      "id": 90,
+      "phrase": "in the drawing room",
+      "description_index": 99,
+      "exits": {
+        "U": {
+          "room": 83,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Painted Ionic columns stand sentinel around the   walls, and elaborate architraves and pediments crown the doors and windows,     painted rather disturbingly in perspective.  The trompe l'oeil continues to the ceiling.  One door leads north; another leads southeast.\n"
+    },
+    {
+      "id": 91,
+      "phrase": "in a secret chamber",
+      "description_index": 100,
+      "exits": {
+        "S": {
+          "room": 94,
+          "flags": 0
+        },
+        "U": {
+          "room": 100,
+          "flags": 0
+        },
+        "D": {
+          "room": 86,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The concealment of the chamber in the groin of thevaulting enabled the lord to overhear every word spoken in the window seats of  the lounge.  A small trap door above permits your exit from this chamber.\n"
+    },
+    {
+      "id": 92,
+      "phrase": "on a set of stone steps",
+      "description_index": 101,
+      "exits": {
+        "N": {
+          "room": 93,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "The steps continue upward, and a door is off  to the south.\n"
+    },
+    {
+      "id": 93,
+      "phrase": "in a turret",
+      "description_index": 102,
+      "exits": {
+        "S": {
+          "room": 96,
+          "flags": 0
+        },
+        "NW": {
+          "room": 96,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Wind blows in from the five lancet windows surrounding    you.  At your feet is an unusual servants' bell.  It is made of silver, has a   long handle, and has three clappers.  A small archway leads north.\n"
+    },
+    {
+      "id": 94,
+      "phrase": "in the laboratory",
+      "description_index": 104,
+      "exits": {
+        "N": {
+          "room": 95,
+          "flags": 1
+        },
+        "U": {
+          "room": 97,
+          "flags": 0
+        },
+        "D": {
+          "room": 88,
+          "flags": 0
+        },
+        "NE": {
+          "room": 101,
+          "flags": 1
+        },
+        "SE": {
+          "room": 95,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "The acrid smell of chemicals burns your nostrils as you enter the room.  Through the cobwebs you perceive many broken, rusted,      obviously useless components of distillation and reaction apparatus.  Suddenly, you hear a gurgling sound at the far end of the room.  You push away the cobwebsto find ..."
+    },
+    {
+      "id": 95,
+      "phrase": "in a room of witches",
+      "description_index": 106,
+      "exits": {
+        "U": {
+          "room": 103,
+          "flags": 0
+        },
+        "D": {
+          "room": 96,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The rough-hewn walls shine greasily from the     untold thousands of animal sacrifices performed within this room.  It seems thatyou have interrupted a ceremony at the north end of the room in which viscera   are slipped down the throat of the ugliest witch while portions of the Holy Massare recited..."
+    },
+    {
+      "id": 96,
+      "phrase": "on a wall-stair",
+      "description_index": 255,
+      "exits": {
+        "N": {
+          "room": 89,
+          "flags": 0
+        },
+        "S": {
+          "room": 99,
+          "flags": 0
+        },
+        "W": {
+          "room": 90,
+          "flags": 0
+        }
+      },
+      "room_flags": 0
+    },
+    {
+      "id": 97,
+      "phrase": "in the sewing room",
+      "description_index": 108,
+      "exits": {
+        "N": {
+          "room": 98,
+          "flags": 0
+        },
+        "E": {
+          "room": 104,
+          "flags": 0
+        },
+        "SE": {
+          "room": 91,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "The room is ample and lovely, softly curved and    full of life: finished in flat cherry, which creates and enhances the effective coloring of the room under soft lighting.  Doors lead off to the north, south,  and west.\n"
+    },
+    {
+      "id": 98,
+      "phrase": "in the morning room",
+      "description_index": 109,
+      "exits": {
+        "D": {
+          "room": 93,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "Although slightly faded, the chartreuse wallpaper still attests to the primary function of this room: to provide the proper       atmosphere where nobles could pass their morning hours.  Through an oriel you   can discern a courtyard with a gazebo in its center.  Doors lead out to the     northwest,..."
+    },
+    {
+      "id": 99,
+      "phrase": "in the cupola",
+      "description_index": 110,
+      "exits": {
+        "SW": {
+          "room": 96,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This is the highest point in the castle.  From here you can see the moon, city lights, the endless thicket, and, of course, the black   stones of the castle itself.  From this high point the air is sweet and clear,  and you feel for some reason that you will very soon be able to escape the      cast..."
+    },
+    {
+      "id": 100,
+      "phrase": "in the sorcerer's chamber",
+      "description_index": 111,
+      "exits": {
+        "D": {
+          "room": 109,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "The walls rise to a point too high to be    visible, thus creating a pyramidal space within the room.  The floor feels      slippery, and you notice many rivulets of viscous ectoplasmic slime emanate fromthe invisible vortex high above you.  Atop a grotesque pedestal in the center ofthe room rests a..."
+    },
+    {
+      "id": 101,
+      "phrase": "in the north tower",
+      "description_index": 113,
+      "exits": {
+        "S": {
+          "room": 104,
+          "flags": 0
+        },
+        "D": {
+          "room": 97,
+          "flags": 1
+        },
+        "NE": {
+          "room": 109,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "A thin wisp of smoke travels up from somewhere     below, but even leaning far out from between the merlons you cannot quite       determine its source.  Stone steps at your feet lead downward.\n"
+    },
+    {
+      "id": 102,
+      "phrase": "in the library",
+      "description_index": 114,
+      "exits": {
+        "N": {
+          "room": 103,
+          "flags": 0
+        },
+        "S": {
+          "room": 105,
+          "flags": 1
+        },
+        "W": {
+          "room": 99,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The room is of delicate polychrome decoration, with an abundance of fine, detailed carvings throughout.  The carved fireplace mantle   supports six oak, sculptured, female figures, each five feet in height.  Carved panels separate the empty, timber-grid shelves that line the walls to a height  of ea..."
+    },
+    {
+      "id": 103,
+      "phrase": "in the boudoir",
+      "description_index": 116,
+      "exits": {
+        "N": {
+          "room": 104,
+          "flags": 0
+        },
+        "S": {
+          "room": 106,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "It is a room warm and much treasured, the room of one  who has cared for things and people.  A lady's bureau and mirror are against onewall.  A chair stands below a stopped clock on the eastern wall.  The hands of  the clock indicate five o'clock.  Exits are to the north and west.\n"
+    },
+    {
+      "id": 104,
+      "phrase": "in a gloomy hallway",
+      "description_index": 118,
+      "exits": {
+        "N": {
+          "room": 105,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The floor is covered with fragments of broken     glass.  The paintings here seem to be all alive and the very clock on the wall  has the face of a little old man grinning at you.  The hall runs north to       south.  Through meutri\ufffdres in the floor you can see the dim interior of the     entrance h..."
+    },
+    {
+      "id": 105,
+      "phrase": "at the windlass",
+      "description_index": 119,
+      "exits": {
+        "U": {
+          "room": 114,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Ropes come from the windlass and go into small holes  in the floor.  Over the windlass is a limp awning which, although drab, is      hopefully making a picturesque enhancement to the castle on this dark night.    This is a dead end, north being your only exit.\n"
+    },
+    {
+      "id": 106,
+      "phrase": "in a room of explosives",
+      "description_index": 121,
+      "exits": {
+        "S": {
+          "room": 109,
+          "flags": 0
+        }
+      },
+      "room_flags": 2,
+      "description": "The room is filled with large boxes and cratesof various sizes.  One of the boxes is overturned and ticking; perhaps the      vibrations from the opening of the floor above have set it off.  There is a finepowder of mica and talc over the floor.  An oddly-shaped tunnel leads upward.\n"
+    },
+    {
+      "id": 107,
+      "phrase": "at the northern battlements",
+      "description_index": 123,
+      "exits": {
+        "N": {
+          "room": 108,
+          "flags": 0
+        },
+        "U": {
+          "room": 102,
+          "flags": 0
+        },
+        "D": {
+          "room": 103,
+          "flags": 0
+        },
+        "SW": {
+          "room": 103,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "You walk on the alure behind the parapet  wall.  Holes in the base of a wooden hoarding here enable you to see to the baseof the steep castle walls.  Rain begins to pour down from above, despite the    shelter.  The wind howls around you.  The only way out is to go south.\n"
+    },
+    {
+      "id": 108,
+      "phrase": "on a set of stone steps",
+      "description_index": 124,
+      "exits": {
+        "S": {
+          "room": 110,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "The steps ascend a tower, and doors are seen  to the north and southwest.\n"
+    },
+    {
+      "id": 109,
+      "phrase": "in a small closet",
+      "description_index": 125,
+      "exits": {
+        "N": {
+          "room": 110,
+          "flags": 0
+        },
+        "S": {
+          "room": 112,
+          "flags": 0
+        },
+        "U": {
+          "room": 116,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The closet door closed behind you as you entered.\n"
+    },
+    {
+      "id": 110,
+      "phrase": "in the conservatory",
+      "description_index": 126,
+      "exits": {
+        "N": {
+          "room": 111,
+          "flags": 0
+        },
+        "S": {
+          "room": 113,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Passage along the marble walks of this capacious  room is made difficult by the overgrowth of luxuriant tropical plants.  There isa chair up against a wall beneath a stopped clock.  The hands of the clock      indicate five o'clock.  A closet is to the north.  The only other door is south.No... what..."
+    },
+    {
+      "id": 111,
+      "phrase": "in the studio",
+      "description_index": 127,
+      "exits": {
+        "N": {
+          "room": 112,
+          "flags": 0
+        },
+        "E": {
+          "room": 118,
+          "flags": 0
+        },
+        "D": {
+          "room": 114,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "The room is very pleasing, not very large, and rather   earlier in style than the surrounding rooms; wainscoted, with a carpetless      wooden floor and stamped-leather hangings below the beamed ceiling.  There is a corner bench with leather cushions, and a heavy oak table.  Above it hangs a    huge..."
+    },
+    {
+      "id": 112,
+      "phrase": "in the den",
+      "description_index": 128,
+      "exits": {
+        "U": {
+          "room": 113,
+          "flags": 0
+        },
+        "D": {
+          "room": 107,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Poor weatherproofing has allowed the rain to enter and     destroy the once-prized furnishings.  In its day, this room must have been      comfortable and pleasant; now the walls are breaking.  The floor has a large    crack down the middle, at most a few inches across, not wide enough for you to  g..."
+    },
+    {
+      "id": 113,
+      "phrase": "in a twisted up-and-down tunnel",
+      "description_index": 255,
+      "exits": {
+        "E": {
+          "room": 120,
+          "flags": 0
+        },
+        "NE": {
+          "room": 119,
+          "flags": 0
+        },
+        "NW": {
+          "room": 121,
+          "flags": 0
+        }
+      },
+      "room_flags": 0
+    },
+    {
+      "id": 114,
+      "phrase": "in the execution room",
+      "description_index": 130,
+      "exits": {
+        "D": {
+          "room": 111,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Blood drips from a chopping block in the center of the room.  Black passages exit in the eastern directions.\n"
+    },
+    {
+      "id": 115,
+      "phrase": "in the garret",
+      "description_index": 131,
+      "exits": {
+        "S": {
+          "room": 118,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "You stoop to keep your head from banging against the    shell-shaped slate roof.  At one end of the garret is a square opening in the   floor, large enough to drop through.  The other end forms a gable with a dormer.There is no view out the window, only blackness.\n"
+    },
+    {
+      "id": 116,
+      "phrase": "in the study",
+      "description_index": 132,
+      "exits": {
+        "N": {
+          "room": 117,
+          "flags": 0
+        },
+        "E": {
+          "room": 123,
+          "flags": 0
+        },
+        "W": {
+          "room": 113,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The study is octagonal, formed out of an angle-turret,   with mullioned windows on one side.  A dome, starred with rosettes, sends down  ribs between the windows and panels.  In the center of the dome a medallion     notes the date 1978.  An exit to the south leads to the theater.\n"
+    },
+    {
+      "id": 117,
+      "phrase": "in the theater",
+      "description_index": 133,
+      "exits": {
+        "S": {
+          "room": 120,
+          "flags": 0
+        },
+        "E": {
+          "room": 124,
+          "flags": 0
+        },
+        "SW": {
+          "room": 115,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Although small, the theater boasts an Elizabethan      stage, elaborate loge seating for fifty, and considerable standing room on the  floor for the servants' viewing pleasure.  The thick layer of chicken bones,    peanut husks, melon rinds, and broken bottles upon the floor attests to the     popul..."
+    },
+    {
+      "id": 118,
+      "phrase": "in a dank corridor",
+      "description_index": 134,
+      "exits": {
+        "N": {
+          "room": 119,
+          "flags": 0
+        },
+        "W": {
+          "room": 115,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The light from your torch can barely penetrate to  the fungus rotting on the slimy walls.  To get out, go east, south, or          southwest.\n"
+    },
+    {
+      "id": 119,
+      "phrase": "at the skull and bones",
+      "description_index": 135,
+      "exits": {
+        "SE": {
+          "room": 115,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The room here is strangely decorated with roughattempts at fresco, with which someone has amused himself: red stars in patternson the walls, and, twice repeated, a prodigious helmet with its casque showing astern, hard-looking face inside.  Doors lead out north and west.  Above the westdoor is a sku..."
+    },
+    {
+      "id": 120,
+      "phrase": "in the torture chamber",
+      "description_index": 136,
+      "exits": {
+        "S": {
+          "room": 123,
+          "flags": 0
+        },
+        "E": {
+          "room": 132,
+          "flags": 0
+        },
+        "NE": {
+          "room": 131,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Prisoners' resolve and courage were tested hereby rack, boot, iron maiden, wheel, and grill.  Some secateurs lie here, their   horrible purpose unknown.  There is a great evil here, and yet, inexplicably,   you feel that at some later time you will return to this part of the castle.  A rat skitters ..."
+    },
+    {
+      "id": 121,
+      "phrase": "in the trophy room",
+      "description_index": 138,
+      "exits": {
+        "N": {
+          "room": 122,
+          "flags": 1
+        },
+        "E": {
+          "room": 133,
+          "flags": 0
+        },
+        "W": {
+          "room": 118,
+          "flags": 1
+        },
+        "NE": {
+          "room": 132,
+          "flags": 1
+        },
+        "NW": {
+          "room": 134,
+          "flags": 1
+        }
+      },
+      "room_flags": 0,
+      "description": "The heads of many an unfortunate beast still are   seen fastened to wooden mounts: rhinoceros, leopard, boar, elk, sheep, flamingo.More animal heads are seen through a door to the east.  An animal with its head fastened securely to its body lies to the south.  One last door leads northeast.\n"
+    },
+    {
+      "id": 122,
+      "phrase": "in the menagerie",
+      "description_index": 139,
+      "exits": {
+        "E": {
+          "room": 134,
+          "flags": 0
+        },
+        "W": {
+          "room": 119,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Here a Bengal tiger paces back and forth!  The       creature looks good-natured and slow to anger: still it has very long claws and a great many teeth, and ought to be treated with respect.  The beast's short,   well-groomed coat suggests domestication.  There are many doors here, but the   tiger r..."
+    },
+    {
+      "id": 123,
+      "phrase": "in a mural passage",
+      "description_index": 141,
+      "exits": {
+        "S": {
+          "room": 126,
+          "flags": 0
+        },
+        "NE": {
+          "room": 134,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "This narrow passage runs east to west.\n"
+    },
+    {
+      "id": 124,
+      "phrase": "in the smoking room",
+      "description_index": 142,
+      "exits": {
+        "N": {
+          "room": 125,
+          "flags": 0
+        },
+        "S": {
+          "room": 127,
+          "flags": 0
+        },
+        "W": {
+          "room": 138,
+          "flags": 1
+        }
+      },
+      "room_flags": 3,
+      "description": "The odor of fine tobacco is noticeable to this    day.  The room is panelled with creamy-painted panelling, the ceilings are      touched with gilt, and everything has been kept in exquisite order, all the     appointments are perfect, regardless of expense.  Thirteen frescoes of scenes   from the s..."
+    },
+    {
+      "id": 125,
+      "phrase": "in the solar",
+      "description_index": 143,
+      "exits": {
+        "N": {
+          "room": 126,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Two candles on the fireplace mantle illuminate a large   oil-painting of the castle.  The painting is so thoroughly besmoked, and every  way defaced, that in the unequal cross-lights by which you view it, it is only  by diligent study that you arrive at an understanding of its purpose.  Such     una..."
+    },
+    {
+      "id": 126,
+      "phrase": "in the armory",
+      "description_index": 145,
+      "exits": {
+        "E": {
+          "room": 138,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Gone are the cuirasses, coats of mail, steel helmets,   glaives, bows, dirks, and claymores that once helped constitute the arsenal     of the castle.  Barrels of quicklime and pitch remain, as do some large stones  and two useless cannon.  There is an exit to the north.\n"
+    },
+    {
+      "id": 127,
+      "phrase": "in the war room",
+      "description_index": 146,
+      "exits": {
+        "S": {
+          "room": 130,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Plans for battle with neighboring castles were createdhere.  On the wall is written \"We pray for mercy one hour, and be most mercilessthe next; we glorify the Giver of all good, as the most fitting preparation for the dispensation of all evil; we enshrine our hopes of salvation on the altar ofChrist..."
+    },
+    {
+      "id": 128,
+      "phrase": "in the Long Gallery",
+      "description_index": 147,
+      "exits": {
+        "N": {
+          "room": 129,
+          "flags": 0
+        },
+        "S": {
+          "room": 131,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "You entered from the south, through elaborate     doors decorated by butter-gold on ivory panels.  At the far end of the gallery  a rampant flamingo stands on a bracket above an empty, dove-gray fireplace.  Thefireplace is complemented by a simple, pearl-gray furniture and carries the     motto \"Hic..."
+    },
+    {
+      "id": 129,
+      "phrase": "in a room of gilt",
+      "description_index": 148,
+      "exits": {
+        "N": {
+          "room": 130,
+          "flags": 0
+        },
+        "NW": {
+          "room": 132,
+          "flags": 0
+        },
+        "SW": {
+          "room": 122,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The quantity of gilt imbedded into these walls makesthe atmosphere of the room heavy and uncomfortable.  You find that it is a test of character just to make it between the north and south doors.  On the wall, ingilt-edged letters, is written \"You must be enjoying Enchanted Castle to have   made it ..."
+    },
+    {
+      "id": 130,
+      "phrase": "in the map room",
+      "description_index": 149,
+      "exits": {
+        "W": {
+          "room": 122,
+          "flags": 0
+        },
+        "SE": {
+          "room": 131,
+          "flags": 0
+        },
+        "SW": {
+          "room": 123,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Maps painted on the walls depict the castle and       surrounding landscape.  Much of the paint has peeled, but you can make out the  castle itself, encompassed entirely by forest.  You see that the castle is      designed as a square, with a central courtyard and a garden outside its western walls...."
+    },
+    {
+      "id": 131,
+      "phrase": "in the Room of Three",
+      "description_index": 150,
+      "exits": {
+        "S": {
+          "room": 134,
+          "flags": 0
+        },
+        "W": {
+          "room": 123,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Everything is in threes here: three walls, three doors, and (oddly enough) three unicorn heads perched high on a wall; their     horns thrust out belligerently, while the ringlets of their golden manes gleam  beautifully in the torchlight.  A rhythmic tapping sound is heard behind the    south wall...."
+    },
+    {
+      "id": 132,
+      "phrase": "in the Salle du Pendule",
+      "description_index": 151,
+      "exits": {
+        "N": {
+          "room": 133,
+          "flags": 0
+        },
+        "S": {
+          "room": 135,
+          "flags": 0
+        },
+        "E": {
+          "room": 41,
+          "flags": 0
+        },
+        "W": {
+          "room": 124,
+          "flags": 0
+        },
+        "D": {
+          "room": 41,
+          "flags": 0
+        },
+        "SE": {
+          "room": 123,
+          "flags": 0
+        },
+        "SW": {
+          "room": 125,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "The ticking of the many clocks in this room   provides a mysterious sound that can be heard from nearby rooms.  Doors lead to the west and south.  On each clock, the hands indicate\n"
+    },
+    {
+      "id": 133,
+      "phrase": "in the rotunda",
+      "description_index": 152,
+      "exits": {
+        "N": {
+          "room": 134,
+          "flags": 0
+        },
+        "S": {
+          "room": 136,
+          "flags": 0
+        },
+        "E": {
+          "room": 141,
+          "flags": 0
+        },
+        "NW": {
+          "room": 142,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "It is a clean room -- clean not merely in the sense of dusted and unlittered, but clean in its lines and proportions, cleansed by      moonlight from the western windows, clean in its crisp combination of wood,     stone, and glass.  The brilliant coffering of the dome above includes an        often..."
+    },
+    {
+      "id": 134,
+      "phrase": "in the music room",
+      "description_index": 153,
+      "exits": {
+        "N": {
+          "room": 135,
+          "flags": 0
+        },
+        "S": {
+          "room": 137,
+          "flags": 0
+        }
+      },
+      "room_flags": 3,
+      "description": "Over the centuries, castle musicians have performed on lutes, theorbos and citterns, flutes and recorders, bassoons, bagpipes,      trumpets, kettledrums, and even conches.  The musicians were engaged to play    either in concerts or on ceremonial occasions to announce, say, the entrance of the lord..."
+    },
+    {
+      "id": 135,
+      "phrase": "in a candled hallway",
+      "description_index": 155,
+      "exits": {
+        "N": {
+          "room": 136,
+          "flags": 0
+        },
+        "E": {
+          "room": 143,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "On all sides of the hall, small corbels support  tapered candles which burn steadily.  The hall extends from north to south.     There are doors, identically carved, at opposite ends of the room.\n"
+    },
+    {
+      "id": 136,
+      "phrase": "in the game room",
+      "description_index": 157,
+      "exits": {
+        "E": {
+          "room": 126,
+          "flags": 0
+        },
+        "W": {
+          "room": 128,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "It is basically rectangular, but its ceiling has beenformed into a painted dome and its corners cut diagonally to make four little   alcoves in which the lord and his visitors could play cards or board games with privacy.  The color is pink and cream and white, with a rich parquet on the     floor a..."
+    },
+    {
+      "id": 137,
+      "phrase": "in a low E/W passage",
+      "description_index": 255,
+      "exits": {
+        "D": {
+          "room": 140,
+          "flags": 0
+        }
+      },
+      "room_flags": 2
+    },
+    {
+      "id": 138,
+      "phrase": "in the east tower",
+      "description_index": 158,
+      "exits": {
+        "S": {
+          "room": 141,
+          "flags": 0
+        },
+        "E": {
+          "room": 144,
+          "flags": 0
+        },
+        "U": {
+          "room": 139,
+          "flags": 0
+        },
+        "D": {
+          "room": 141,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The tower serves as a lookout high atop the east    bartizan, and is surrounded by a wall ornamented with ensiform finials.  The    wind blows with a terrifying might.  As little can be seen from here tonight,   you would be advised to go back down to the shelter of the castle walls.\n"
+    },
+    {
+      "id": 139,
+      "phrase": "on a set of stone steps",
+      "description_index": 159,
+      "exits": {
+        "N": {
+          "room": 140,
+          "flags": 0
+        },
+        "W": {
+          "room": 135,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "The steps lead upward, and a door is seen off to the east.  Another exit is to the south.\n"
+    },
+    {
+      "id": 140,
+      "phrase": "in a slippery hallway",
+      "description_index": 160,
+      "exits": {
+        "W": {
+          "room": 136,
+          "flags": 0
+        },
+        "SE": {
+          "room": 135,
+          "flags": 0
+        }
+      },
+      "room_flags": 0,
+      "description": "Grimy water gurgles out of a drain-pipe at the  base of a set of stairs to the north.  A trickle of rainwater also enters       through a balistraria.  The interior of the music room is seen to the west.\n"
+    },
+    {
+      "id": 141,
+      "phrase": "in the chapel",
+      "description_index": 161,
+      "exits": {
+        "W": {
+          "room": 137,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "Two barefooted penitents standing in stone on each side of the northwest entrance are symbolic of the lord's conversion to the new      faith.  The austere stone arches and pilastered columns, which form a colonnadedaisle around the nave, contribute to its aesthetic appeal.  A massive marble    alta..."
+    },
+    {
+      "id": 142,
+      "phrase": "in a bastion",
+      "description_index": 163,
+      "exits": {
+        "W": {
+          "room": 140,
+          "flags": 0
+        }
+      },
+      "room_flags": 1,
+      "description": "You entered from the gorge to your west.  The bastion    consists of two flanks and two faces.  Each flank defends the adjacent curtain. The two faces form an acute angle, and command the outworks and ground before   the fortification.  Only the moat and jagged rocks are seen below.\n"
+    }
+  ]
+}

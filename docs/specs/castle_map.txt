@@ -1,0 +1,592 @@
+ENCHANTED CASTLE - COMPLETE ROOM MAP
+============================================================
+Recovered from EC.DAT by static analysis.
+143 rooms, 165 description blocks, 10-direction exits.
+Exit directions: N S E W U D NE NW SE SW
+0x91 = no exit; destination is room number (low byte)
+============================================================
+
+Room   0: You are in the thicket
+  Exits: N->room 1, S->room 3, E->room 5, W->room 2, NE->room 5, NW->room 3, SE->room 2, SW->room 2
+
+Room   1: You are in the thicket
+  Exits: N->room 2, S->room 1, E->room 3, W->room 2, NE->room 2, NW->room 3, SE->room 2, SW->room 3
+
+Room   2: You are in the thicket
+  Exits: N->room 1, S->room 1, E->room 9, W->room 1, NE->room 4, NW->room 5, SE->room 1, SW->room 1
+
+Room   3: You are in the thicket
+  Exits: N->room 1, S->room 2, E->room 10, W->room 1, NE->room 4, NW->room 3, SE->room 1, SW->room 2
+
+Room   4: You are in the thicket
+  Exits: NONE (dead end or special)
+
+Room   5: You are in the Fountain of the Moors
+  Exits: N->room 1, S->room 8, E->room 14, W->room 1, SE->room 1, SW->room 1
+  Desc[0]: You are swimming in the deep pool.  A    steep moss-covered wall encircles you.  Any objects you may have been carrying ...
+
+Room   6: You are at the west end of the graveyard
+  Exits: N->room 7 [flags=0x1], S->room 9
+  Desc[1]: Mossy tombstones and cenotaphs stick up like green teeth between rows of one-hundred-year-old chestnut and linden    tre...
+
+Room   7: You are in the greenhouse
+  Exits: N->room 8, S->room 10, W->room 4
+  Desc[2]: The strong smell of humus greets your nostrils.     This place is a veritable jungle, replete with many varieties of tro...
+
+Room   8: You are at the north end of the garden
+  Exits: N->room 9, S->room 11, E->room 17, W->room 5, U->room 17
+  Desc[4]: You walk on cobbled serpentine garden- paths within the remains of elaborate parterres and topiary.  Westward, an      a...
+
+Room   9: You are at the south end of the garden
+  Exits: N->room 10, S->room 12, D->room 6 [flags=0x1]
+  Desc[5]: Willows dangle their tresses over weedyground as if to mourn the loss of the herbs and beautiful flowers that were onceg...
+
+Room  10: You are at the edge of the Fountain of the Moors
+  Exits: N->room 11, S->room 13, W->room 3
+  Desc[6]: A stone balustrade keeps you from falling into the pool far below.  In the pool crouch black stone figures,  all smiling...
+
+Room  11: You are at the side of a well
+  Exits: N->room 12
+  Desc[7]: Once this well provided drinking water for the  inhabitants of the castle during a time of siege; now it is dry.  The we...
+
+Room  12: You are at the edge of a moat
+  Exits: N->room 1, E->room 1, W->room 7, NE->room 1, NW->room 1
+  Desc[8]: A foul, thick miasma rises from the water.  Now a mire alive with mosquito larvae, the moat prevents you from continuing...
+
+Room  13: You are at the east end of the graveyard
+  Exits: S->room 16 [flags=0x1], U->room 14
+  Desc[9]: The thicket becomes terribly gnarled at this end: thick, ancient trunks, black as charred flesh, support low brancheswit...
+
+Room  14: You are in the crypt
+  Exits: N->room 15
+  Desc[10]: You hear not a sound as you explore the forbidding       Romanesque vaults.  Roughly-cut stone steps lead up into the gr...
+
+Room  15: You are in a murky dungeon
+  Exits: E->room 21, W->room 10, D->room 10
+  Desc[12]: The dungeon, heavy with timber and gargoyles, is   cold, forbidding, and feudal.  The ancient beds, structures in solidl...
+
+Room  16: You are on the terrace
+  Exits: E->room 23
+  Desc[14]: An enormous marble platform, the terrace offers a wide view of the surrounding territory.  There appears to be some orde...
+
+Room  17: You are in the hundekammer
+  Exits: U->room 23
+  Desc[15]: Here spaniels could pause in their houses beneath  the gun cupboards to chew on an old bone or two before getting down t...
+
+Room  18: You are in the wood cellar
+  Exits: S->room 21, NE->room 25
+  Desc[16]: The smell of oil and rotting leather fills the air.Some tools remain, rusted together and useless.  The only exit is a s...
+
+Room  19: You are at an arched hallway
+  Exits: N->room 20, S->room 23, W->room 17
+  Desc[17]: The arches are made from oak beams, with wattle  and daub construction between them.  The hall curves from the south to ...
+
+Room  20: You are in an elbow room
+  Exits: N->room 20, S->room 23, W->room 146 [flags=0x1]
+  Desc[18]: Starting from the north, the room first curves to thewest, then curves back and opens into a room to the south.  A sign ...
+
+Room  21: You are in an elbow room
+  Exits: N->room 22, S->room 24, E->room 27, W->room 18, D->room 19
+  Desc[19]: Starting from the south, the room first curves to theeast, then curves back and opens into a room to the north.  A sign ...
+
+Room  22: You are in the stable
+  Exits: N->room 23
+  Desc[20]: The hay and horse stalls are all ablaze!
+...
+
+Room  23: You are in the blacksmith's shop
+  Exits: U->room 20, D->room 29, SW->room 20
+  Desc[22]: The shop seems to be full of all manner of   curious things -- but the oddest part of it is that, whenever you look hard...
+
+Room  24: You are on some wooden stairs
+  Exits: N->room 1 [flags=0x1], S->room 27, E->room 35, W->room 1 [flags=0x1], NW->room 30
+  Desc[23]: A hallway is seen to the southwest.  The stairs lead downward to a dark room.
+...
+
+Room  25: You are at the NW corner of a courtyard
+  Exits: N->room 26, S->room 28, E->room 36, W->room 23, NE->room 30
+  Desc[24]: Doors are to your north and west; the rest of the courtyard is also accessible.
+...
+
+Room  26: You are at the SW corner of a courtyard
+  Exits: N->room 27, E->room 31
+  Desc[25]: Doors are to your west and south; the rest of the courtyard is also accessible.
+...
+
+Room  27: You are in a large vestibule
+  Exits: U->room 25
+  Desc[26]: Fielded panels are set between Corinthian        pilasters, a frieze of delicately carved sheaves and festoons runs arou...
+
+Room  28: You are at the west end of a wine cellar
+  Exits: NE->room 35, NW->room 36, SE->room 26, SW->room 27
+  Desc[27]: In this dank place, hundreds of      gallons of wine remain in large casks, embedded in a thick mesh of cobwebs.  A  rec...
+
+Room  29: You are in a gazebo
+  Exits: S->room 32, E->room 37, W->room 28
+  Desc[28]: Now covered beautifully with ivy, this place was used as agathering place in the middle of the courtyard.  The gazebo is...
+
+Room  30: You are in an entrance hall
+  Exits: N->room 31, S->room 146 [flags=0x1]
+  Desc[29]: The walls are extremely high, covered with reliefsdepicting a former occupant's legendary victory over the Saracens.  Th...
+
+Room  31: You are at the gatehouse
+  Exits: U->room 39
+  Desc[30]: The portcullis, a heavy wooden grille shod with iron points, closes off the exit.  An entrance hall extends north.  The ...
+
+Room  32: You are at the east end of a wine cellar
+  Exits: S->room 35, NW->room 39
+  Desc[32]: A recent cave-in prevents you from   getting to the western end.  A staircase leads upward.
+...
+
+Room  33: You are in the scullery
+  Exits: N->room 34, S->room 36, E->room 39, W->room 26, SW->room 30
+  Desc[33]: From out of a leonine head spout, dirty water drips   slowly into a sink.  There are exits to the south and southeast.
+...
+
+Room  34: You are at the NE corner of a courtyard
+  Exits: N->room 35, S->room 37, E->room 40, W->room 27, SE->room 30
+  Desc[34]: Doors are to your north and east; the rest of the courtyard is also accessible.
+...
+
+Room  35: You are at the SE corner of a courtyard
+  Exits: N->room 36, E->room 45, W->room 31, NE->room 40
+  Desc[35]: Doors are to your east and south; the rest of the courtyard is also accessible.
+...
+
+Room  36: You are in the reception room
+  Exits: S->room 39
+  Desc[36]: It is a somber chamber of teakwood providing a  subdued background in contrast to the Great Hall.  The general richness ...
+
+Room  37: You are in the pantry
+  Exits: N->room 38, S->room 40, E->room 43, W->room 35, D->room 33, NE->room 42, SE->room 34
+  Desc[38]: The smells of garden herbs remain: basil, camomile,     costmary, cowslip, all kinds of daisies, sweet fennel, germander...
+
+Room  38: You are in the kitchen
+  Exits: N->room 39, E->room 44, W->room 36, NW->room 45, SW->room 37
+  Desc[39]: Time has yet to extinguish the aroma that centuries of royal cuisine have imparted to this room.  Great ovens surround y...
+
+Room  39: You are in the refectory
+  Exits: W->room 134, U->room 134, D->room 46
+  Desc[40]:  It is luxurious, with hangings and chairs in green  satin and a mahogany-and-marble-mosaic dining table arranged length...
+
+Room  40: You are on a marble staircase
+  Exits: SW->room 39
+  Desc[42]: There is a landing below and a room to the west.
+...
+
+Room  41: You are in the storeroom
+  Exits: N->room 47, S->room 44, E->room 48, W->room 39, U->room 47
+  Desc[43]: Corn, wheat malt, beans, barley, oatmeal, oxhides,   salted meat, stockfish, mutton carcasses, hams, honey, and vinegar ...
+
+Room  42: You are in the Great Hall
+  Exits: N->room 43, S->room 45, W->room 40
+  Desc[44]: This long, high room is beautifully designed in     stone with wooden trusses spanning the upper portions of the sixty-f...
+
+Room  43: You are in a vast ballroom
+  Exits: N->room 44, E->room 50, W->room 37, SE->room 40
+  Desc[45]: You are surrounded on all sides by a suspended     gallery of gilded wood.  The three entrances are tall, narrow arches ...
+
+Room  44: You are in the lounge
+  Exits: W->room 51 [flags=0x1], U->room 41, D->room 47
+  Desc[46]: Low horsehair sofas cushioned in soft colors occupy the angles of the room, window seats are arranged behind unobtrusive...
+
+Room  45: You are on the staircase landing
+  Exits: S->room 43, U->room 46, D->room 43
+  Desc[47]: The landing, between two flights of marble   stairs, is paved in squares of black and ruddy-white marble which shine lik...
+
+Room  46: You are on a marble staircase
+  Exits: E->room 52, W->room 43
+  Desc[49]: The Great Hall is seen to the south.  The stairslead upward.
+...
+
+Room  47: You are in a rocky passageway
+  Exits: S->room 50
+  Desc[50]: Torches burn on the wall giving light.  The roomyou started from is back to the west.  The passage continues to the east...
+
+Room  48: You are in the treasury
+  Exits: N->room 49 [flags=0x1], W->room 45
+  Desc[52]: Piles of rotting, empty sacks lie in the center of theroom and broken cabinets line the walls.  Obviously sacked of its ...
+
+Room  49: You are in the portrait gallery
+  Exits: NONE (dead end or special)
+  Desc[53]: Hanging on display are an astonishing         collection of proud men, women, and children, with the bloom of purple gra...
+
+Room  50: You are in a cell in the dungeon
+  Exits: E->room 55, W->room 48
+  Desc[54]: The cell is locked.  You fell in through a   hole high in the ceiling.  Prisoners of long ago have written cryptic messa...
+
+Room  51: You are in a misty cavern
+  Exits: S->room 54, NW->room 59
+  Desc[55]: Great whirlpools of evil-smelling vapor rise upward from pools of bubbling pitch, clouding your vision.  Small puffs of ...
+
+Room  52: You are in the catacombs
+  Exits: N->room 53, E->room 58, NW->room 61
+  Desc[56]: Most of the tunnels have collapsed, but within the   walls of the few that remain are seen recesses for the graves of Ch...
+
+Room  53: You are at the edge of a chasm
+  Exits: E->room 59 [flags=0x1], W->room 52
+  Desc[57]: The chasm is too wide to cross; the other side cannot be seen.  Small tunnels lead to the north, east, and southeast.
+...
+
+Room  54: You are at the Hall of Dragons
+  Exits: E->room 60, NE->room 59
+  Desc[58]: Fierce fire-breathing dragons are positioned infront of a crevice in the rocks to the east.  They are excited by your pr...
+
+Room  55: You are at a high wall of ice
+  Exits: E->room 63, NE->room 60, NW->room 63
+  Desc[60]: The wall is too slippery to climb.  A gelid     breeze blows down from the wall, causing your torch to burn low.  Above ...
+
+Room  56: You are in the glycerin caverns
+  Exits: E->room 61, W->room 54, U->room 54, D->room 61
+  Desc[61]: This strange Precambrian netherworld is       forested with speleothems, and decorated in places with hanging curtains o...
+
+Room  57: You are on a steep E/W incline
+  Exits: W->room 55, NE->room 61, NW->room 63, SE->room 53, SW->room 56
+
+Room  58: You are in the catacombs
+  Exits: N->room 60, S->room 60, E->room 62, W->room 56, NE->room 60, NW->room 60, SE->room 60, SW->room 57
+  Desc[62]: Most of the tunnels have collapsed, but within the   walls of the few that remain are seen recesses for the graves of Ch...
+
+Room  59: You are in a large cave of stalactites
+  Exits: W->room 58, SE->room 54, SW->room 59
+  Desc[63]: Magnificent ice formations protrude    from every inch of the ceiling.  The floor is coated with transparent sheets of i...
+
+Room  60: You are at a river's edge
+  Exits: S->room 63, W->room 60
+  Desc[64]: The river is to the east, and flows north to south. Sheets of calcite flowstone have formed over nearby silt beds, and c...
+
+Room  61: You are in a low icy passage
+  Exits: N->room 62, S->room 63, E->room 63, W->room 60, NE->room 66, NW->room 63, SE->room 59, SW->room 60
+  Desc[65]: This passage connects two large caves to the westand south.  On the damp clay-covered walls appear finger tracings of ge...
+
+Room  62: You are in the glistening caverns
+  Exits: U->room 67
+  Desc[66]: Calcite greatly predominates, followed in   approximate order of abundance by gypsum, ice, aragonite, the iron mineral  ...
+
+Room  63: You are in the pit
+  Exits: NE->room 67
+  Desc[67]: Warning!  You have entered the home of the Zimbu!  (Wild   Boys create offspring known as Zimbus.  In the natural darkne...
+
+Room  64: You are at the side of a large waterfall
+  Exits: SW->room 63
+  Desc[68]: The water pours out of a crevice highabove and runs down to the west.  Perhaps attracted by mist from the cascade,   tro...
+
+Room  65: You are next to a bridge
+  Exits: S->room 68, D->room 64, SW->room 65
+  Desc[69]: This rickety bridge spans a river too dangerous to   swim.  A maze of caves is seen to the southwest.
+...
+
+Room  66: You are at the edge of a huge pit
+  Exits: N->room 68, S->room 69, E->room 68, W->room 67
+  Desc[71]: Years ago, a surface stream entered here,   cutting the vertical shaft of the pit and leaving a record of scallops, cave...
+
+Room  67: You are in the cave of winds
+  Exits: E->room 68 [flags=0x1]
+  Desc[72]: Centuries of slowly seeping water have formed    delicate helictites that project at many angles from the ceiling, walls...
+
+Room  68: You are in the troll's grotto
+  Exits: E->room 77, D->room 76
+  Desc[73]: An ugly troll is chained in front of a low      tunnel to the east.  He sits in a pile of his own waste, and mutters gut...
+
+Room  69: You are in the furnace room
+  Exits: S->room 72, E->room 86, NW->room 146 [flags=0x1]
+  Desc[75]: This is where the ninth lord of the castle, a     propounder of eugenic theory, disposed of the bodies of heretics.  The...
+
+Room  70: You are at a champagne fountain
+  Exits: N->room 71, E->room 87, NE->room 146 [flags=0x1]
+  Desc[76]: Bubbly champagne pours out of a sculptured    fish's mouth at the top and into a shallow pool at the bottom.  There are ...
+
+Room  71: You are in the servants' chambers
+  Exits: E->room 80
+  Desc[77]: Here lived the drudge, the erk, the groom   and porter, the char and gong farmer, the footman, lackey, cook, and page.  ...
+
+Room  72: You are at the western battlements
+  Exits: E->room 81
+  Desc[78]: The crenels here are fitted with shutters  hanging on swivels anchored on the merlons on either side.  These shutters ga...
+
+Room  73: You are on the west balcony
+  Exits: E->room 83
+  Desc[79]: A curved iron-work railing fends you from the     precipitous drop.  From here you command a view of the gardens, with t...
+
+Room  74: You are in a garderobe
+  Exits: U->room 70
+  Desc[80]: Hundreds of thirsty flies attempt to suck the moisture from your eyes as you stumble about in a daze.  The buzzing is de...
+
+Room  75: You are in the coal cellar
+  Exits: S->room 78, E->room 85, W->room 70, U->room 85
+  Desc[81]: As you descended, something up the stairs did moan.The carbonized bones of martyrs crumble under your feet, sending plum...
+
+Room  76: You are in the nursery
+  Exits: N->room 77, NE->room 86 [flags=0x1]
+  Desc[82]: Frescoes of heroic, mythological, and allegorical      figures are perhaps easier to live with in their present mottled ...
+
+Room  77: You are in a small alcove
+  Exits: D->room 80
+  Desc[83]: It is a room to delight the senses, decorated       lasciviously, with flamboyant swags and putti, fantastic birds and d...
+
+Room  78: You are in the west tower
+  Exits: S->room 81, W->room 73, U->room 146 [flags=0x1]
+  Desc[85]: The relentless storm rages around you.  You can get down using the ladder you climbed to get here.
+...
+
+Room  79: You are at a tumbled-down staircase
+  Exits: N->room 80, S->room 82, E->room 89, W->room 74
+  Desc[86]: The large stones that once led to the westtower are no longer here.  The moon shines in through the slit of an arrow loo...
+
+Room  80: You are in the oratory
+  Exits: N->room 81, S->room 83, NW->room 90
+  Desc[87]: This room was reserved for the private orisons of the  lord and his family.  Although the gilt ironwork and frescoes are...
+
+Room  81: You are in the salon
+  Exits: N->room 82, S->room 84 [flags=0x1], E->room 90, W->room 75, D->room 92
+  Desc[88]: The splendor of this room is in the furnishings: tables, chairs, dressers, and taborets decorated in tortoise shell and ...
+
+Room  82: You are in the lord's bedchamber
+  Exits: N->room 83, D->room 85
+  Desc[89]: The bed is a thick balk of timber worn clean through at one end by the scraping of spurs.  A painting of the lord of the...
+
+Room  83: You are in the lord's closet
+  Exits: U->room 84, D->room 77
+  Desc[90]: A forbidding staircase leads downward.  The      lord's bedchamber can be seen to the north.
+...
+
+Room  84: You are on a spiral staircase
+  Exits: S->room 87, W->room 71, U->room 93, SW->room 78
+  Desc[91]: The stairs may have provided a secret escape forthe lord and his family.
+...
+
+Room  85: You are in the tearoom
+  Exits: N->room 86, W->room 72, SE->room 146 [flags=0x1]
+  Desc[92]: It is a large, white, high-ceilinged room with black   curtains and a painted sky above.  The surface of the walls is a ...
+
+Room  86: You are on the loggia
+  Exits: U->room 96
+  Desc[93]: The room is roofed but open to the south; only a        colonnade separates you from tonight's storm.  But the view from...
+
+Room  87: You are in the witches' repository
+  Exits: S->room 98, W->room 81
+  Desc[94]: This room, consecrated to the Evil One, is pentagonal, and contains the monolithic statue of a goat standing watch from ...
+
+Room  88: You are in the parlor
+  Exits: S->room 91, E->room 98, W->room 83, SE->room 82
+  Desc[96]: A long, low-ceilinged room, the parlor is decorated     primarily in hand-printed calico, and adorned with fine German r...
+
+Room  89: You are in the guest room
+  Exits: N->room 90, NW->room 99
+  Desc[98]: The grossest, most tasteless form of heavy gilding  is combined with carving on a scale far too big for this room.  Swag...
+
+Room  90: You are in the drawing room
+  Exits: U->room 83
+  Desc[99]: Painted Ionic columns stand sentinel around the   walls, and elaborate architraves and pediments crown the doors and win...
+
+Room  91: You are in a secret chamber
+  Exits: S->room 94, U->room 100, D->room 86
+  Desc[100]: The concealment of the chamber in the groin of thevaulting enabled the lord to overhear every word spoken in the window ...
+
+Room  92: You are on a set of stone steps
+  Exits: N->room 93
+  Desc[101]: The steps continue upward, and a door is off  to the south.
+...
+
+Room  93: You are in a turret
+  Exits: S->room 96, NW->room 96
+  Desc[102]: Wind blows in from the five lancet windows surrounding    you.  At your feet is an unusual servants' bell.  It is made o...
+
+Room  94: You are in the laboratory
+  Exits: N->room 95 [flags=0x1], U->room 97, D->room 88, NE->room 101 [flags=0x1], SE->room 95 [flags=0x1]
+  Desc[104]: The acrid smell of chemicals burns your nostrils as you enter the room.  Through the cobwebs you perceive many broken, r...
+
+Room  95: You are in a room of witches
+  Exits: U->room 103, D->room 96
+  Desc[106]: The rough-hewn walls shine greasily from the     untold thousands of animal sacrifices performed within this room.  It s...
+
+Room  96: You are on a wall-stair
+  Exits: N->room 89, S->room 99, W->room 90
+
+Room  97: You are in the sewing room
+  Exits: N->room 98, E->room 104, SE->room 91
+  Desc[108]: The room is ample and lovely, softly curved and    full of life: finished in flat cherry, which creates and enhances the...
+
+Room  98: You are in the morning room
+  Exits: D->room 93
+  Desc[109]: Although slightly faded, the chartreuse wallpaper still attests to the primary function of this room: to provide the pro...
+
+Room  99: You are in the cupola
+  Exits: SW->room 96
+  Desc[110]: This is the highest point in the castle.  From here you can see the moon, city lights, the endless thicket, and, of cour...
+
+Room 100: You are in the sorcerer's chamber
+  Exits: D->room 109
+  Desc[111]: The walls rise to a point too high to be    visible, thus creating a pyramidal space within the room.  The floor feels  ...
+
+Room 101: You are in the north tower
+  Exits: S->room 104, D->room 97 [flags=0x1], NE->room 109
+  Desc[113]: A thin wisp of smoke travels up from somewhere     below, but even leaning far out from between the merlons you cannot q...
+
+Room 102: You are in the library
+  Exits: N->room 103, S->room 105 [flags=0x1], W->room 99
+  Desc[114]: The room is of delicate polychrome decoration, with an abundance of fine, detailed carvings throughout.  The carved fire...
+
+Room 103: You are in the boudoir
+  Exits: N->room 104, S->room 106
+  Desc[116]: It is a room warm and much treasured, the room of one  who has cared for things and people.  A lady's bureau and mirror ...
+
+Room 104: You are in a gloomy hallway
+  Exits: N->room 105
+  Desc[118]: The floor is covered with fragments of broken     glass.  The paintings here seem to be all alive and the very clock on ...
+
+Room 105: You are at the windlass
+  Exits: U->room 114
+  Desc[119]: Ropes come from the windlass and go into small holes  in the floor.  Over the windlass is a limp awning which, although ...
+
+Room 106: You are in a room of explosives
+  Exits: S->room 109
+  Desc[121]: The room is filled with large boxes and cratesof various sizes.  One of the boxes is overturned and ticking; perhaps the...
+
+Room 107: You are at the northern battlements
+  Exits: N->room 108, U->room 102, D->room 103, SW->room 103
+  Desc[123]: You walk on the alure behind the parapet  wall.  Holes in the base of a wooden hoarding here enable you to see to the ba...
+
+Room 108: You are on a set of stone steps
+  Exits: S->room 110 [flags=0x1]
+  Desc[124]: The steps ascend a tower, and doors are seen  to the north and southwest.
+...
+
+Room 109: You are in a small closet
+  Exits: N->room 110, S->room 112, U->room 116
+  Desc[125]: The closet door closed behind you as you entered.
+...
+
+Room 110: You are in the conservatory
+  Exits: N->room 111, S->room 113
+  Desc[126]: Passage along the marble walks of this capacious  room is made difficult by the overgrowth of luxuriant tropical plants....
+
+Room 111: You are in the studio
+  Exits: N->room 112, E->room 118, D->room 114 [flags=0x1]
+  Desc[127]: The room is very pleasing, not very large, and rather   earlier in style than the surrounding rooms; wainscoted, with a ...
+
+Room 112: You are in the den
+  Exits: U->room 113, D->room 107
+  Desc[128]: Poor weatherproofing has allowed the rain to enter and     destroy the once-prized furnishings.  In its day, this room m...
+
+Room 113: You are in a twisted up-and-down tunnel
+  Exits: E->room 120, NE->room 119, NW->room 121
+
+Room 114: You are in the execution room
+  Exits: D->room 111
+  Desc[130]: Blood drips from a chopping block in the center of the room.  Black passages exit in the eastern directions.
+...
+
+Room 115: You are in the garret
+  Exits: S->room 118
+  Desc[131]: You stoop to keep your head from banging against the    shell-shaped slate roof.  At one end of the garret is a square o...
+
+Room 116: You are in the study
+  Exits: N->room 117, E->room 123, W->room 113
+  Desc[132]: The study is octagonal, formed out of an angle-turret,   with mullioned windows on one side.  A dome, starred with roset...
+
+Room 117: You are in the theater
+  Exits: S->room 120, E->room 124, SW->room 115
+  Desc[133]: Although small, the theater boasts an Elizabethan      stage, elaborate loge seating for fifty, and considerable standin...
+
+Room 118: You are in a dank corridor
+  Exits: N->room 119, W->room 115
+  Desc[134]: The light from your torch can barely penetrate to  the fungus rotting on the slimy walls.  To get out, go east, south, o...
+
+Room 119: You are at the skull and bones
+  Exits: SE->room 115
+  Desc[135]: The room here is strangely decorated with roughattempts at fresco, with which someone has amused himself: red stars in p...
+
+Room 120: You are in the torture chamber
+  Exits: S->room 123, E->room 132, NE->room 131
+  Desc[136]: Prisoners' resolve and courage were tested hereby rack, boot, iron maiden, wheel, and grill.  Some secateurs lie here, t...
+
+Room 121: You are in the trophy room
+  Exits: N->room 122 [flags=0x1], E->room 133, W->room 118 [flags=0x1], NE->room 132 [flags=0x1], NW->room 134 [flags=0x1]
+  Desc[138]: The heads of many an unfortunate beast still are   seen fastened to wooden mounts: rhinoceros, leopard, boar, elk, sheep...
+
+Room 122: You are in the menagerie
+  Exits: E->room 134, W->room 119
+  Desc[139]: Here a Bengal tiger paces back and forth!  The       creature looks good-natured and slow to anger: still it has very lo...
+
+Room 123: You are in a mural passage
+  Exits: S->room 126, NE->room 134
+  Desc[141]: This narrow passage runs east to west.
+...
+
+Room 124: You are in the smoking room
+  Exits: N->room 125, S->room 127, W->room 138 [flags=0x1]
+  Desc[142]: The odor of fine tobacco is noticeable to this    day.  The room is panelled with creamy-painted panelling, the ceilings...
+
+Room 125: You are in the solar
+  Exits: N->room 126
+  Desc[143]: Two candles on the fireplace mantle illuminate a large   oil-painting of the castle.  The painting is so thoroughly besm...
+
+Room 126: You are in the armory
+  Exits: E->room 138
+  Desc[145]: Gone are the cuirasses, coats of mail, steel helmets,   glaives, bows, dirks, and claymores that once helped constitute ...
+
+Room 127: You are in the war room
+  Exits: S->room 130
+  Desc[146]: Plans for battle with neighboring castles were createdhere.  On the wall is written "We pray for mercy one hour, and be ...
+
+Room 128: You are in the Long Gallery
+  Exits: N->room 129, S->room 131
+  Desc[147]: You entered from the south, through elaborate     doors decorated by butter-gold on ivory panels.  At the far end of the...
+
+Room 129: You are in a room of gilt
+  Exits: N->room 130, NW->room 132, SW->room 122
+  Desc[148]: The quantity of gilt imbedded into these walls makesthe atmosphere of the room heavy and uncomfortable.  You find that i...
+
+Room 130: You are in the map room
+  Exits: W->room 122, SE->room 131, SW->room 123
+  Desc[149]: Maps painted on the walls depict the castle and       surrounding landscape.  Much of the paint has peeled, but you can ...
+
+Room 131: You are in the Room of Three
+  Exits: S->room 134, W->room 123
+  Desc[150]: Everything is in threes here: three walls, three doors, and (oddly enough) three unicorn heads perched high on a wall; t...
+
+Room 132: You are in the Salle du Pendule
+  Exits: N->room 133, S->room 135, E->room 41, W->room 124, D->room 41, SE->room 123, SW->room 125
+  Desc[151]: The ticking of the many clocks in this room   provides a mysterious sound that can be heard from nearby rooms.  Doors le...
+
+Room 133: You are in the rotunda
+  Exits: N->room 134, S->room 136, E->room 141, NW->room 142
+  Desc[152]: It is a clean room -- clean not merely in the sense of dusted and unlittered, but clean in its lines and proportions, cl...
+
+Room 134: You are in the music room
+  Exits: N->room 135, S->room 137
+  Desc[153]: Over the centuries, castle musicians have performed on lutes, theorbos and citterns, flutes and recorders, bassoons, bag...
+
+Room 135: You are in a candled hallway
+  Exits: N->room 136, E->room 143
+  Desc[155]: On all sides of the hall, small corbels support  tapered candles which burn steadily.  The hall extends from north to so...
+
+Room 136: You are in the game room
+  Exits: E->room 126, W->room 128
+  Desc[157]: It is basically rectangular, but its ceiling has beenformed into a painted dome and its corners cut diagonally to make f...
+
+Room 137: You are in a low E/W passage
+  Exits: D->room 140
+
+Room 138: You are in the east tower
+  Exits: S->room 141, E->room 144, U->room 139, D->room 141
+  Desc[158]: The tower serves as a lookout high atop the east    bartizan, and is surrounded by a wall ornamented with ensiform finia...
+
+Room 139: You are on a set of stone steps
+  Exits: N->room 140, W->room 135
+  Desc[159]: The steps lead upward, and a door is seen off to the east.  Another exit is to the south.
+...
+
+Room 140: You are in a slippery hallway
+  Exits: W->room 136, SE->room 135
+  Desc[160]: Grimy water gurgles out of a drain-pipe at the  base of a set of stairs to the north.  A trickle of rainwater also enter...
+
+Room 141: You are in the chapel
+  Exits: W->room 137
+  Desc[161]: Two barefooted penitents standing in stone on each side of the northwest entrance are symbolic of the lord's conversion ...
+
+Room 142: You are in a bastion
+  Exits: W->room 140
+  Desc[163]: You entered from the gorge to your west.  The bastion    consists of two flanks and two faces.  Each flank defends the a...
+

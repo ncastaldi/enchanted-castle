@@ -1,0 +1,419 @@
+{
+  "total_verbs": 98,
+  "table_offset_in_EC_DAT": 10080,
+  "record_size": 6,
+  "notes": "Parser matches first L characters of player input against each entry. 'inven'=inventory, 'unloc'=unlock, 'insid'=inside, 'outsi'=outside, 'verbo'=verbose, 'proli'=prolix, 'resto'=restore, 'delet'=delete, 'conti'=continue, 'strai'=straight, 'liste'=listen, 'remov'=remove, 'attac'=attack, 'destr'=destroy, 'smash' completes the list.",
+  "directions": [
+    "north",
+    "south",
+    "east",
+    "west",
+    "up",
+    "down",
+    "ne",
+    "se",
+    "nw",
+    "sw"
+  ],
+  "movement": [
+    "back",
+    "jump",
+    "go",
+    "run",
+    "walk"
+  ],
+  "all_verbs": [
+    {
+      "id": 0,
+      "word": "north"
+    },
+    {
+      "id": 1,
+      "word": "south"
+    },
+    {
+      "id": 2,
+      "word": "east"
+    },
+    {
+      "id": 3,
+      "word": "west"
+    },
+    {
+      "id": 4,
+      "word": "up"
+    },
+    {
+      "id": 5,
+      "word": "down"
+    },
+    {
+      "id": 6,
+      "word": "ne"
+    },
+    {
+      "id": 7,
+      "word": "se"
+    },
+    {
+      "id": 8,
+      "word": "nw"
+    },
+    {
+      "id": 9,
+      "word": "sw"
+    },
+    {
+      "id": 10,
+      "word": "back"
+    },
+    {
+      "id": 11,
+      "word": "jump"
+    },
+    {
+      "id": 12,
+      "word": "go"
+    },
+    {
+      "id": 13,
+      "word": "run"
+    },
+    {
+      "id": 14,
+      "word": "walk"
+    },
+    {
+      "id": 15,
+      "word": "inven"
+    },
+    {
+      "id": 16,
+      "word": "look"
+    },
+    {
+      "id": 17,
+      "word": "unloc"
+    },
+    {
+      "id": 18,
+      "word": "open"
+    },
+    {
+      "id": 19,
+      "word": "raise"
+    },
+    {
+      "id": 20,
+      "word": "light"
+    },
+    {
+      "id": 21,
+      "word": "cross"
+    },
+    {
+      "id": 22,
+      "word": "over"
+    },
+    {
+      "id": 23,
+      "word": "ring"
+    },
+    {
+      "id": 24,
+      "word": "enter"
+    },
+    {
+      "id": 25,
+      "word": "insid"
+    },
+    {
+      "id": 26,
+      "word": "exit"
+    },
+    {
+      "id": 27,
+      "word": "outsi"
+    },
+    {
+      "id": 28,
+      "word": "leave"
+    },
+    {
+      "id": 29,
+      "word": "sit"
+    },
+    {
+      "id": 30,
+      "word": "eat"
+    },
+    {
+      "id": 31,
+      "word": "drink"
+    },
+    {
+      "id": 32,
+      "word": "terse"
+    },
+    {
+      "id": 33,
+      "word": "verbo"
+    },
+    {
+      "id": 34,
+      "word": "proli"
+    },
+    {
+      "id": 35,
+      "word": "climb"
+    },
+    {
+      "id": 36,
+      "word": "swim"
+    },
+    {
+      "id": 37,
+      "word": "dive"
+    },
+    {
+      "id": 38,
+      "word": "turn"
+    },
+    {
+      "id": 39,
+      "word": "shelv"
+    },
+    {
+      "id": 40,
+      "word": "clean"
+    },
+    {
+      "id": 41,
+      "word": "rinse"
+    },
+    {
+      "id": 42,
+      "word": "wash"
+    },
+    {
+      "id": 43,
+      "word": "wear"
+    },
+    {
+      "id": 44,
+      "word": "empty"
+    },
+    {
+      "id": 45,
+      "word": "pour"
+    },
+    {
+      "id": 46,
+      "word": "read"
+    },
+    {
+      "id": 47,
+      "word": "dig"
+    },
+    {
+      "id": 48,
+      "word": "find"
+    },
+    {
+      "id": 49,
+      "word": "how"
+    },
+    {
+      "id": 50,
+      "word": "what"
+    },
+    {
+      "id": 51,
+      "word": "when"
+    },
+    {
+      "id": 52,
+      "word": "where"
+    },
+    {
+      "id": 53,
+      "word": "who"
+    },
+    {
+      "id": 54,
+      "word": "why"
+    },
+    {
+      "id": 55,
+      "word": "dance"
+    },
+    {
+      "id": 56,
+      "word": "pray"
+    },
+    {
+      "id": 57,
+      "word": "lower"
+    },
+    {
+      "id": 58,
+      "word": "quit"
+    },
+    {
+      "id": 59,
+      "word": "save"
+    },
+    {
+      "id": 60,
+      "word": "resto"
+    },
+    {
+      "id": 61,
+      "word": "delet"
+    },
+    {
+      "id": 62,
+      "word": "state"
+    },
+    {
+      "id": 63,
+      "word": "conti"
+    },
+    {
+      "id": 64,
+      "word": "strai"
+    },
+    {
+      "id": 65,
+      "word": "liste"
+    },
+    {
+      "id": 66,
+      "word": "stand"
+    },
+    {
+      "id": 67,
+      "word": "help"
+    },
+    {
+      "id": 68,
+      "word": "fill"
+    },
+    {
+      "id": 69,
+      "word": "get"
+    },
+    {
+      "id": 70,
+      "word": "grab"
+    },
+    {
+      "id": 71,
+      "word": "remov"
+    },
+    {
+      "id": 72,
+      "word": "take"
+    },
+    {
+      "id": 73,
+      "word": "drop"
+    },
+    {
+      "id": 74,
+      "word": "throw"
+    },
+    {
+      "id": 75,
+      "word": "kill"
+    },
+    {
+      "id": 76,
+      "word": "attac"
+    },
+    {
+      "id": 77,
+      "word": "hit"
+    },
+    {
+      "id": 78,
+      "word": "slay"
+    },
+    {
+      "id": 79,
+      "word": "pet"
+    },
+    {
+      "id": 80,
+      "word": "shake"
+    },
+    {
+      "id": 81,
+      "word": "wave"
+    },
+    {
+      "id": 82,
+      "word": "break"
+    },
+    {
+      "id": 83,
+      "word": "destr"
+    },
+    {
+      "id": 84,
+      "word": "smash"
+    },
+    {
+      "id": 85,
+      "word": "burn"
+    },
+    {
+      "id": 86,
+      "word": "play"
+    },
+    {
+      "id": 87,
+      "word": "kiss"
+    },
+    {
+      "id": 88,
+      "word": "blow"
+    },
+    {
+      "id": 89,
+      "word": "extin"
+    },
+    {
+      "id": 90,
+      "word": "snuff"
+    },
+    {
+      "id": 91,
+      "word": "feed"
+    },
+    {
+      "id": 92,
+      "word": "say"
+    },
+    {
+      "id": 93,
+      "word": "chop"
+    },
+    {
+      "id": 94,
+      "word": "cut"
+    },
+    {
+      "id": 95,
+      "word": "use"
+    },
+    {
+      "id": 96,
+      "word": "put"
+    },
+    {
+      "id": 97,
+      "word": "place"
+    }
+  ]
+}
