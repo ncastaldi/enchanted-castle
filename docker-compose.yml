@@ -1,0 +1,26 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app/backend
+      - ./frontend:/app/frontend
+    env_file:
+      - .env
+    restart: unless-stopped
+    # Uncomment when DB type is decided:
+    # depends_on:
+    #   - db
+
+  # db:
+  #   image: postgres:16-alpine   # or: image: sqlite — replace with chosen DB
+  #   environment:
+  #     POSTGRES_DB: enchanted_castle
+  #     POSTGRES_USER: ${DB_USER}
+  #     POSTGRES_PASSWORD: ${DB_PASSWORD}
+  #   volumes:
+  #     - db_data:/var/lib/postgresql/data
+
+# volumes:
+#   db_data:
