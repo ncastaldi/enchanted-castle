@@ -69,12 +69,12 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 - `pyproject.toml`, `Dockerfile`, `docker-compose.yml`, `.env.example` created
 - CI workflow (ruff + pytest) added
 - Folder structure scaffolded: `backend/`, `frontend/`, `db/`, `tests/`
+- `backend/main.py` — FastAPI app skeleton: lifespan loads world data into `app.state`, `GET /health`, `WebSocket /ws/game` echo stub, static files served from `frontend/`
 
 ### In progress
 - (nothing yet)
 
 ### Not started
-- `backend/main.py` — FastAPI app skeleton
 - `backend/engine/` — parser, world loader, command dispatcher
 - `backend/data/` — import rooms/objects from `docs/specs/` JSON files
 - `frontend/index.html` + `terminal.js` + `style.css` — browser terminal UI
@@ -109,4 +109,4 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 
 ---
 
-*Last updated: 2026-09-10 | Session: init-project — initial scaffolding*
+*Last updated: 2026-09-10 | Session: fastapi-app-skeleton — backend/main.py*
