@@ -69,16 +69,15 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 - `pyproject.toml`, `Dockerfile`, `docker-compose.yml`, `.env.example` created
 - CI workflow (ruff + pytest) added
 - Folder structure scaffolded: `backend/`, `frontend/`, `db/`, `tests/`
-- `backend/main.py` — FastAPI app skeleton (health check, `/ws/game` WebSocket echo, static frontend mount, world-data loaded via lifespan)
+- `backend/main.py` — FastAPI app skeleton (health check, `/ws/game` WebSocket wired to the game engine, static frontend mount, world-data loaded from `backend/data/`)
 - `frontend/index.html` + `terminal.js` + `style.css` — browser terminal UI (dumb terminal over `/ws/game`, dark/amber terminal aesthetic per `frontend/README.md`)
+- `backend/data/` + `backend/models/` — 143 rooms, 33 objects, 98 verbs loaded from `docs/specs/` at import time into typed module-level constants; dangling exit references sanitized at load time
+- `backend/engine/` + first playable room traversal — prefix-matching verb/direction parser, movement/look/inventory-stub command dispatcher, no puzzles or object pickup yet (start room: gatehouse, room 31)
 
 ### In progress
 - (nothing yet)
 
 ### Not started
-- `backend/engine/` — parser, world loader, command dispatcher
-- `backend/data/` — import rooms/objects from `docs/specs/` JSON files
-- First playable room traversal (no puzzles yet)
 - Save point system
 - DB schema decision + implementation
 - Multiplayer WebSocket sessions
@@ -109,4 +108,4 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 
 ---
 
-*Last updated: 2026-09-11 | Session: frontend-terminal-ui — browser terminal shell built*
+*Last updated: 2026-09-11 | Session: backend-engine — real room traversal wired up*
