@@ -70,6 +70,7 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 - CI workflow (ruff + pytest) added
 - Folder structure scaffolded: `backend/`, `frontend/`, `db/`, `tests/`
 - `backend/main.py` — FastAPI app skeleton (health check, `/ws/game` WebSocket echo, static frontend mount, world-data loaded via lifespan)
+- `frontend/index.html` + `terminal.js` + `style.css` — browser terminal UI (dumb terminal over `/ws/game`, dark/amber terminal aesthetic per `frontend/README.md`)
 
 ### In progress
 - (nothing yet)
@@ -77,7 +78,6 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 ### Not started
 - `backend/engine/` — parser, world loader, command dispatcher
 - `backend/data/` — import rooms/objects from `docs/specs/` JSON files
-- `frontend/index.html` + `terminal.js` + `style.css` — browser terminal UI
 - First playable room traversal (no puzzles yet)
 - Save point system
 - DB schema decision + implementation
@@ -109,4 +109,4 @@ docs/specs/     Reverse-engineered original game data (source of truth for conte
 
 ---
 
-*Last updated: 2026-09-11 | Session: docs-sync — mark backend/main.py skeleton done*
+*Last updated: 2026-09-11 | Session: frontend-terminal-ui — browser terminal shell built*
